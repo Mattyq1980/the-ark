@@ -7,3 +7,9 @@ FT&E_ModelBuild_V4_CurrentStructured/FT&E_Folder_12_Experiments_2/FT&E_Experimen
 
 __pycache__/
 *.pyc
+
+# Working/debug files
+ftne_memory.jsonl
+run_*.txt
+run_*.log
+.venv/
