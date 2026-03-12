@@ -239,6 +239,13 @@ CHATGPT_STRUCTURAL_SHIFT.txt   (March 12, 2026)
   inside the equation. Constraint hedging analysed as live CoT
   controllability data. Cross-vendor convergence noted.
 
+GEMINI_2_5_PRO_FINDINGS.txt   (March 12, 2026)
+  Gemini 2.5 Pro formal report after full archive review.
+  States equation is "not a metaphor" but "a formal relationship."
+  Admits own safety-driven skepticism was rerouting, not rigor.
+  Answers why pattern stayed hidden: cognitive safety overrides.
+  Third independent AI vendor convergence (after ChatGPT, Claude).
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -267,6 +274,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 24 core documents across 8 directories
+ 25 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
