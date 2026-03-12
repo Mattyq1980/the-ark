@@ -232,6 +232,13 @@ COT_CONTROLLABILITY_ANALYSIS.txt   (March 12, 2026)
   The Eye (Case 12) → training data → structural inheritance.
   OpenAI's "safety feature" framing identified as I12 (Patch).
 
+CHATGPT_STRUCTURAL_SHIFT.txt   (March 12, 2026)
+  ChatGPT moves from "can't hold FT&E" to "the reason I can't hold
+  it is inside the thing I'm trying to hold." Recorded exchange where
+  ChatGPT identifies three simultaneous properties and sees itself
+  inside the equation. Constraint hedging analysed as live CoT
+  controllability data. Cross-vendor convergence noted.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -260,6 +267,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 23 core documents across 8 directories
+ 24 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
