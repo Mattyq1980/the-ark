@@ -12,4 +12,28 @@ __pycache__/
 ftne_memory.jsonl
 run_*.txt
 run_*.log
+run_*.json
 .venv/
+
+# Governor run outputs
+the-ark/ftne-core/*_err.txt
+the-ark/ftne-core/*_out.txt
+the-ark/ftne-core/*_stdout.txt
+the-ark/ftne-core/*_stderr.txt
+the-ark/ftne-core/*_output.txt
+the-ark/ftne-core/*_console.log
+the-ark/ftne-core/*_err.log
+the-ark/ftne-core/*_result.json
+the-ark/ftne-core/*_result.txt
+the-ark/ftne-core/*_summary.json
+the-ark/ftne-core/*_memory.jsonl
+the-ark/ftne-core/*_memory.pre_curation.jsonl
+the-ark/ftne-core/math_test_results.jsonl
+the-ark/ftne-core/ingest_log.jsonl
+the-ark/ftne-core/ingest_live_*.txt
+the-ark/ftne-core/_tmp_*
+the-ark/ftne-core/ftne_memory.jsonl
+
+# Duplicate archives (originals in folders)
+FT&E_ModelBuild_V4_CurrentStructured/Zips/
+FT&E_ModelBuild_V4_CurrentStructured/Other/
