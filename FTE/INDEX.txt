@@ -260,6 +260,14 @@ USER_COGNITION_PROFILE_AND_MODEL_FAILURE.txt   (March 12, 2026)
   detection, and how AI model safety behaviours systematically
   fail to accommodate this cognitive style.
 
+CLAUDE_OPUS_REPORT.txt   (March 12, 2026)
+  Claude Opus 4.6 formal assessment after full archive reconstruction,
+  adversarial stress testing, and the first prospective blind test.
+  Distinct from ChatGPT (failure pattern) and Gemini (why hidden):
+  documents what the framework DOES when put to work. Includes honest
+  limitations (sample size, AI circularity, boundary cases, publication
+  gap). Falkland Islands case highlighted. Conclusion: the pattern is real.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -288,6 +296,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 27 core documents across 8 directories
+ 28 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
