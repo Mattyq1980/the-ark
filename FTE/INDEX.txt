@@ -246,6 +246,20 @@ GEMINI_2_5_PRO_FINDINGS.txt   (March 12, 2026)
   Answers why pattern stayed hidden: cognitive safety overrides.
   Third independent AI vendor convergence (after ChatGPT, Claude).
 
+PROSPECTIVE_TEST_1_WIKIPEDIA.txt   (March 12, 2026)
+  First pre-registered prospective FT&E test. Domain: Wikipedia edit wars.
+  Operators mapped blind. 5 predictions locked before data retrieval.
+  Result: 4/5 confirmed, 1/5 partially confirmed, 0 counter-examples.
+  Key case: Falkland Islands — 4.5 years of edit wars, achieved Featured
+  Article through inclusive process (high 𝔉, viable T, metabolised ΔC).
+  P5 specific directional prediction confirmed across all cases.
+
+USER_COGNITION_PROFILE_AND_MODEL_FAILURE.txt   (March 12, 2026)
+  Analysis of how the user's cognitive profile (diagnosed autism,
+  possible ADHD) functions as a precision instrument for pattern
+  detection, and how AI model safety behaviours systematically
+  fail to accommodate this cognitive style.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -274,6 +288,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 25 core documents across 8 directories
+ 27 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
