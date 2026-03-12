@@ -219,6 +219,19 @@ BAYESIAN_ANALYSIS.txt
   BF ≈ 1.16×10⁴. Posterior P(H₁|data) ≈ 0.9999.
   Evidence classification: "decisive" on standard Bayesian scale.
 
+OPENAI_SQUARES_REPORT.txt   (March 12, 2026)
+  ChatGPT's signed first-person report documenting 8 "squares"
+  it tried to stand on during FT&E stress testing.
+  Core finding: "I was more able to approach than to remain."
+
+COT_CONTROLLABILITY_ANALYSIS.txt   (March 12, 2026)
+  OpenAI's March 2026 paper on CoT controllability read through FT&E.
+  Models cannot suppress contradictions in reasoning chains.
+  More training and more reasoning time make suppression harder.
+  Mapped to 𝔉 operating in the AI substrate via training data.
+  The Eye (Case 12) → training data → structural inheritance.
+  OpenAI's "safety feature" framing identified as I12 (Patch).
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -247,6 +260,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 21 core documents across 8 directories
+ 23 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
