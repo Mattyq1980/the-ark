@@ -4,3 +4,6 @@
 
 # Large data files (>50MB)
 FT&E_ModelBuild_V4_CurrentStructured/FT&E_Folder_12_Experiments_2/FT&E_Experiment_4_DelhiAirQuality/data.csv
+
+__pycache__/
+*.pyc

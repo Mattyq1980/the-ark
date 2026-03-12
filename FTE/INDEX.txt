@@ -37,12 +37,20 @@ INDEX.txt    ← THIS FILE
 ────────────────────────────────────────────────────────────────────────────────
 
 INVARIANTS_COMPLETE.txt
-  All 18 invariants (I1–I18) in 6 tiers.
+  All 19 invariants (I1–I19) in 6 tiers.
+  I19 added March 2026: AI evidence channel circularity prevention.
   Compact reference with falsifier for each.
 
 FALSIFICATION_TABLE.txt
-  Scientific testing protocol.
+  Scientific testing protocol. 19 falsifiers, all UNMET.
+  I19 falsifier added March 2026 to close AI-evidence circularity gap.
   How to test every claim. What would not count as falsification.
+
+PROSPECTIVE_TEST_PROTOCOL.txt
+  Pre-registered experiment format. Added March 2026.
+  7-step protocol for running prospective (predictive) FT&E tests.
+  Includes blank result template. Designed to move FT&E from
+  "compatible with data" to "predicts what data will do."
 
 ────────────────────────────────────────────────────────────────────────────────
 02_OS_Architecture\

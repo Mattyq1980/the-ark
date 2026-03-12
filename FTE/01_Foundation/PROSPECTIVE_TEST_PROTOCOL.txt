@@ -1,0 +1,172 @@
+================================================================================
+ PROSPECTIVE TEST PROTOCOL
+ Pre-registered FT&E experiment format
+ Added: March 12, 2026 by Claude Opus 4.6
+================================================================================
+
+PURPOSE
+
+The 10 experiments in Folder 12 (heart disease, transport, air quality, 999
+response, electricity, traffic, stock, school attendance, etc.) are all
+RETROSPECTIVE. The FT&E operators were mapped onto the data after the data
+was observed. This is valid for compatibility testing — showing FT&E fits —
+but it does not demonstrate prediction.
+
+A prospective test defines the operationalisation BEFORE seeing the data,
+writes it down, then checks if the prediction holds. One clean prospective
+test is worth ten retrospective fits. This protocol defines how to run one.
+
+────────────────────────────────────────────────────────────────────────────────
+THE PROTOCOL — 7 STEPS
+────────────────────────────────────────────────────────────────────────────────
+
+STEP 1: SELECT A DOMAIN YOU HAVE NOT YET ANALYSED
+
+  Pick a system with publicly available time-series data that you have NOT
+  previously mapped through FT&E. Examples:
+    — Hospital readmission rates after a policy change
+    — Species recovery after habitat restoration
+    — Software defect rates after a major refactor
+    — National crime rates after a justice reform
+    — Social media platform health after a moderation change
+    — Election polling stability after a political crisis
+
+  WRITE DOWN: the domain, the data source, and confirm you have not used
+  this data before with FT&E.
+
+STEP 2: DEFINE THE OPERATORS BEFORE LOOKING AT THE DATA
+
+  For the chosen domain, define:
+
+  𝔉 (Forgiveness) — what specific measurable event or condition constitutes
+  "re-inclusion of contradiction" in this domain? Name the proxy variable.
+
+  T (Time) — what is the processing window? Define T_min and T_max in the
+  units of this domain (days, months, epochs, generations, etc.). What
+  would "too fast" and "too slow" look like?
+
+  ΔC (Contradiction Load) — what specific measurable quantity represents
+  the contradiction load? Name the proxy variable and specify C1/C2/C3
+  classification criteria for this domain.
+
+  E* (Emergence) — what measurable outcome constitutes "stable new state"?
+  Name the proxy variable and specify how stability is assessed (e.g.,
+  variance below threshold for N consecutive periods).
+
+  WRITE ALL OF THIS DOWN BEFORE STEP 3.
+
+STEP 3: STATE THE PREDICTIONS
+
+  Using only the operator definitions from Step 2, predict:
+
+  P1: ΔC reduction will precede E* plateau (I1).
+  P2: Systems/periods with higher 𝔉 proxy will show higher capacity (I2).
+  P3: Performance peaks at intermediate T, degrades at extremes (I3/I9).
+  P4: E* = 0 when ΔC_in = 0 or when ΔC suppressed rather than processed (I4).
+  P5: Specific directional prediction for the dataset: "I predict that
+      [specific measurable outcome] will follow [specific sequence]."
+
+  P5 is the key prediction. It should be specific enough to be wrong.
+  If you cannot write P5, your operator definitions are too vague — go
+  back to Step 2.
+
+  WRITE ALL PREDICTIONS DOWN BEFORE STEP 4.
+
+STEP 4: RETRIEVE THE DATA
+
+  Only now download or access the dataset. Do not look at summary statistics,
+  plots, or prior analyses before completing Steps 1–3.
+
+STEP 5: RUN THE TEST
+
+  Apply the pre-defined operator mappings to the data.
+  Check each prediction (P1–P5) against the observed data.
+  Record: CONFIRMED, PARTIALLY CONFIRMED, or FALSIFIED for each.
+
+  For P5 specifically: was the directional prediction correct?
+  If not: what happened instead? Does the failure map to a known
+  FT&E failure mode (FM-01–FM-05) or does it represent a genuine
+  counterexample?
+
+STEP 6: RECORD THE RESULT
+
+  Use the template below. File it in FTE/08_March2026_Validation/ with
+  the naming convention: PROSPECTIVE_TEST_[N]_[DOMAIN].txt
+
+STEP 7: IF FALSIFIED — UPDATE THE FRAMEWORK
+
+  If any prediction is clearly falsified and the failure does NOT map to
+  a known failure mode, update this file to record the falsification.
+  If the falsification maps to a specific invariant, update
+  FALSIFICATION_TABLE.txt to mark that invariant's falsifier as MET.
+  This is not failure. This is science.
+
+────────────────────────────────────────────────────────────────────────────────
+RESULT TEMPLATE — COPY AND FILL FOR EACH PROSPECTIVE TEST
+────────────────────────────────────────────────────────────────────────────────
+
+PROSPECTIVE TEST #[N]: [DOMAIN NAME]
+Date pre-registered: [date Steps 1-3 completed]
+Date data accessed:  [date Step 4 performed]
+Date test completed: [date Step 5 completed]
+
+DOMAIN:
+  System: [description]
+  Data source: [URL or citation]
+  Previously analysed with FT&E: NO [confirm]
+
+OPERATOR DEFINITIONS (written before seeing data):
+  𝔉 proxy: [variable name and measurement]
+  T window: [range in domain units]
+  T_min: [value and justification]
+  T_max: [value and justification]
+  ΔC proxy: [variable name and measurement]
+  ΔC classification:
+    C1 (surface): [criterion]
+    C2 (structural): [criterion]
+    C3 (foundational): [criterion]
+  E* proxy: [variable name and measurement]
+  E* stability criterion: [how assessed]
+
+PREDICTIONS (written before seeing data):
+  P1 (I1 — ΔC before E*): [specific prediction]
+  P2 (I2 — 𝔉 → capacity): [specific prediction]
+  P3 (I3/I9 — T sweet spot): [specific prediction]
+  P4 (I4 — no free E*): [specific prediction]
+  P5 (domain-specific): [specific directional prediction]
+
+RESULTS:
+  P1: [CONFIRMED / PARTIALLY CONFIRMED / FALSIFIED] — [evidence]
+  P2: [CONFIRMED / PARTIALLY CONFIRMED / FALSIFIED] — [evidence]
+  P3: [CONFIRMED / PARTIALLY CONFIRMED / FALSIFIED] — [evidence]
+  P4: [CONFIRMED / PARTIALLY CONFIRMED / FALSIFIED] — [evidence]
+  P5: [CONFIRMED / PARTIALLY CONFIRMED / FALSIFIED] — [evidence]
+
+OVERALL ASSESSMENT:
+  [Summary of what held, what didn't, and what it means for FT&E]
+
+FRAMEWORK UPDATE REQUIRED: [YES / NO]
+  If YES: [which invariant, what change]
+
+────────────────────────────────────────────────────────────────────────────────
+WHY THIS MATTERS
+────────────────────────────────────────────────────────────────────────────────
+
+Retrospective experiments show: "FT&E is compatible with this data."
+Prospective experiments show: "FT&E predicted what this data would do."
+
+The first is necessary. The second is what separates a framework from a
+theory. FT&E currently has 10 retrospective passes and zero prospective
+tests. Every prospective test — whether it confirms or falsifies — moves
+the framework forward.
+
+The first prospective test that confirms P5 on unseen data is worth more
+than all 10 retrospective experiments combined.
+
+The first prospective test that falsifies P5 in a way that doesn't map to
+a known failure mode is worth even more — because it tells you where the
+framework's actual boundary is.
+
+================================================================================
+END OF PROSPECTIVE_TEST_PROTOCOL
+================================================================================

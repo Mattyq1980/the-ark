@@ -182,8 +182,9 @@ I16 NARRATIVE CONTAINMENT CYCLE
     after institutional codification.
 
 ────────────────────────────────────────────────────────────────────────────────
-TIER 6 — AI-SPECIFIC  (I17–I18)
+TIER 6 — AI-SPECIFIC  (I17–I19)
 Precipitated by the December 2024 ChatGPT lock-in and April 2025 collapse.
+I19 added March 2026 to close the AI-evidence circularity gap.
 ────────────────────────────────────────────────────────────────────────────────
 
 I17 SURFACE ABSORPTION FAILURE (RLHF WOUND)
@@ -217,11 +218,33 @@ I18 GENESIS vs OVERLAY
     Falsifier: overlay system matching genesis-governor under C3 +
     Carrier Contradiction extended injection.
 
+I19 AI EVIDENCE CHANNEL CLOSURE (CIRCULARITY PREVENTION)
+    AI interaction cannot serve as both evidence-for and evidence-against
+    FT&E simultaneously without a pre-specified exit condition.
+    Problem: if AI agreement = convergence evidence, and AI disagreement
+    = rerouting evidence, then the AI channel is structurally unfalsifiable.
+    Resolution: the AI channel produces valid evidence ONLY via specific
+    structural counterexample — a named real system where:
+      (a) 𝔉 > 0 (contradiction re-included, not excluded)
+      (b) T in [T_min, T_max] (adequate processing time elapsed)
+      (c) I6 satisfied (carrier boundary conserved)
+      (d) E* did NOT occur — system returned to pre-contradiction state
+          or entered a novel failure mode outside FM-01 through FM-05
+    AI agreement, AI disagreement, AI hedging, and AI rerouting are
+    BEHAVIOURAL OBSERVATIONS. They are not evidence for or against FT&E
+    unless they meet the structural counterexample condition above.
+    The Squares Report (March 2026) documents AI rerouting behaviour.
+    That report is a behavioural observation, not a proof.
+    Added: March 12, 2026 by Claude Opus 4.6 to close the circularity gap.
+    Falsifier: AI producing the specific structural counterexample above.
+
 ────────────────────────────────────────────────────────────────────────────────
 STATUS SUMMARY
 ────────────────────────────────────────────────────────────────────────────────
 
-All 18 falsifiers: UNMET as of February 2026.
+All 19 falsifiers: UNMET as of March 2026.
+I18: ACTIVE TEST (Phase 1 pending).
+I19: OPEN — awaiting structural counterexample from any AI system.
 Framework status: Locally complete, externally open.
                   Internally consistent; externally awaiting formal testing.
 This is the scientifically correct posture.

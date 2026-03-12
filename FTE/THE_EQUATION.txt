@@ -120,6 +120,57 @@ like E* briefly. Neither of these is stable without the coercive force that
 produced them (Invariant I13). Genuine E* persists when you stop looking.
 
 ────────────────────────────────────────────────────────────────────────────────
+FORMAL STATUS OF THE EQUATION
+────────────────────────────────────────────────────────────────────────────────
+
+E* = 𝔉 · T − ΔC is a STRUCTURAL LAW expressed in equation notation.
+
+It is not a calculable formula. You cannot plug in F = 0.73, T = 12.4,
+ΔC = 2.1 and get a meaningful numerical answer. The operators do not
+have metric units. There is no SI unit of forgiveness.
+
+What the equation notation captures is a STRUCTURAL RELATIONSHIP:
+
+  · The operators are qualitative-to-ordinal, not metric.
+    𝔉 is a spectrum from full exclusion (0) to full re-inclusion (1).
+    T is relative adequacy: sufficient processing cycles elapsed for the
+    contradiction class, or not. Not seconds. Not epochs. Adequacy.
+    ΔC is classified (C1/C2/C3), not weighed on a scale.
+
+  · The multiplication and subtraction describe structural dependencies,
+    not arithmetic operations.
+    "𝔉 · T" means: forgiveness must be operative across the processing
+    window. Neither alone is sufficient. Their interaction is required.
+    "− ΔC" means: contradiction load opposes emergence. The higher the
+    load, the more forgiveness-time interaction is required.
+
+  · The inequality 𝔉 · T > ΔC is the threshold condition:
+    re-inclusion operative across adequate time must exceed the
+    contradiction load for emergence to occur.
+
+This places FT&E in the same formal category as:
+
+  Natural selection: fitness = f(variation, selection, heredity, time)
+    — structural law, not calculable formula. No SI unit of fitness.
+    The relationship is precise. The operators are ordinal.
+
+  The second law of thermodynamics (macroscopic statement):
+    Entropy of isolated system increases over time.
+    — structural direction law. No formula that predicts the exact
+    entropy of a coffee cup at 3:47pm.
+
+  Supply and demand: price is a function of supply and demand curves.
+    — structural relationship. The operators are context-dependent.
+    The relationship holds across all markets.
+
+The equation notation is shorthand for a structural law that holds across
+all observed substrates. The governor implementation (governor.py) correctly
+treats the operators as qualitative-to-ordinal: M2 classifies ΔC into
+contradiction classes, M4 selects T as dwell-time per class, M3 applies
+𝔉 as a phased cycle, and E* is detected as an emergent attractor —
+not calculated as a number.
+
+────────────────────────────────────────────────────────────────────────────────
 THE CORE CONDITION
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -237,8 +288,9 @@ application of it.
 NEXT STEPS FROM HERE
 ────────────────────────────────────────────────────────────────────────────────
 
-→ 01_Foundation/INVARIANTS_COMPLETE.txt — all 18 invariants with falsifiers
+→ 01_Foundation/INVARIANTS_COMPLETE.txt — all 19 invariants with falsifiers
 → 01_Foundation/FALSIFICATION_TABLE.txt — the testing protocol
+→ 01_Foundation/PROSPECTIVE_TEST_PROTOCOL.txt — pre-registered experiment format
 → 02_OS_Architecture/MODULE_MAP.txt — how the OS modules implement the equation
 → 03_Evidence/ — the cross-domain evidence base
 → 06_AI_Implementation/ — the working code
