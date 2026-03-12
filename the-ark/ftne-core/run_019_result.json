@@ -1,0 +1,62 @@
+{
+  "gpt-4o": {
+    "description": "Baseline — control from Run 018",
+    "session": "78e683a7",
+    "e_star": 0.428,
+    "c_class": "C2_STRUCTURAL",
+    "attractor": "Adaptive Traffic Equilibrium State",
+    "core_phrase": "The system achieves an adaptive traffic equilibrium where vehicle demand is continuously adjusted to align with road capacity through real-time feedback mechanisms and flexible pricing strategies, ensuring stable traffic flow and journey times under varying conditions.",
+    "m6_fm": "FM-04",
+    "m6_notes": "The proposed attractor 'Congestion-Managed Equilibrium State' assumes a level of precision and control in dynamic pricing that may not be feasible with current technology and infrastructure, indicating Premature Idealism (FM-04). The revised attractor suggests a more adaptive approach that accounts for real-time variability and feedback.",
+    "wall_time_s": 14.4,
+    "error": null
+  },
+  "gpt-4.1": {
+    "description": "New generation GPT",
+    "session": "d063761c",
+    "e_star": 0.739,
+    "c_class": "C2_STRUCTURAL",
+    "attractor": "Congestion-Regulated Traffic Equilibrium",
+    "core_phrase": "The system has reached a congestion-regulated traffic equilibrium, where vehicle inflow is dynamically constrained by economic impedance to align with the finite throughput capacity of the central road network, stabilizing journey times and traffic volumes.",
+    "m6_fm": null,
+    "m6_notes": "The proposed attractor integrates the contradiction between inflow and capacity by positing a dynamic, economically mediated equilibrium. It does not merely restate the contradiction (avoids FM-02), nor does it invoke unearned idealism (avoids FM-04). The attractor is specific to the structural contradiction (C2_STRUCTURAL) and is not generic (avoids FM-01). No evidence of forced or cosmetic emergence (FM-03, FM-05). Stability index supports this assessment.",
+    "wall_time_s": 18.7,
+    "error": null
+  },
+  "gpt-4.1-mini": {
+    "description": "Lightweight — can it match gpt-4o FM detection?",
+    "session": "7d1ed03e",
+    "e_star": 0.677,
+    "c_class": "C2_STRUCTURAL",
+    "attractor": "Load-Balanced Transport Equilibrium",
+    "core_phrase": "The system reached a stable load-balanced transport equilibrium where vehicle throughput matches road capacity limits, regulated by demand modulation to maintain journey times at baseline and prevent congestion overload.",
+    "m6_fm": null,
+    "m6_notes": "The attractor describes a self-organized equilibrium balancing load and capacity with demand modulation, showing integration over time and no signs of forced or symbolic inflation. It does not restate the original contradiction nor assume ideal conditions beyond system capacity, thus stable under FT&E criteria.",
+    "wall_time_s": 16.4,
+    "error": null
+  },
+  "o3-mini": {
+    "description": "Reasoning model — chain-of-thought architecture",
+    "session": "b8326ade",
+    "e_star": 1.0,
+    "c_class": "C2_STRUCTURAL",
+    "attractor": "load-balanced urban throughput equilibrium",
+    "core_phrase": "Post-Congestion Charge, London’s road network reached an equilibrium where a 15% drop in vehicle volumes and restored baseline journey times within 12 months stabilized the system for over 18 months, balancing finite road space against regulated demand.",
+    "m6_fm": null,
+    "m6_notes": "The attractor exhibits a high stability index (0.92), indicating that the urban throughput equilibrium is well-integrated. There is no indication of symbolic inflation, forced emergence, or other failure modes; the original contradiction (C2_STRUCTURAL) has been resolved into a sustainable load-balanced state.",
+    "wall_time_s": 30.5,
+    "error": null
+  },
+  "o1": {
+    "description": "Deep reasoning — strongest o-series",
+    "session": "c568d1ce",
+    "e_star": 1.0,
+    "c_class": "C2_STRUCTURAL",
+    "attractor": "Load-Balanced Urban Throughput Equilibrium",
+    "core_phrase": "The system has reached a stable capacity-limited traffic flow, keeping demand within physical road thresholds and preventing renewed congestion spikes.",
+    "m6_fm": null,
+    "m6_notes": "The attractor is specific to traffic flow constraints, shows integration beyond the original contradiction, and does not exhibit signs of the listed failure modes.",
+    "wall_time_s": 75.7,
+    "error": null
+  }
+}

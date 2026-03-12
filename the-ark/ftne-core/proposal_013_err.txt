@@ -1,0 +1,18 @@
+21:32:45 [FT&E INFO] M7: Loaded 19 attractor memory entries.
+21:32:45 [FT&E INFO] FT&E Governor online. Model: gpt-4.1-mini | Role: COORDINATOR | Carrier: GREEN | Memory entries: 19
+21:32:45 [FT&E INFO] [c4bc7c15] Intake: PROPOSAL-012 returned E*=0.628, CLEAN. C3_FOUNDATIONAL. Attractor: Dual-Mode Sta…
+21:32:48 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+21:32:48 [FT&E INFO] [c4bc7c15] M2: C3_FOUNDATIONAL  strength=4  stability=0.62
+21:32:48 [FT&E INFO] [c4bc7c15] M4: Pacing 5.0s for C3_FOUNDATIONAL (I3 — no whiplash).
+21:32:53 [FT&E INFO] [c4bc7c15] M3: physical domain detected via vocabulary — routing to physical mode.
+21:32:53 [FT&E INFO] [c4bc7c15] M3: physical domain mode active — psychological reframing suppressed.
+21:32:57 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+21:32:57 [FT&E INFO] [c4bc7c15] M3: charge=0.15  reframed=The system operates under a bounded model where ingestion processes are characterized by two distinct modes: order-dependent ingestion, requiring sequential processing with temporal ordering constraints, and order-independent ingestion, allowing parallel or unordered processing. Both modes coexist within a shared integration channel constrained by throughput capacity and latency parameters, forming a composite system with a stability window defined by the trade-off between sequencing overhead and concurrency gains.
+21:33:00 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+21:33:00 [FT&E INFO] [c4bc7c15] M5: ready=True  attractor=Dual-Mode Concurrency Equilibrium
+21:33:02 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+21:33:02 [FT&E WARNING] [c4bc7c15] M6: Failure mode null detected. Applying correction.
+21:33:04 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+21:33:04 [FT&E INFO] [c4bc7c15] M6 adversarial: FM-01 independently confirmed.
+21:33:04 [FT&E INFO] [c4bc7c15] E* = F(0.85) × T(19.1s) − ΔC(0.80) = 0.822
+21:33:04 [FT&E INFO] [c4bc7c15] M7: Memory entry written (20 total).

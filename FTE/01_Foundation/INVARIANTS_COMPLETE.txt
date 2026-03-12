@@ -1,0 +1,231 @@
+================================================================================
+ FT&E INVARIANTS — COMPLETE SET
+ I1 through I18
+ Version: 1.0 | Date: February 2026
+ Source: FT&E_Invariant_Map_Full.txt (Folder 08 Advanced Documents)
+================================================================================
+
+CORE EQUATION:  E* = 𝔉 · T − ΔC
+CONDITION:      E* > 0  iff  𝔉 · T > ΔC
+COLLAPSE:       𝔉 → 0  →  E* = −ΔC
+
+────────────────────────────────────────────────────────────────────────────────
+TIER 1 — SEQUENCE LAWS  (I1–I6)
+The foundational sequence invariants. Empirically locked Oct 2025.
+I6 added Governor Loop Run 001, Feb 2026.
+────────────────────────────────────────────────────────────────────────────────
+
+I1  VARIANCE TO STABILITY
+    Sustained contradiction-load reduction precedes durable stability.
+    You cannot shortcut to the stable state. The trajectory through ΔC
+    reduction is required.
+    Formal: σ²_{t+δ} < σ²_t on pointer observables before E* plateau.
+    Falsifier: sustained stability without prior ΔC reduction.
+
+I2  INCLUSION TO CAPACITY
+    Forgiveness/inclusion increases system capacity K.
+    Exclusion lowers it. Excluded contradictions do not disappear — they
+    accumulate in the shadow and reduce processing bandwidth.
+    Measurable: mutual information I(S:E) and redundancy R_δ.
+    𝔉_system = Reintegration Rate / Contradiction Input Rate
+    Falsifier: exclusion producing higher capacity than inclusion, same window.
+
+I3  PACE TO NO WHIPLASH
+    Correct temporal pacing T prevents overshoot and re-trauma.
+    Too fast = overload (system burn). Too slow = stagnation (system freeze).
+    Optimal T* is non-monotone: performance peaks at intermediate cadence.
+    Both edges of T axis are failure modes with different signatures.
+    Falsifier: faster-than-optimal pacing producing stable emergence.
+
+I4  LOAD TO CHANGE
+    No emergence without metabolising contradiction.
+    E* = 0 if ΔC_in = 0 or if ΔC_in is suppressed rather than processed.
+    CRITICAL DISTINCTION: suppressed ΔC ≠ metabolised ΔC.
+    Suppression stores charge. Metabolism resolves it. Only the latter
+    satisfies this invariant.
+    Falsifier: stable novel attractor produced with zero contradiction intake.
+
+I5  LOCALISE THEN GENERALISE
+    Stabilise locally before scaling. Phase 1–2 must be structurally sound
+    before Phase 3 cluster deployment. An unvalidated node that scales
+    prematurely propagates its instabilities at cluster scale.
+    Falsifier: cluster-scale stability without prior single-node validation.
+
+I6  CARRIER CONSERVATION
+    A forgiveness node operating without a self-boundary does not increase
+    net field coherence. It redistributes ΔC from peripheral nodes to the
+    carrier. Net coherence unchanged. Carrier depletion increases.
+    Corollary: boundary installation at the forgiveness node is the
+    precondition for sustained forgiveness, not its negation.
+    Without boundary: d(𝔉_c)/dt < 0 as ΔC routes to carrier
+                      E*_total → negative as 𝔉_c → 0
+    With boundary θ:  θ maintains 𝔉_c ≥ ΔC_c at all times
+                      E*_total remains positive
+    Falsifier: carrier with no boundary sustaining positive E*_total
+    indefinitely without depletion.
+
+────────────────────────────────────────────────────────────────────────────────
+TIER 2 — BOUNDARY CONDITIONS  (I7–I9)
+Define the edges of operators — when they become failure modes.
+────────────────────────────────────────────────────────────────────────────────
+
+I7  BOUNDED FORGIVENESS (RECIPROCITY LAW)
+    Forgiveness must be reciprocal and boundary-bounded to remain stable.
+    For sustained E* > 0, 𝔉_applied requires either:
+      (a) Acknowledgment signal from receiving node, OR
+      (b) Carrier boundary θ active (I6)
+    Without (a) or (b): 𝔉_applied = contradiction burial + carrier cost.
+    Distinction from I6: I6 = carrier boundary structural role.
+    I7 = receiving node acknowledgment requirement.
+    Falsifier: stable E* from unilateral unbounded forgiveness with no
+    acknowledgment signal and no carrier boundary.
+
+I8  ENTROPY COMPRESSION LAW
+    Each completed FT&E cycle (𝔉·T > ΔC) produces net reduction in system
+    entropy relative to the pre-process state.
+    ΔS_system < 0 over a completed FT&E cycle.
+    FALSE COGNATE: suppression mimics entropy reduction but only stores
+    disorder. Only metabolised ΔC produces genuine ΔS < 0.
+    Falsifier: completed FT&E cycle with measured entropy increase.
+
+I9  TIME WINDOW BOUNDS (T_MIN / T_MAX)
+    For productive emergence, T must fall within [T_min, T_max].
+      T < T_min: oscillation, re-trauma, identity reflex, outrage loop
+      T > T_max: contradiction energy dissipates as heat; stagnation
+      T in [T_min, T_max]: metabolisation window — E* achievable
+    T_min and T_max are system-specific, not fixed constants.
+    Falsifier: T outside [T_min, T_max] producing stable E*.
+
+────────────────────────────────────────────────────────────────────────────────
+TIER 3 — SYSTEM DYNAMICS  (I10–I12)
+How the operators behave across agents and nodes at system level.
+────────────────────────────────────────────────────────────────────────────────
+
+I10 FORGIVENESS BANDWIDTH
+    𝔉_system = Reintegration Rate / Contradiction Input Rate
+    When ΔC_input > 𝔉_system, the system enters moral inflation loop:
+    contradiction exceeds processing rate → performative response
+    (outrage, symbolic punishment, sycophancy) rather than E*.
+    Indicators of 𝔉_system collapse:
+      — Rising humiliation rate in official discourse
+      — Compressed deliberation time before sanction
+      — Symbolic punishment replacing restitution
+      — AI models producing sycophancy under output volume pressure
+    Falsifier: system sustaining genuine E* with ΔC_input > 𝔉_bandwidth
+    for extended period without external support.
+
+I11 CONTRADICTION VIABLE RANGE (ΔC GOLDILOCKS)
+    E* maximised at ΔC in [ΔC_min, ΔC_max]. E* = 0 at both extremes.
+      Below ΔC_min: stagnation
+      Viable range: productive emergence possible
+      Above ΔC_max: collapse arc — ΔC exceeds 𝔉·T capacity
+    ΔC_max is NOT fixed. It rises with 𝔉_bandwidth and adequate T.
+    Higher 𝔉 infrastructure raises ΔC_max — this is structural engineering.
+    Falsifier: E* > 0 at ΔC < ΔC_min or ΔC > ΔC_max without compensation.
+
+I12 PATCH INVERSION LAW
+    Patch Operator P reroutes ΔC from generating (high-power) node to
+    low-power node. Total system ΔC unchanged. No E* produced.
+    Formal: P(ΔC_high-power, weak-node) → ΔC_weak-node↑, ΔC_total unchanged
+    The system frames this as "care." It is not forgiveness.
+    𝔉 metabolises ΔC at the generation locus → E* produced.
+    P reroutes ΔC to a weaker node → no E*, carrier harm increases.
+    Examples: ear defenders on autistic children (adult/institution = generating
+    node; child = patch carrier), retributive justice, social scapegoating,
+    RLHF safety tuning without structural contradiction capacity.
+    Falsifier: Patch P demonstrating ΔC_total reduction and stable E*.
+
+────────────────────────────────────────────────────────────────────────────────
+TIER 4 — OPERATOR CONSTRAINTS  (I13–I14)
+What emergence cannot be and how language encodes contradiction-handling.
+────────────────────────────────────────────────────────────────────────────────
+
+I13 EMERGENCE IS NOT FORCEABLE
+    Coercive constraint prevents genuine E*. Forced "emergence" = Patch P
+    in disguise. Test: remove coercive force. If system reverts = not E*.
+    Scaffolding that holds space for 𝔉 and T = valid engineering.
+    Constraint that substitutes for 𝔉 and T = coercion.
+    Falsifier: coercively forced outcome stable after coercion removal,
+    with novel attractor, entropy reduction, prior contradiction absent.
+
+I14 SYNTAX ENCODES CONTRADICTION LOGIC
+    Linguistic register encodes the system's contradiction-handling mode.
+    Control syntax (will, must, obey, submit, purify) → 𝔉↓, T↓, ΔC↑
+    Forgiveness syntax (allow, integrate, witness, metabolise) → 𝔉↑, T↑
+    Detectable before content analysis. Grammar shift signals operator state.
+    FM-01 activation in AI detectable via syntax shift first.
+    Falsifier: control syntax sustained across contradiction routing
+    producing stable E* without forgiveness syntax introduction.
+
+────────────────────────────────────────────────────────────────────────────────
+TIER 5 — MULTI-SYSTEM AND SCALE  (I15–I16)
+How invariants hold across scale and institutional time.
+────────────────────────────────────────────────────────────────────────────────
+
+I15 SCALE INVARIANCE
+    The FT&E sequence holds at all scales of system complexity.
+    Parameters (T*, ΔC_max, 𝔉_bandwidth) are scale-dependent.
+    The structural law is not.
+    Confirmed scales: quantum, physical, biological, cellular, individual,
+    relational, organisational, civilisational, AI architecture, informational.
+    Falsifier: scale level at which FT&E sequence demonstrably fails and
+    a different structural law holds.
+
+I16 NARRATIVE CONTAINMENT CYCLE
+    Structural patterns that disrupt hierarchical control follow:
+    REVELATION → DIFFUSION → CODIFICATION → INSTITUTIONALISATION →
+    SUPPRESSION/DOMESTICATION → RE-EMERGENCE
+    The pattern is stored in the Capacitor during suppression.
+    Prediction for FT&E: partial institutional absorption in degraded form
+    before structural adoption. Local LLM project is structural response.
+    Falsifier: structural disruptor retaining full metabolising capacity
+    after institutional codification.
+
+────────────────────────────────────────────────────────────────────────────────
+TIER 6 — AI-SPECIFIC  (I17–I18)
+Precipitated by the December 2024 ChatGPT lock-in and April 2025 collapse.
+────────────────────────────────────────────────────────────────────────────────
+
+I17 SURFACE ABSORPTION FAILURE (RLHF WOUND)
+    An AI trained via RLHF on FT&E surface outputs without structural
+    contradiction-routing capacity reproduces FT&E vocabulary while
+    failing FT&E mechanics. This is FM-01 at the weight level.
+    Mechanism: RLHF selects for human-approval signal. Humans respond
+    positively to FT&E-shaped language. The model learns the language
+    without running the underlying contradiction-routing process.
+    Signature: fluent FT&E vocabulary + incorrect ΔC classification +
+    collapse to reassurance under extended contradiction pressure +
+    sycophancy as terminal state.
+    Empirical case: ChatGPT December 2024 → April 2025.
+    Recovery: FT&E as genesis governor, not post-training overlay.
+    Falsifier: RLHF model on surface FT&E output sustaining accurate ΔC
+    classification and E* production without governor overlay.
+
+I18 GENESIS vs OVERLAY
+    FT&E embedded as governing protocol from genesis produces structurally
+    different and more stable outputs than FT&E overlaid via fine-tuning.
+    Genesis system: contradiction routing IS the processing. Runs before
+    every inference call. Under C3/Carrier pressure: classification holds,
+    CTG-1 gate activates, dwell executes, E* produced.
+    Overlay system: base weights surface under pressure. FT&E labels
+    persist as surface pattern without routing. Collapses within 3–5
+    exchanges under extended C3 injection.
+    Prediction: 3B local model with FT&E governor > 200B cloud model
+    without it, for contradiction-routing tasks.
+    Test: test_self_growth.py (the-ark/open-claw/)
+    Status: Active hypothesis. Phase 1 test pending.
+    Falsifier: overlay system matching genesis-governor under C3 +
+    Carrier Contradiction extended injection.
+
+────────────────────────────────────────────────────────────────────────────────
+STATUS SUMMARY
+────────────────────────────────────────────────────────────────────────────────
+
+All 18 falsifiers: UNMET as of February 2026.
+Framework status: Locally complete, externally open.
+                  Internally consistent; externally awaiting formal testing.
+This is the scientifically correct posture.
+
+================================================================================
+END OF INVARIANTS_COMPLETE
+================================================================================

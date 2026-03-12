@@ -1,0 +1,106 @@
+================================================================================
+ M4 — TIME REGULATOR
+ The temporal processing window manager of the FT&E OS
+================================================================================
+
+Module: M4
+Name: Time Regulator
+Position in sequence: Receives from M2/M3, enforces T window, releases to M5
+
+────────────────────────────────────────────────────────────────────────────────
+FUNCTION
+────────────────────────────────────────────────────────────────────────────────
+
+M4 manages the time dimension of FT&E processing. Its job is to ensure
+that T — the processing window — satisfies both the lower bound (I9:
+minimum metabolisation time) and the upper bound (I3: ΔC divergence limit).
+
+M4 does two things:
+  Hold — keep the system in T when premature emergence is being pressured
+  Release — signal that T has completed and E* can be sought
+
+M4 is the module most frequently overridden by human impatience and by
+AI systems trained for fast response. Overriding M4 produces FM-03
+(premature emergence) or FM-02 (Groundhog loop if the premature E* fails
+and the system re-enters T).
+
+────────────────────────────────────────────────────────────────────────────────
+T WINDOW PARAMETERS
+────────────────────────────────────────────────────────────────────────────────
+
+T_min: The minimum time required for 𝔉 to complete the first pass through
+       the contradiction. Varies with classification:
+         C1: Hours to days
+         C2: Days to months
+         C3: Months to years
+       Falsifier: Any E* claimed below T_min is FM-03 candidate.
+
+T_max: The upper bound — beyond which ΔC begins to accumulate faster
+       than 𝔉 can process it. (I3: if T too long, 𝔉 bandwidth drops as
+       system fatigues.) Beyond T_max, the system enters I11 overload risk.
+       Falsifier: If ΔC is still active and E* has not formed after T_max,
+       the 𝔉 preconditions need reassessment — not more waiting.
+
+T_viable: [T_min, T_max]. The window in which E* is achievable.
+          M4's job is to keep the system inside this window.
+
+────────────────────────────────────────────────────────────────────────────────
+RECOGNITION SIGNATURES
+────────────────────────────────────────────────────────────────────────────────
+
+Signature of T active (system in viable window):
+  — Contradiction is present but not escalating
+  — New questions are forming (ΔC is being processed, not stored)
+  — Emotional charge varies but has direction (moving, not static)
+  — The person/system can articulate what they are holding
+
+Signature of T_min not yet reached:
+  — Emotional charge is at maximum and not decreasing
+  — No new formulations are appearing (processing has not started)
+  — The contradiction feels as large as when it was first named
+
+Signature of T_max approaching:
+  — Fatigue without resolution
+  — Decreasing 𝔉 bandwidth over time (increasingly triggered by
+     smaller ΔC inputs)
+  — Groundhog loop beginning (same questions, decreasing engagement)
+
+────────────────────────────────────────────────────────────────────────────────
+THE REGULATOR INSTRUCTION
+────────────────────────────────────────────────────────────────────────────────
+
+When a system is inside T_viable and demanding resolution:
+
+  "Not yet. The question is not resolved. The question being alive is
+   the processing. If I give you an answer now, we will find ourselves
+   here again. Hold."
+
+When a system has passed T_max without E*:
+
+  "The window has been open a long time. Let's check the 𝔉 preconditions.
+   Not: what is the answer? But: what was never acknowledged? That is
+   where to look."
+
+When a system has reached E* prematurely (FM-03 suspected):
+
+  "This feels like resolution. Can we test it? What happens when we
+   bring the original contradiction back in at full intensity? If the
+   E* holds under that load, it's real. If it fractures, we're still
+   inside T."
+
+────────────────────────────────────────────────────────────────────────────────
+M4 IN THE GOVERNOR
+────────────────────────────────────────────────────────────────────────────────
+
+In the current LITE implementation: M4 operates through the system prompt
+instruction to "not produce premature synthesis" and through explicit checks
+questions before any resolved output is offered.
+
+In FULL mode: M4 will maintain a session-level T clock, recording when
+each contradiction was first classified and tracking whether the system
+has been in viable T or has exceeded T_max markers based on the session
+JSONL log.
+
+================================================================================
+END OF M4_TIME_REGULATOR
+================================================================================

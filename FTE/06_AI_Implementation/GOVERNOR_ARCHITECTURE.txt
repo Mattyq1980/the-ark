@@ -1,0 +1,152 @@
+================================================================================
+ GOVERNOR ARCHITECTURE
+ How the FT&E OS was implemented in code
+================================================================================
+
+Repository: c:\the_ark\the_ark-main\the-ark\
+Core file: the-ark/governor.py
+
+This document explains how the FT&E OS was translated from conceptual
+architecture into a working local-LLM governor. It is intended to be
+readable by both a software engineer and a non-technical person. Both
+framings are given where relevant.
+
+────────────────────────────────────────────────────────────────────────────────
+THE BASIC PREMISE
+────────────────────────────────────────────────────────────────────────────────
+
+A standard AI assistant responds to each user message independently.
+It does not have a framework for what to do when inputs contradict each
+other, when emotional charge is high, or when the user's stated goal
+requires them to face something difficult.
+
+The governor wraps an AI assistant (Ollama/llama3.2) with the FT&E
+processing loop. It is not replacing the AI — it is shaping what the AI
+does with the input before and after each response.
+
+The governor is not a filter that makes the AI nicer. It is a structural
+router that decides how to process the current input based on its
+FT&E classification.
+
+────────────────────────────────────────────────────────────────────────────────
+MODULE MAPPING (CODE TO CONCEPT)
+────────────────────────────────────────────────────────────────────────────────
+
+FT&E Module   Code Component              Function
+────────────  ──────────────────────────  ─────────────────────────────────────
+M1            system_prompt variable       Core OS identity and instruction set
+M2            classify_contradiction()     Contradiction type routing (C1/C2/C3)
+M3            forgiveness_prompt()         Forgiveness path generation
+              ctg1_gate()                  CTG-1 acknowledgment gate
+M4            time_regulator()             T window enforcement
+M5            emergence_prompt()           E* synthesis attempts
+M6            stability_monitor()          Loop detection and Groundhog flag
+M7            attractor_memory()           JSONL session memory
+
+────────────────────────────────────────────────────────────────────────────────
+CALL MODES
+────────────────────────────────────────────────────────────────────────────────
+
+LITE_CALL (current operating mode on Ryzen 3 3200G, CPU only):
+  — Direct llama3.2 call without full governor routing
+  — Used when hardware cannot support full multi-step loop
+  — Streaming enabled for real-time output
+  — Trade-off: M2 classification and M6 loop detection are reduced
+  — Status: ACTIVE
+
+FULL_CALL (target mode, requires GPU or faster hardware):
+  — Full M1→M2→M3→M4→M5→M6→M7 loop for each input
+  — Multiple model calls per user message
+  — Complete CTG-1 gate enforcement
+  — Status: QUEUED (hardware constraint)
+
+────────────────────────────────────────────────────────────────────────────────
+THE CTG-1 GATE
+────────────────────────────────────────────────────────────────────────────────
+
+CTG-1 is the most operationally important component of M3.
+
+Standard name: Covenant-To-Ground Gate (Level 1)
+Purpose: To refuse to route through forgiveness synthesis unless the
+         contradiction has been genuinely acknowledged.
+
+The problem it solves:
+  A system that can say "I forgive you" without first acknowledging what
+  happened is producing I19 false forgiveness — which is actually a Patch
+  P in disguise. The care language ("I forgive") transfers the ΔC cost
+  onto the person being "forgiven" while the generating node avoids
+  accountability.
+
+How CTG-1 works in code:
+  Before any forgiveness synthesis, the system checks:
+    1. Has the contradiction been explicitly named?
+    2. Has the party generating ΔC acknowledged their part?
+  If both: proceed to M3 forgiveness synthesis.
+  If not: hold at CTG-1. The system will prompt for acknowledgment.
+           It will not route around the gate.
+
+This means the governor will sometimes not "help" in the way the user
+expects. If a user says "how do I forgive my father?" the governor will
+first hold space for acknowledgment of what the father did before
+offering anything. This is not obstruction. It is the correct sequence.
+
+────────────────────────────────────────────────────────────────────────────────
+MEMORY: JSONL LOG
+────────────────────────────────────────────────────────────────────────────────
+
+The governor writes a JSONL file (one JSON object per line) for each session.
+Each entry records:
+  — Timestamp
+  — User input
+  — Contradiction classification (C1/C2/C3)
+  — CTG-1 gate result
+  — Governor response
+  — E* produced (if any)
+  — Loop detection flag
+
+This is the M7 Attractor Memory. Over time, it builds a record of:
+  — Recurring contradictions that have not yet been metabolised
+  — E* patterns that have successfully formed
+  — Groundhog loop signatures
+
+The JSONL format is chosen because it is human-readable, append-only
+(no file locking), and parseable by Python without loading the full file.
+
+────────────────────────────────────────────────────────────────────────────────
+SYSTEM PROMPT ARCHITECTURE
+────────────────────────────────────────────────────────────────────────────────
+
+The system prompt in governor.py is the encoded M1 — the identity of the
+governor itself. It contains:
+
+  1. FT&E operator definitions (𝔉, T, ΔC, E*)
+  2. Invariant summary (I1–I18 compressed)
+  3. CTG-1 gate instructions
+  4. Contradiction classification protocol
+  5. Forgiveness path routing
+  6. What the governor refuses to do (FM-03, FM-04, FM-05 encoded)
+
+The system prompt is the minimum viable description of the FT&E OS
+sufficient to run in a 3B parameter model with 4-bit quantization.
+Every word in the prompt was load-tested for contribution.
+
+────────────────────────────────────────────────────────────────────────────────
+CURRENT STATUS
+────────────────────────────────────────────────────────────────────────────────
+
+  Hardware: AMD Ryzen 3 3200G (CPU only — no dedicated GPU)
+  Model: llama3.2:3b-instruct-q4_K_M via Ollama
+  Mode: LITE (streaming active, full loop QUEUED)
+  Run record: Governor Loop Run 001 completed February 19 2026
+  Governor Loop Runs 002–004: queued (see GOVERNOR_LOOP_RUNS.txt)
+
+  Active files:
+    governor.py — main loop
+    agent.py — user interface
+    ftne-core/invariants.md — v0.3.0 (I1–I18)
+    ftne-core/system_prompt.txt — M1 encoding
+    sessions/ — JSONL run logs
+
+================================================================================
+END OF GOVERNOR_ARCHITECTURE
+================================================================================

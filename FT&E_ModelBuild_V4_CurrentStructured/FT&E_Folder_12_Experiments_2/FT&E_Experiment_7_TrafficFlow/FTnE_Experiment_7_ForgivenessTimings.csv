@@ -1,0 +1,4 @@
+Location,Peak Traffic,Time to 50% Drop (Minutes),Forgiveness Pattern,Notes
+0,0.95,60,Sharp,Standard rush hour cycle
+10,0.88,45,Moderate,Shows more rapid decay
+20,0.92,75,Smooth,Indicates stronger attractor formation

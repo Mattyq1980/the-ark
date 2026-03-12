@@ -1,0 +1,9 @@
+
+Experiment ID: 6
+Title: Recursive Energy Patterns – AEP Electricity Usage
+Domain: Infrastructure / Rhythmic System Recursion
+Dataset: PJM Interconnection LLC – AEP Hourly Energy Usage
+Focus Year: 2014 (Daily Aggregation)
+Hypothesis: Electricity usage systems exhibit recursive contradiction and forgiveness arcs tied to environmental stress, with emergent attractors stabilizing between extremes
+Author: Matthew (FT&E Project)
+AI Assist: ChatGPT (FT&E Framework Engine)

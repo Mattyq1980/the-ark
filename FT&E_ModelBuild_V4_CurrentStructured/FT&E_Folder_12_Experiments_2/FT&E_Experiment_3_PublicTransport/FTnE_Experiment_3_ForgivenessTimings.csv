@@ -1,0 +1,6 @@
+Mode,Time to 50% Recovery (Periods),Time to Stability (Periods),Max Drop from Baseline (Millions)
+Bus,4,10,120
+Underground,6,14,220
+DLR,7,16,35
+Tram,8,15,15
+Overground,9,18,60

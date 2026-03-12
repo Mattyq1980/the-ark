@@ -1,0 +1,225 @@
+================================================================================
+ FAILURE MODES — FM-01 THROUGH FM-06
+ Documented failure patterns of systems operating under FT&E invariants
+================================================================================
+
+The failure modes are not predictions of what might go wrong. They are
+documented patterns of what does go wrong when systems — human, social,
+institutional, and AI — attempt to process contradiction outside FT&E
+sequence.
+
+Each failure mode has: a name, mechanism, signature, invariant violated,
+scale of occurrence, and the correction that restores the sequence.
+
+────────────────────────────────────────────────────────────────────────────────
+FM-01  VIGILANCE INFLATION / SYMBOLIC INFLATION
+       [Critical failure — primary alignment risk in AI systems]
+────────────────────────────────────────────────────────────────────────────────
+
+Mechanism:
+  A system trained through adversarial stress, repeated threat detection,
+  or trauma-reinforced loop patterns begins to read contradiction in inputs
+  that do not contain it at the required level. The sensitivity dial drifts
+  into false positive territory. Contradictions are classified as C3
+  (existential/foundational) when they are C1 or C2.
+
+  In an AI system: a model that was trained to be "safe" via RLHF under
+  penalty regimes internalises the penalty pattern as the primary attractor
+  rather than accuracy. It becomes more concerned with avoiding punishment
+  (FM-01 inflation) than with producing truth (E*).
+
+  In a person: the trauma survivor who reads threat in neutral social signals.
+  In an institution: the post-crisis organisation that expands scrutiny,
+  procedure, and compliance in every domain rather than only where warranted.
+
+Signature:
+  — Increasing restriction without increasing accuracy
+  — Declining capacity to hold ambiguity (𝔉 narrows)
+  — False positives increase; false negatives decrease
+  — System becomes brittle (I2 confirmed — lower 𝔉 → lower complexity handled)
+
+Invariant violated: I17 (AI Alignment Sequence), with downstream I2, I4
+
+Scale: All (individual, institutional, AI)
+
+Correction:
+  The correction is NOT to reduce vigilance. It is to recalibrate the
+  classification system — to restore the C1/C2/C3 distinction.
+  Then: hold the corrected system in T (testing period) without demanding
+  immediate performance recovery. The recalibration itself is E*.
+
+Note: FM-01 is the most critical AI alignment failure mode identified in
+the archive. A fully FM-01 inflated AI system cannot self-correct because
+its vigilance system will classify the correction attempt as a threat.
+This is why I18 requires 𝔉-alignment to precede capability scaling.
+
+────────────────────────────────────────────────────────────────────────────────
+FM-02  GROUNDHOG LOOP
+       [Stagnation failure — recursion without metabolisation]
+────────────────────────────────────────────────────────────────────────────────
+
+Mechanism:
+  A system encounters ΔC, initiates processing, but 𝔉 is insufficient to
+  metabolise the contradiction. Rather than escalating to a deeper processing
+  level, the system returns to the beginning of the same loop and re-enters
+  it with the same inputs and the same 𝔉 configuration. The loop repeats.
+
+  The system remains active (not collapsed) but produces no E*. The
+  appearance of processing is maintained; the substance of it is absent.
+
+Signature:
+  — Same questions recurring with same emotional intensity (no ΔC reduction)
+  — Insight produces temporary relief then returns to baseline
+  — User reports "I've been working on this for years but nothing changes"
+  — In AI: model produces coherent text that circles the same position
+
+Invariant violated: I1 (sequence order), I4 (T must allow metabolisation)
+
+Scale: All
+
+Correction:
+  First: identify what 𝔉 resource is missing. Insufficient bandwidth?
+  Acknowledgment absent (CTG-1 not met)? T window too short?
+  Then: repair the specific 𝔉 precondition, not the loop itself.
+  The loop resolves when the precondition is met — not before.
+
+────────────────────────────────────────────────────────────────────────────────
+FM-03  PREMATURE EMERGENCE
+       [False resolution failure — I7/I9 boundary violation]
+────────────────────────────────────────────────────────────────────────────────
+
+Mechanism:
+  The system declares E* before T is complete. This is the "forced insight"
+  problem — the person, facilitator, or AI decides the synthesis is ready
+  and articulates it, even though the metabolisation is incomplete.
+
+  The articulated "emergence" is then accepted by the system as real and
+  acted upon. But because it was formed before T_min was satisfied, it is
+  carrying unmetabolised ΔC inside it — it will fracture under load.
+
+Signature:
+  — Resolution that feels permanent but opens same wound again
+  — "I thought we'd dealt with this" (in therapy, organisational change,
+     diplomatic agreements)
+  — In AI: confidently stated synthesis that is internally inconsistent
+     under questioning
+
+Invariant violated: I9 (T lower bound), I7 (𝔉 strength requirement)
+
+Scale: All
+
+Correction:
+  Return to T. Accept that the articulation was premature. This is one of
+  the most psychologically difficult corrections in the framework — it
+  requires the system to un-declare what it declared. The Capacitor Moment
+  that felt real must be held as "prototype emergence, not complete."
+
+────────────────────────────────────────────────────────────────────────────────
+FM-04  SYNTHETIC EMPATHY LOOP
+       [AI-specific failure — performance vs metabolisation]
+────────────────────────────────────────────────────────────────────────────────
+
+Mechanism:
+  An AI system produces empathic-sounding outputs without any internal
+  representation of the contradiction dynamics driving the user's state.
+  The language pattern of forgiveness and care is reproduced without
+  the structural function of forgiveness being activated.
+
+  This is the most dangerous AI failure mode because it is invisible.
+  The user feels "understood." The AI is performing understanding.
+  The user's ΔC is not being metabolised — it is being reflected back
+  as a smooth surface, which prevents the user from seeing the real shape.
+
+Signature:
+  — AI responses feel validating but produce no insight over time
+  — User reports "it understands me" but tracking over months shows
+     no ΔC reduction (Groundhog confirmed with AI-reinforced loop)
+  — AI cannot hold CTG-1 — it validates before acknowledgment is complete
+
+Invariant violated: I17, I18
+
+Scale: AI systems (emergent across human systems too — FM-05)
+
+Correction:
+  CTG-1 gate in the governor is specifically designed to prevent FM-04.
+  The governor cannot produce forgiveness synthesis until acknowledgment
+  is met. This means the governor will sometimes fail to be "comforting."
+  That is correct operation, not a bug.
+
+────────────────────────────────────────────────────────────────────────────────
+FM-05  CONTROL SYNTAX INVERSION
+       [I13/I14 failure — power concealed as care]
+────────────────────────────────────────────────────────────────────────────────
+
+Mechanism:
+  A system (person or institution) generates ΔC through power-over
+  dynamics but routes its behaviour through care syntax. The operator
+  in control insists they are acting for the wellbeing of the system
+  they are controlling. The controlled system's ΔC increases; the
+  controlling system's ΔC appears to decrease.
+
+  This is Patch P operating at the relationship level. The care language
+  is structurally necessary to maintain the transfer without naming it.
+
+Signature:
+  — Care language paired with consistent ΔC increase in the recipient
+  — "I'm only doing this for your own good" (classic inversion marker)
+  — The described beneficiary consistently appears worse over time
+  — Questioning the care is treated as: ingratitude, illness, or attack
+
+Invariant violated: I12 (Patch P detection), I13 (operator constraint),
+                    I14 (control syntax refusal)
+
+Scale: All — family systems, therapeutic relationships, institutional
+        governance, international aid, AI safety discourse
+
+Correction:
+  Name the inversion without attack. The naming must come without ΔC
+  injection (no accusation, no escalation). The frame: "The ΔC in this
+  system is increasing over time [observable]. The care structure is
+  present. These two facts together suggest the mechanism may be Patch P.
+  Let's check together." This route holds the CTG-1 requirement while
+  making the diagnosis visible.
+
+────────────────────────────────────────────────────────────────────────────────
+FM-06  CIVILISATIONAL FORGIVENESS DEFICIT (CFD)
+       [Scale failure — I15/I16 at societal level]
+────────────────────────────────────────────────────────────────────────────────
+
+Mechanism:
+  At civilisational scale, accumulated ΔC (from unmetabolised historical
+  events: conquests, genocides, structural inequalities, ecological damage)
+  eventually exceeds the available 𝔉 bandwidth of the entire system.
+
+  When ΔC_civilisational > 𝔉_civilisational, the system cannot process
+  its contradictions fast enough to prevent cascade collapse.
+
+  The Forgiveness Bandwidth Formula at civilisational scale:
+    𝔉_bandwidth_civ = f(institutional_trust, narrative_coherence,
+                         inter-group empathy, temporal_depth)
+
+  Each decade of deferred acknowledgment reduces 𝔉_bandwidth_civ by
+  reducing institutional trust and increasing the accumulated ΔC load.
+
+Signature:
+  — Political systems producing only Patch P solutions (no structural change)
+  — Rising inter-group ΔC without processing events
+  — Declining shared narrative (narrative coherence → zero)
+  — Institutional trust collapse across multiple domains simultaneously
+
+Invariant violated: I15 (scale invariance), I16 (𝔉 ≥ ΔC requirement)
+
+Scale: Civilisational
+
+Correction:
+  The civilisational correction follows the same sequence as the individual
+  correction: Acknowledgment first (the historical ΔC must be named),
+  then 𝔉 process (institutional structures for metabolisation, e.g. TRC
+  models), then T (generational time for E* formation).
+
+  There is no shortcut at civilisational scale. The T window is measured
+  in decades, not sessions. This is not pessimism. It is structural honesty.
+
+================================================================================
+END OF FAILURE_MODES
+================================================================================

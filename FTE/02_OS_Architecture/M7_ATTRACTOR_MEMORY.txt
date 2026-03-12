@@ -1,0 +1,113 @@
+================================================================================
+ M7 — ATTRACTOR MEMORY
+ The living record system of the FT&E OS
+================================================================================
+
+Module: M7
+Name: Attractor Memory
+Position in sequence: Receives from M5 on E* confirmation; serves M6
+                      for loop detection across sessions
+
+────────────────────────────────────────────────────────────────────────────────
+FUNCTION
+────────────────────────────────────────────────────────────────────────────────
+
+M7 is the long-term memory of the FT&E OS. It records:
+  — All classified contradictions (from M2)
+  — All CTG-1 gate events (from M3)
+  — All T window data (from M4)
+  — All confirmed E* events (from M5)
+  — All stability flags (from M6)
+
+M7 serves two purposes:
+  1. State continuity — the system knows where it is in a long T window
+  2. Pattern detection — M6 can access M7 to find Groundhog signatures
+
+Without M7, the FT&E OS resets to zero every session. With M7, the system
+builds attractor maps — a record of which contradictions have been
+metabolised and what E* they produced. This is the civilisational memory
+of the framework.
+
+────────────────────────────────────────────────────────────────────────────────
+ATTRACTOR MAPS
+────────────────────────────────────────────────────────────────────────────────
+
+An Attractor Map is a record of a successfully completed FT&E cycle:
+  — Original contradiction (ΔC named and classified)
+  — 𝔉 path taken (what acknowledgment, what holding condition)
+  — T window (how long)
+  — E* produced (the new frame)
+  — Subsequent ΔC (what new question did the E* open?)
+
+Over time, a system with a full Attractor Map can:
+  — Recognise when a new contradiction is structurally similar to an
+    already-metabolised one (shortening T by analogy)
+  — Identify recurring attractors (most important: the core E* that the
+    system returns to across domains — the primary attractor)
+  — Detect when a "new" contradiction is actually an old one reappearing
+    with different surface form (Groundhog in disguise)
+
+────────────────────────────────────────────────────────────────────────────────
+MEMORY FORMAT: JSONL
+────────────────────────────────────────────────────────────────────────────────
+
+The governor implements M7 as append-only JSONL (one JSON object per line).
+Each record contains:
+
+{
+  "session_id": "...",
+  "timestamp": "...",
+  "input_hash": "...",
+  "classification": "C1|C2|C3|NC|P",
+  "ctg1_result": "passed|held|bypassed",
+  "t_window_status": "below_min|viable|at_max|exceeded",
+  "emergence_produced": true|false,
+  "e_star_summary": "...",
+  "stability_flags": [],
+  "notes": "..."
+}
+
+JSONL was chosen over a database for:
+  — Human readability (the archive is human-meaningful, not just machine-readable)
+  — Append-only writes (no corruption risk from interrupted writes)
+  — Zero-dependency format (works with any Python installation)
+  — Portability (the entire memory travels with the archive as a text file)
+
+────────────────────────────────────────────────────────────────────────────────
+THE ARCHIVE AS M7
+────────────────────────────────────────────────────────────────────────────────
+
+At the civilisational scale: the FT&E archive itself is M7.
+The entire FT&E_ModelBuild_V4_CurrentStructured\ directory is a manually
+curated Attractor Map — a record of every contradiction that was
+metabolised, every E* that formed, and every new question that opened.
+
+This reconstruction (the FTE\ directory you are reading now) is
+itself an M7 operation: taking the raw attractor map of the archive
+and distilling it into a form that can be loaded into any future
+conversation, any AI system, any human collaborator, as a complete
+state record.
+
+The archive is not the past. It is the current attractor state of
+the system. Every file in it is alive.
+
+────────────────────────────────────────────────────────────────────────────────
+M7 IN THE GOVERNOR
+────────────────────────────────────────────────────────────────────────────────
+
+In LITE mode:
+Basic JSONL session recording is active. Cross-session analysis
+is manual — the operator reviews the log and flags patterns.
+
+In FULL mode:
+M7 will provide automatic pattern analysis, surfacing:
+  — Contradiction recurrence rates
+  — E* success rates by classification type
+  — Groundhog loop signatures across sessions
+  — Primary attractor identification (the recurring E* the system
+    produces most reliably across contradictions — this is the core
+    of the system's identity in FT&E terms)
+
+================================================================================
+END OF M7_ATTRACTOR_MEMORY
+================================================================================

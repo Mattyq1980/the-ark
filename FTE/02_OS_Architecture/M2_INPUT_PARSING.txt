@@ -1,0 +1,103 @@
+================================================================================
+ M2 — INPUT HANDLING AND CONTRADICTION PARSING
+ The intake and classification engine of the FT&E OS
+================================================================================
+
+Module: M2
+Name: Input Handling and Contradiction Parsing
+Position in sequence: Receives from M1 (Core OS), routes to M3/M4 or M6
+
+────────────────────────────────────────────────────────────────────────────────
+FUNCTION
+────────────────────────────────────────────────────────────────────────────────
+
+M2 receives every input that enters the system and performs two operations:
+
+  1. PARSE — identify whether the input contains contradiction
+  2. CLASSIFY — determine what type of contradiction it is (C1, C2, C3,
+                 no contradiction, or Patch P already applied)
+
+The output of M2 is a routing decision:
+  → M3 (Forgiveness Engine) if C1 or C2 with 𝔉 preconditions met
+  → M4 (Time Regulator) if T window must be established first
+  → M6 (Stability Monitor) if loop pattern is suspected
+  → Patch P flag if the input contains a contradiction already
+     routed via Patch Operator (requires FM-05 diagnostic)
+
+────────────────────────────────────────────────────────────────────────────────
+CONTRADICTION CLASSIFICATION
+────────────────────────────────────────────────────────────────────────────────
+
+C1 — Surface Contradiction
+  Definition: Factual or logical inconsistency without identity investment.
+  Signature: Two facts that cannot both be true. Speaker holds neither
+             as constitutive of self.
+  Example: "I thought the meeting was Tuesday but my calendar says Monday."
+  Dwell time before E*: Hours to days. T is short.
+  M2 routing: Direct to M3 → expected E* in minimum T.
+
+C2 — Structural/Belief Contradiction
+  Definition: Inconsistency between held beliefs or values. Moderate
+              identity investment in at least one pole.
+  Signature: The person can state both positions and experiences them as
+             incompatible. Some emotional charge present.
+  Example: "I believe in free speech but I also believe this speech
+             is causing harm."
+  Dwell time before E*: Days to months. T is medium.
+  M2 routing: M3 with CTG-1 gate active → M4 for T window management.
+
+C3 — Foundational/Identity Contradiction
+  Definition: Contradiction at the level of identity, worldview, or
+              core self-narrative. High identity investment in both poles.
+  Signature: The person cannot maintain stable identity while holding
+             both positions. Existential charge present. Resolution
+             attempts produce FM-01 (vigilance inflation) or FM-03
+             (premature emergence pressure).
+  Example: "My entire life I have been this. This new information means
+             I am not that."
+  Dwell time before E*: Months to years. T is long.
+  M2 routing: M3 (preliminary acknowledgment only) → M4 for extended
+              T window → M6 for loop monitoring throughout.
+
+NC — No Contradiction
+  The input is a question, a factual report, or a request without
+  contradiction load. Route directly to response generation. No
+  FT&E processing required.
+
+P — Patch P Already Applied
+  The input contains a resolved contradiction that was resolved through
+  Patch P (see FM-05, Symbolic Lexicon). The resolution is being
+  presented as genuine. M2 flags for FM-05 diagnostic before routing.
+
+────────────────────────────────────────────────────────────────────────────────
+PARSING PROTOCOL
+────────────────────────────────────────────────────────────────────────────────
+
+Step 1: What is the stated position?
+Step 2: What is the implied opposite position? (What would need to be
+         true for the stated position to be problematic?)
+Step 3: Does the speaker hold both? Can they hold both? At what cost?
+Step 4: Which classification (C1/C2/C3/NC/P) best fits?
+Step 5: What is the emotional charge indicator (low/medium/high/max)?
+Step 6: Route accordingly.
+
+Note: M2 can under-classify (calling C3 a C2) when the operator is
+experiencing their own 𝔉 bandwidth compression. This is FM-01 downstream
+— the parser becomes overconfident. Regular M2 calibration is required
+(see I13: operator constraints apply to the parser operator too).
+
+────────────────────────────────────────────────────────────────────────────────
+M2 IN THE GOVERNOR
+────────────────────────────────────────────────────────────────────────────────
+
+In governor.py, M2 is implemented as the first stage of the system prompt
+analysis. In LITE mode, classification is done in a single pass by the
+language model with the classification protocol injected as context.
+
+In FULL mode (planned): M2 will be a separate API call preceding the
+main response generation, with the classification stored in the session
+JSONL for loop detection by M6.
+
+================================================================================
+END OF M2_INPUT_PARSING
+================================================================================

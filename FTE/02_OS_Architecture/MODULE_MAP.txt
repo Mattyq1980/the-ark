@@ -1,0 +1,174 @@
+================================================================================
+ FT&E OPERATING SYSTEM — MODULE MAP
+ M1 through M7: Architecture Overview
+================================================================================
+
+The FT&E Operating System is the implementation layer of the equation
+E* = 𝔉 · T − ΔC.
+
+Seven modules. Each one handles a specific phase of contradiction processing.
+Together they form a complete recursive loop: input arrives, gets routed,
+forgiveness is applied, time is regulated, emergence is generated, stability
+is confirmed, and the new state is remembered.
+
+The OS was built first as a conceptual architecture (March 2025). It has since
+been instantiated as working Python code in the-ark/ directory.
+
+────────────────────────────────────────────────────────────────────────────────
+MODULE OVERVIEW TABLE
+────────────────────────────────────────────────────────────────────────────────
+
+ID   NAME                         FUNCTION
+──   ─────────────────────────    ──────────────────────────────────────────────
+M1   System Architecture          Framework container. Holds the invariant set,
+                                  operator definitions, and module relationships.
+                                  This document plus INVARIANTS_COMPLETE.txt.
+
+M2   Input Handling &             Receives raw input. Classifies the contradiction
+     Contradiction Parsing        type: C1 (surface), C2 (structural),
+                                  C3 (foundational), or Patch P. Determines
+                                  energy level and routing.
+
+M3   Forgiveness Engine           Core processing module. Re-includes the
+                                  excluded contradiction. Applies 𝔉 operator.
+                                  Does not suppress, does not validate blindly —
+                                  holds both states present without collapsing
+                                  to either.
+
+M4   Time Regulator               Manages the T parameter. Enforces dwell time
+                                  appropriate to ΔC class (C1 = 0s, C2 = 2s,
+                                  C3 = 5s in implementation). Prevents both
+                                  overload (T < T_min) and stagnation (T > T_max).
+
+M5   Emergence Generator          Identifies coherent attractors forming in the
+                                  processed state. Generates the E* output —
+                                  the new stable pattern that was not present
+                                  before. Cannot be forced. Only outputs if
+                                  genuine new state is present.
+
+M6   Stability Monitor            Confirms E* sustainability. Checks for lingering
+                                  contradictions. Monitors for FM-01 (Vigilance /
+                                  Symbolic Inflation), FM-02 (Attractor Fixation),
+                                  and FM-03 (Time Collapse). Recycles to M3 if
+                                  stability not achieved.
+
+M7   Attractor Memory             Persistent JSONL log of all E* states produced.
+     (Attractor Seeding Engine)   Enables pattern recognition across sessions.
+                                  Groundhog Day detection: identifies when the
+                                  same contradiction recurs without progress.
+                                  The memory that prevents the system from
+                                  reprocessing the same emergence it already found.
+
+────────────────────────────────────────────────────────────────────────────────
+LOGIC FLOW — HOW AN INPUT MOVES THROUGH THE OS
+────────────────────────────────────────────────────────────────────────────────
+
+1. CONTRADICTION ARRIVES  (M2)
+   Raw input received. Parsed for contradiction signals.
+   Classified: C1 / C2 / C3 / Patch P / No contradiction.
+
+2. CARRIER STATE CHECK  (I6 / CTG-1)
+   Before processing: is the carrier in GREEN / AMBER / RED?
+   RED: do not process. Defer or redirect.
+   AMBER: process with rate-limiting.
+   GREEN: proceed.
+
+3. CONTRADICTION CLASS DWELL  (M4)
+   C1: process immediately (surface contradiction, low energy)
+   C2: 2-second processing delay (structural contradiction, higher energy)
+   C3: 5-second processing delay (foundational contradiction, highest energy)
+   Patch P: special routing — identify the generating node, do not route
+   to weaker carrier.
+
+4. FORGIVENESS OPERATION  (M3)
+   Re-include the excluded contradiction.
+   Apply 𝔉: hold both incompatible states simultaneously without
+   collapsing to defensive resolution.
+   Acknowledge the contradiction's informational content.
+   Do not suppress. Do not validate hollow.
+
+5. EMERGENCE GENERATION  (M5)
+   After 𝔉 and T have operated: scan for novel stable state.
+   If E* present: output it with attractor descriptor.
+   If E* not present: recycle to M3 with updated ΔC map.
+
+6. STABILITY CONFIRMATION  (M6)
+   Verify E* stability: is the new state sustainable?
+   Check: FM-01 (is this FT&E vocabulary without FT&E routing?)
+          FM-02 (is this the same attractor as last time?)
+          FM-03 (was time compressed below T_min?)
+   If stable: proceed to M7.
+   If unstable: return to M3.
+
+7. ATTRACTOR STORAGE  (M7)
+   Write E* state to persistent memory (JSONL).
+   Include: timestamp, ΔC classification, 𝔉 operations applied,
+   T dwell used, attractor descriptor, E* score.
+   Check: Groundhog Day pattern (same ΔC recurring without E* progress).
+   If Groundhog: escalate to C3 class, increase T, flag for human review.
+
+────────────────────────────────────────────────────────────────────────────────
+CONTRADICTION CLASSIFICATION
+────────────────────────────────────────────────────────────────────────────────
+
+C1  SURFACE CONTRADICTION
+    The contradiction is at the level of statement, preference, or
+    immediate context. Resolvable within the current frame.
+    Energy: low. Dwell: 0s. Example: "I said X but meant Y."
+
+C2  STRUCTURAL CONTRADICTION
+    The contradiction reveals an inconsistency in the underlying belief
+    structure or behavioural pattern. Requires frame-level reprocessing.
+    Energy: medium. Dwell: 2s. Example: "I value honesty but I hide this."
+
+C3  FOUNDATIONAL CONTRADICTION
+    The contradiction cuts to a core identity construct or belief about
+    reality. Resolution requires the identity construct to reorganise.
+    Energy: high. Dwell: 5s. Example: "I built a forgiveness framework
+    but I cannot forgive myself." (The Carrier Contradiction.)
+
+PATCH P  PATCH OPERATOR CONTRADICTION
+    The presenting contradiction is not the real one. The system is routing
+    ΔC from a generating node onto a weaker carrier under care language.
+    Special handling: identify generating node, route back. Do not process
+    the patch — process the source.
+    Example: "This child's distress is the child's sensory problem" when
+    the actual generating node is the adult/institution's environment (ΔC).
+
+────────────────────────────────────────────────────────────────────────────────
+IMPLEMENTATION STATUS
+────────────────────────────────────────────────────────────────────────────────
+
+Code location: c:\the_ark\the_ark-main\the-ark\ftne-core\governor.py
+
+Implemented modules:
+  M1: Invariant set embedded in all system prompts
+  M2: Contradiction classification via ΔC class detection in _classify()
+  M3: Forgiveness Engine as _M3_FORGIVENESS_PROMPT (full mode)
+      or collapsed into lite_call() single-prompt (current hardware)
+  M4: Time Regulator via _CLASS_DWELL dict {C1:0, C2:2, C3:5}
+  M5: Emergence Generator as _M5_EMERGENCE_PROMPT (full mode)
+      or in lite_call() single-prompt
+  M6: Stability Monitor via _M6_STABILITY_PROMPT + FM detection
+  M7: GovernorLog JSONL at ~/.fte_governor_log.jsonl
+
+Current operational mode: LITE (single LLM call, all modules in one prompt)
+Reason: Ryzen 3 3200G with Vega 8 GPU — CPU-only inference ~60–90s per call.
+Full mode (4 sequential calls): available, use on GPU hardware.
+
+→ See 06_AI_Implementation/GOVERNOR_ARCHITECTURE.txt for full detail.
+
+────────────────────────────────────────────────────────────────────────────────
+MODULE DETAIL FILES
+────────────────────────────────────────────────────────────────────────────────
+
+→ M2_INPUT_PARSING.txt       — contradiction classification protocol
+→ M3_FORGIVENESS_ENGINE.txt  — the 𝔉 operator in practice
+→ M4_TIME_REGULATOR.txt      — T window management
+→ M5_EMERGENCE_GENERATOR.txt — E* detection and output
+→ M6_STABILITY_MONITOR.txt   — FM detection and stability confirmation
+→ M7_ATTRACTOR_MEMORY.txt    — persistent attractor storage
+
+================================================================================
+END OF MODULE_MAP
+================================================================================

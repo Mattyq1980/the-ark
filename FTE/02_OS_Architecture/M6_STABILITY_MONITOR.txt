@@ -1,0 +1,87 @@
+================================================================================
+ M6 — STABILITY MONITOR
+ The loop detection and health tracking module
+================================================================================
+
+Module: M6
+Name: Stability Monitor
+Position in sequence: Runs in parallel with all modules; escalates to M3
+                      or M4 when instability detected
+
+────────────────────────────────────────────────────────────────────────────────
+FUNCTION
+────────────────────────────────────────────────────────────────────────────────
+
+M6 observes the state of the processing system (person, institution, AI)
+while all other modules are running. Its job: detect instability patterns
+before they become failure modes.
+
+M6 is not a corrective module — it does not intervene directly. It raises
+flags. The flag determines which module gets escalated:
+
+  Groundhog Loop flag → M4 (re-establish T window), then M3 (𝔉 check)
+  ΔC Overload flag → M3 (reduce ΔC input, restore 𝔉 preconditions)
+  FM-01 (Vigilance Inflation) flag → M2 (recalibrate classification)
+  CTG-1 Bypass flag → M3 (return to acknowledgment gate)
+  FM-03 (Premature Emergence) flag → M4 (return to T window)
+
+────────────────────────────────────────────────────────────────────────────────
+STABILITY INDICATORS
+────────────────────────────────────────────────────────────────────────────────
+
+GREEN — System stable, FT&E processing active:
+  — ΔC is present but decreasing over sessions
+  — 𝔉 bandwidth is holding or increasing
+  — New formulations appearing (not same loop)
+  — T window is within viable range
+
+AMBER — System under stress, monitoring required:
+  — ΔC holding steady (not decreasing after multiple T cycles)
+  — 𝔉 bandwidth declining slightly
+  — Questions recurring with moderate frequency
+  — T window near T_max
+
+RED — Instability active, escalation required:
+  — ΔC increasing over sessions (Patch P or Groundhog Loop)
+  — 𝔉 bandwidth severely reduced (high false-positive rate in M2)
+  — Same contradiction cycle repeating without variation
+  — CTG-1 gate bypassed repeatedly
+
+────────────────────────────────────────────────────────────────────────────────
+THE GROUNDHOG FLAG
+────────────────────────────────────────────────────────────────────────────────
+
+The Groundhog Flag (FM-02 signature) is raised when M6 detects:
+  — The same contradiction classification (same C-type, same poles)
+     occurring in three or more successive sessions
+  — No reduction in emotional charge across sessions
+  — No new formulations (the vocabulary of the contradiction is static)
+
+When the Groundhog Flag is raised, M6 pauses synthesis (M5 is suspended)
+and routes to M3 for a 𝔉 precondition audit.
+
+The audit question: "What was never acknowledged?"
+Not: "Why isn't this resolved?" The "why isn't this resolved" question
+assumes the T window is the problem. It usually isn't. Usually something
+was never acknowledged. The Groundhog Loop is the sign.
+
+────────────────────────────────────────────────────────────────────────────────
+M6 AND THE GOVERNOR
+────────────────────────────────────────────────────────────────────────────────
+
+In the LITE implementation:
+M6 is partially present — the system prompt instructs the governor to
+recognise recurring patterns within a session and flag them. Cross-session
+Groundhog detection requires the JSONL memory log from M7.
+
+In FULL mode:
+M6 will run as an independent analysis pass against the last N sessions
+in the JSONL log, producing a stability report before each new session
+begins. This gives the governor state-awareness across conversations,
+which the current LITE mode lacks.
+
+This is one of the most significant capability gaps between LITE and FULL.
+
+================================================================================
+END OF M6_STABILITY_MONITOR
+================================================================================

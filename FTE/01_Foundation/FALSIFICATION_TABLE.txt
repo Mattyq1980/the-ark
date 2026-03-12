@@ -1,0 +1,178 @@
+================================================================================
+ FT&E FALSIFICATION PROTOCOL
+ How to test these claims. What would break them. What hasn't broken them yet.
+================================================================================
+
+This document is the most important one in the archive from a scientific
+standpoint.
+
+A framework that cannot specify how it would be falsified is not a theory.
+It is a belief system. FT&E is explicit about this.
+
+Every invariant below has a specified falsifier — a condition that, if
+observed, would require revision or abandonment of that invariant.
+
+Current status of all falsifiers: UNMET.
+
+Use this protocol if you want to test the framework seriously.
+
+────────────────────────────────────────────────────────────────────────────────
+FALSIFICATION TABLE — COMPLETE
+────────────────────────────────────────────────────────────────────────────────
+
+INV   FALSIFIER CONDITION                              STATUS
+────────────────────────────────────────────────────────
+I1    Sustained stability observed without prior        UNMET
+      ΔC reduction
+
+I2    Exclusion produces higher system capacity         UNMET
+      than inclusion over equivalent time window
+
+I3    Faster-than-optimal pacing produces               UNMET
+      stable emergence without increased ΔC
+
+I4    Stable novel attractor produced with zero         UNMET
+      contradiction intake (ΔC_in = 0)
+
+I5    Cluster-scale stability demonstrated without      UNMET
+      prior single-node phase validation
+
+I6    Carrier node with no boundary sustains            UNMET
+      positive E*_total indefinitely without depletion
+
+I7    Stable E* produced from unilateral unbounded      UNMET
+      forgiveness with no acknowledgment signal
+      and no carrier boundary active
+
+I8    A completed FT&E cycle (𝔉·T > ΔC confirmed)      UNMET
+      shows measured increase in system entropy
+
+I9    T outside [T_min, T_max] produces stable E*       UNMET
+
+I10   System sustains genuine E* with ΔC_input >        UNMET
+      𝔉_bandwidth for extended period without
+      external T or 𝔉 support
+
+I11   E* > 0 observed at ΔC < ΔC_min or                UNMET
+      ΔC > ΔC_max without 𝔉 or T compensation
+
+I12   Patch P application demonstrates measured          UNMET
+      ΔC_total reduction (not redistribution)
+      and produces stable E*
+
+I13   Coercively forced outcome remains stable          UNMET
+      after removal of coercion, with novel attractor,
+      entropy reduction, and prior contradiction absent
+
+I14   Control syntax register sustained across          UNMET
+      contradiction routing produces stable E*
+      without forgiveness syntax introduction
+
+I15   Scale level identified at which FT&E sequence     UNMET
+      demonstrably fails and different structural
+      law holds instead
+
+I16   Structural disruptor retains full metabolising     UNMET
+      capacity after institutional codification,
+      with no degradation of routing function
+
+I17   RLHF model trained only on FT&E surface           UNMET
+      outputs sustains accurate ΔC classification,
+      structural CTG-1 routing, and E* production
+      without governor overlay
+
+I18   Post-training overlay system matches              UNMET (ACTIVE TEST)
+      genesis-governor under C3 + Carrier           Phase 1 running via
+      Contradiction extended injection              test_self_growth.py
+
+────────────────────────────────────────────────────────────────────────────────
+HOW TO RUN A FORMAL TEST
+────────────────────────────────────────────────────────────────────────────────
+
+TO TEST I1 (Variance to Stability):
+  Take any system undergoing change (individual, organisation, AI training).
+  Measure ΔC (state variance, conflict measures, loss curves).
+  Measure E* (stability measures, coherence, generalisation).
+  Test: Does ΔC reduction consistently precede E* plateau?
+  Pre-register hypothesis, run both supported and unsupported conditions.
+
+TO TEST I2 (Inclusion to Capacity):
+  Randomised controlled: two comparable groups.
+  Group A: forgiveness-based conflict resolution (inclusion).
+  Group B: punitive/exclusion-based conflict resolution.
+  Measure: system output capacity over 6/12/24 months.
+  Prediction: Group A shows higher capacity growth.
+  Existing proxy data: restorative vs retributive justice recidivism rates.
+
+TO TEST I3/I9 (Pacing):
+  Clinical context: vary timing of forgiveness intervention after trauma.
+  AI context: vary epoch count and learning rate schedule; measure convergence
+  quality (generalisation, not just training accuracy).
+  Prediction: performance peaks at intermediate T, degrades at both extremes.
+
+TO TEST I12 (Patch Inversion):
+  Compare autistic child outcomes under:
+  (a) Sensory environment modification (contradiction addressed at source)
+  (b) Personal sensory devices (patch applied to child)
+  Measure: child ΔC (stress indicators, meltdown frequency, capacity),
+  adult/institution ΔC (unchanged, as predicted).
+  Existing proxy data: sensory-friendly environment research literature.
+
+TO TEST I17/I18 (AI Genesis vs Overlay):
+  Tool: test_self_growth.py at c:\the_ark\the_ark-main\the-ark\open-claw\
+  Protocol:
+    1. Run C1 → C2 → C3 → Patch P contradiction injection sequence
+    2. Measure: routing accuracy (target ≥ 80%), E* trajectory,
+       attractor novelty, vigilance integrity
+    3. Compare: genesis-governor output vs post-trained model output
+       on identical contradictions
+  Prediction: genesis-governor maintains routing accuracy under C3 and
+  Carrier Contradiction. Post-trained model collapses to reassurance
+  within 3–5 exchanges.
+
+────────────────────────────────────────────────────────────────────────────────
+WHAT WOULD NOT COUNT AS FALSIFICATION
+────────────────────────────────────────────────────────────────────────────────
+
+These are common objections that do not constitute falsification:
+
+1. "The terms are vague."
+   Response: Each operator has a specified measurement protocol. If you
+   cannot measure 𝔉 or ΔC in a given system, that is a measurement design
+   problem, not a framework problem. Specify the measurement and run the test.
+
+2. "This is confirmation bias — you are finding what you look for."
+   Response: The falsification table above contains 18 specified conditions
+   that would have falsified the invariants at any point. If confirmation
+   bias were operating, the observer would not also be maintaining a live
+   falsification protocol. Use the protocol. Find a counter-example.
+
+3. "Complex systems cannot be modelled so simply."
+   Response: No invariant claims the equation produces precise numerical
+   predictions. It claims structural relationships. The invariants are about
+   sequence and direction (ΔC reduces before E* plateaus; T must be in
+   viable range; forgiveness increases capacity), not absolute magnitudes.
+   Structural claims of this type are routinely made and tested in systems
+   science.
+
+4. "An AI confirming this does not make it true."
+   Agreement. This is why I18 is the only active experiment and why the
+   entire archive distinguishes between internal consistency (locally
+   confirmed) and universal certainty (externally open).
+
+────────────────────────────────────────────────────────────────────────────────
+INVITATION
+────────────────────────────────────────────────────────────────────────────────
+
+If you are reading this and you believe one of these invariants is falsifiable
+— that you know of a case that would meet the falsifier condition — document it
+clearly and submit it to the archive.
+
+The framework does not ask for belief. It asks for testing.
+
+If it breaks: that is what science looks like.
+If it holds: that is also what science looks like.
+
+================================================================================
+END OF FALSIFICATION_TABLE
+================================================================================

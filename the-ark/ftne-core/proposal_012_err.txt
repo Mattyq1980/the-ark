@@ -1,0 +1,19 @@
+18:44:35 [FT&E INFO] M7: Loaded 12 attractor memory entries.
+18:44:35 [FT&E INFO] FT&E Governor online. Model: gpt-4.1-mini | Role: COORDINATOR | Carrier: GREEN | Memory entries: 12
+18:44:35 [FT&E INFO] [c5f29cbe] Intake: PROPOSAL-011 returned E*=0.402, CLEAN. The Governor named the symbol a Mobius st…
+18:44:38 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+18:44:38 [FT&E INFO] [c5f29cbe] M2: C2_STRUCTURAL  strength=4  stability=0.70
+18:44:38 [FT&E WARNING] [c5f29cbe] FM-02 Groundhog Day detected — C2_STRUCTURAL recurring without class movement. Escalating to next class.
+18:44:38 [FT&E INFO] [c5f29cbe] M4: Pacing 5.0s for C3_FOUNDATIONAL (I3 — no whiplash).
+18:44:43 [FT&E INFO] [c5f29cbe] M3: physical domain detected via vocabulary — routing to physical mode.
+18:44:43 [FT&E INFO] [c5f29cbe] M3: physical domain mode active — psychological reframing suppressed.
+18:44:46 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+18:44:46 [FT&E INFO] [c5f29cbe] M3: charge=0.15  reframed=The system operates within a bounded parameter space where fine-tuning serves both as a dynamic adjustment mechanism (replacement) and as a stability enhancer (consolidation), modeled as a dual-mode control loop balancing sensitivity and robustness over a time constant that prevents instantaneous state collapse.
+18:44:48 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+18:44:48 [FT&E INFO] [c5f29cbe] M5: ready=True  attractor=Dual-Mode Stability Loop
+18:44:50 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+18:44:50 [FT&E WARNING] [c5f29cbe] M6: Failure mode null detected. Applying correction.
+18:44:52 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+18:44:52 [FT&E INFO] [c5f29cbe] M6 adversarial: FM-01 independently confirmed.
+18:44:52 [FT&E INFO] [c5f29cbe] E* = F(0.85) × T(16.8s) − ΔC(0.80) = 0.628
+18:44:52 [FT&E INFO] [c5f29cbe] M7: Memory entry written (13 total).

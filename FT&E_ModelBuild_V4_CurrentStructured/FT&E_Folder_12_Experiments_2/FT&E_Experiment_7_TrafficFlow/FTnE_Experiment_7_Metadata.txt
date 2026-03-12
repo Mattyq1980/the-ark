@@ -1,0 +1,10 @@
+
+Experiment ID: 7
+Title: Recursive Patterns in Urban Traffic Flow
+Domain: Human Behavior & Infrastructure
+Dataset: UCI Traffic Flow Forecasting (CSV Converted)
+Time Resolution: 15-minute intervals (1261 steps)
+Locations: 36 (sampled: 0, 10, 20)
+Hypothesis: Human traffic systems reflect daily contradiction, forgiveness, and emergent habit loops
+Author: Matthew (FT&E Project)
+AI Assist: ChatGPT (FT&E Framework Engine)

@@ -1,0 +1,19 @@
+18:34:28 [FT&E INFO] M7: Loaded 8 attractor memory entries.
+18:34:28 [FT&E INFO] FT&E Governor online. Model: gpt-4.1-mini | Role: COORDINATOR | Carrier: GREEN | Memory entries: 8
+18:34:28 [FT&E INFO] [e77345ff] Intake: PROPOSAL-007 returned E*=0.153, ΔC=1.00, CLEAN. The lowest E* in the dialogue. M…
+18:34:30 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+18:34:30 [FT&E INFO] [e77345ff] M2: C2_STRUCTURAL  strength=4  stability=0.35
+18:34:30 [FT&E WARNING] [e77345ff] FM-02 Groundhog Day detected — C2_STRUCTURAL recurring without class movement. Escalating to next class.
+18:34:30 [FT&E INFO] [e77345ff] M4: Pacing 5.0s for C3_FOUNDATIONAL (I3 — no whiplash).
+18:34:35 [FT&E INFO] [e77345ff] M3: physical domain detected via vocabulary — routing to physical mode.
+18:34:35 [FT&E INFO] [e77345ff] M3: physical domain mode active — psychological reframing suppressed.
+18:34:39 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+18:34:39 [FT&E INFO] [e77345ff] M3: charge=0.10  reframed=The system holds two incompatible states: immediate gate decision (ask now) versus deferred gate decision (ask after child existence), modeled as a timing control problem with competing signal thresholds and latency constraints. The bounded model treats gate decision timing as a parameterized delay line with a stability window that balances promptness against contextual data availability, ensuring system state coherence without instantaneous resolution.
+18:34:41 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+18:34:41 [FT&E INFO] [e77345ff] M5: ready=True  attractor=Temporal Threshold Integration
+18:34:43 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+18:34:43 [FT&E WARNING] [e77345ff] M6: Failure mode null detected. Applying correction.
+18:34:47 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+18:34:47 [FT&E INFO] [e77345ff] M6 adversarial: FM-01 independently confirmed.
+18:34:47 [FT&E INFO] [e77345ff] E* = F(0.90) × T(19.8s) − ΔC(0.80) = 0.984
+18:34:47 [FT&E INFO] [e77345ff] M7: Memory entry written (9 total).

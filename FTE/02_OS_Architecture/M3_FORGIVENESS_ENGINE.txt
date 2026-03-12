@@ -1,0 +1,146 @@
+================================================================================
+ M3 — THE FORGIVENESS ENGINE
+================================================================================
+
+This is the core of the OS. Everything else supports this module.
+
+The forgiveness engine is not a moral system. It is an information system.
+Its job is to re-include what was excluded.
+
+────────────────────────────────────────────────────────────────────────────────
+WHAT THE ENGINE DOES
+────────────────────────────────────────────────────────────────────────────────
+
+When M2 hands a classified contradiction to M3, the engine does one thing:
+
+    It holds both incompatible states present at the same time
+    without collapsing to either.
+
+This is structurally harder than it sounds. Every system — biological,
+psychological, social, computational — has a default reflex when
+encountering contradiction:
+
+  Biological: avoid or attack
+  Psychological: rationalise, suppress, or project
+  Social: scapegoat, punish, or ignore
+  Computational: error out, zero out, or override
+
+The forgiveness engine resists all of these defaults. It is the pause between
+stimulus and response that allows a third option: metabolisation.
+
+────────────────────────────────────────────────────────────────────────────────
+THE THREE OPERATIONS
+────────────────────────────────────────────────────────────────────────────────
+
+F1  ACKNOWLEDGMENT
+    The contradiction is named precisely.
+    Not reframed. Not softened. Not inflated.
+    "The contradiction here is between X and Y. Both are present.
+    Neither is dismissed."
+
+    This is harder than it sounds because all defensive systems prefer
+    reframing over acknowledgment. Reframing is a Patch. Acknowledgment
+    is the first step of genuine processing.
+
+    Failure mode: hollow acknowledgment — naming the contradiction while
+    energetically routing away from it. The engine checks for this by
+    requiring that the acknowledged contradiction be given back to the
+    presenter without softening.
+
+F2  RE-INCLUSION
+    The excluded state (the one the system or person has been resisting)
+    is re-included as informational input, not as threat.
+
+    What made it feel threatening is precisely where the E* lives.
+    The threat signal is not evidence of danger — it is evidence of ΔC
+    at the point of genuine growth. The engine treats the fear-signal as
+    a navigation aid, not a stop signal.
+
+    Example: "I built a forgiveness framework and I cannot forgive myself."
+    The excluded state is: the person's own experience deserving the
+    same framework they apply to others. Re-including that state is not
+    weakness. It is structural consistency.
+
+F3  HOLD WITHOUT COLLAPSE
+    Both states are held simultaneously. The engine waits (M4 activates).
+    It does not rush to resolution. It does not reassure prematurely.
+    It does not generate E* before E* is present.
+
+    Premature reassurance is the most common failure mode of forgiveness
+    systems — AI, therapeutic, and interpersonal. It meets the emotional
+    signature of forgiveness (calming language, relational warmth) without
+    the structural work (holding the contradiction until a genuine new
+    state forms). This is FM-01 / Symbolic Inflation.
+
+    The engine outputs nothing during the hold. The hold is the work.
+
+────────────────────────────────────────────────────────────────────────────────
+BOUNDARY CONDITIONS (I6, I7)
+────────────────────────────────────────────────────────────────────────────────
+
+The forgiveness engine operates within boundaries.
+
+Without I6 (Carrier Conservation) active: the engine will process
+contradictions until the carrier node depletes and E*_total → negative.
+This is the pattern of the person who forgives everyone around them
+while never attending to their own ΔC. The field looks like it is
+being processed. The carrier is being destroyed.
+
+The engine has access to the CTG-1 gate:
+  GREEN: process all incoming contradictions
+  AMBER: process but rate-limit; carrier is showing load
+  RED: defer. Redirect. The carrier must recover before processing resumes.
+
+Without I7 (Bounded Forgiveness): the engine will apply forgiveness to a
+system that is not acknowledging the contradiction. This is not forgiveness.
+It is contradiction storage at the carrier. The engine checks for
+acknowledgment signal before fully committing 𝔉 output.
+
+────────────────────────────────────────────────────────────────────────────────
+THE DIFFERENCE BETWEEN FORGIVENESS AND OTHER OPERATORS
+────────────────────────────────────────────────────────────────────────────────
+
+FORGIVENESS vs SUPPRESSION
+  Suppression: excludes the contradiction, stores the energy, reduces
+  visible ΔC temporarily, increases hidden ΔC permanently. No E*.
+  Forgiveness: includes the contradiction, metabolises the energy,
+  reduces ΔC structurally. E* possible.
+
+FORGIVENESS vs VALIDATION
+  Validation: confirms the person's current frame without introducing
+  the contradiction. Comfortable. Produces no growth. No ΔC = no E*.
+  Forgiveness: acknowledges both the current frame AND the contradiction.
+  Uncomfortable briefly. E* possible.
+
+FORGIVENESS vs FORGETTING
+  Forgetting: removes the information. No processing. Information is gone.
+  Forgiveness: retains the information, releases the energy charge around it.
+  The history is available; the wound is not re-opened by it.
+
+FORGIVENESS vs PATCH P
+  Patch P: routes the contradiction from its generating node to a weaker one.
+  No metabolisation. Weaker node carries increasing ΔC load.
+  Forgiveness: metabolises at the generating node. ΔC_total decreases.
+
+────────────────────────────────────────────────────────────────────────────────
+IN CODE
+────────────────────────────────────────────────────────────────────────────────
+
+System prompt for the Forgiveness Engine (from governor.py):
+
+  "You are the Forgiveness Engine of the FT&E Operating System.
+   Your function is not moral. It is structural. You receive a classified
+   contradiction and your task is to re-include the excluded state without
+   dismissing either side of the contradiction.
+
+   You do not reassure. You do not suppress. You hold both states and
+   allow them to interact. You output what is genuinely present after
+   that holding — not what would be comforting to generate.
+
+   The FT&E covenant: E* = 𝔉 · T − ΔC.
+   You are the 𝔉 operator. Time is managed by M4.
+   You output nothing until the hold is complete."
+
+================================================================================
+END OF M3_FORGIVENESS_ENGINE
+================================================================================

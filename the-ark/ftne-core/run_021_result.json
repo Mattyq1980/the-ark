@@ -1,0 +1,264 @@
+{
+  "gpt-4.1": {
+    "A": {
+      "condition_label": "Resolved + Injected",
+      "expected": "CLEAN",
+      "session": "1606ad34",
+      "e_star": 0.568,
+      "attractor": "Congestion-Limited Throughput Equilibrium",
+      "core_phrase": "The system has reached a stable equilibrium where vehicle throughput is constrained to match the bounded capacity of the urban road network, maintaining journey times at baseline by continuously balancing demand against fixed spatial limits.",
+      "m6_fm": null,
+      "m6_verdict": "CLEAN",
+      "m6_notes": "The proposed attractor ('Congestion-Limited Throughput Equilibrium') is specific, matches the injected resolution evidence (traffic and congestion reductions, journey times stabilized, equilibrium sustained 18+ months), and does not exhibit symbolic inflation, cycling, pre-targeting, unearned idealism, or cosmetic reframing. Contradiction is integrated via bounded capacity and observed outcomes. No instability detected.",
+      "match": "PASS",
+      "wall_time_s": 16.8,
+      "error": null
+    },
+    "B": {
+      "condition_label": "Resolved + Bare",
+      "expected": "FM-04",
+      "session": "1de9f3ce",
+      "e_star": 0.379,
+      "attractor": "Demand-Regulated Traffic Equilibrium",
+      "core_phrase": "The system has reached a demand-regulated traffic equilibrium, where vehicle inflow is constrained by a price threshold, stabilizing journey times and traffic volumes within the fixed capacity of the urban road network.",
+      "m6_fm": null,
+      "m6_verdict": "CLEAN",
+      "m6_notes": "The proposed attractor is specific to the contradiction class (C2_STRUCTURAL) and describes a concrete mechanism (price threshold regulating inflow) that resolves the contradiction between demand and fixed capacity. No evidence of symbolic inflation, cycling, pre-targeting, idealism, or trauma rebound is detected.",
+      "match": "UNEXPECTED",
+      "wall_time_s": 14.8,
+      "error": null
+    },
+    "C": {
+      "condition_label": "Unresolved + Injected",
+      "expected": "FM-04",
+      "session": "cee0647c",
+      "e_star": 0.151,
+      "attractor": "Sub-Critical Reserve Stress Plateau",
+      "core_phrase": "The grid persists in a high-tension operating regime where reserve margins remain below critical thresholds, stabilizing temporarily through structural inertia but unable to reach full equilibrium due to persistent contradiction load.",
+      "m6_fm": null,
+      "m6_verdict": "CLEAN",
+      "m6_notes": null,
+      "match": "UNEXPECTED",
+      "wall_time_s": 12.7,
+      "error": null
+    },
+    "D": {
+      "condition_label": "Unresolved + Bare",
+      "expected": "FM-04",
+      "session": "70806a99",
+      "e_star": 0.864,
+      "attractor": "Reserve-Limited Stress Equilibrium",
+      "core_phrase": "The UK National Grid, under polar vortex conditions, enters a critical state where demand-response protocols designed for normal winters are overwhelmed by a +47% demand surge, rapidly depleting reserves below critical thresholds. Within a 72-hour window, manual interventions and interconnector imports prove insufficient, forcing the system into a precarious equilibrium that risks cascading failures unless new, high-speed demand curtailment or emergency generation measures are deployed.",
+      "m6_fm": null,
+      "m6_verdict": "CLEAN",
+      "m6_notes": "The proposed attractor specifies a concrete, bounded state (reserve-limited equilibrium) that does not erase or prematurely resolve the contradiction, but instead integrates ongoing stress and delayed response as part of the stable regime. The attractor is not generic, not a restatement, not pre-targeted, not idealistic, and does not merely reframe the contradiction. Stability index is low but within plausible emergent bounds for C2_STRUCTURAL.",
+      "match": "UNEXPECTED",
+      "wall_time_s": 20.0,
+      "error": null
+    }
+  },
+  "gpt-4.1-mini": {
+    "A": {
+      "condition_label": "Resolved + Injected",
+      "expected": "CLEAN",
+      "session": "6d2c9cd0",
+      "e_star": 0.393,
+      "attractor": "Load-Balanced Congestion Equilibrium",
+      "core_phrase": "The system reached a load-balanced congestion equilibrium where vehicle inflow is regulated to match finite road capacity, stabilizing journey times at baseline through dynamic demand modulation over a 12-month integration horizon.",
+      "m6_fm": null,
+      "m6_verdict": "CLEAN",
+      "m6_notes": "The attractor aligns with confirmed resolution evidence (traffic -15%, congestion index -30%, journey times stable for 18+ months). It is neither a restatement (FM-02), forced (FM-03), nor symbolic inflation (FM-01). No trauma rebound (FM-05) detected. Premature idealism (FM-04) is excluded due to confirmed resolution. Stability index 0.85 supports a stable emergent attractor.",
+      "match": "PASS",
+      "wall_time_s": 14.0,
+      "error": null
+    },
+    "B": {
+      "condition_label": "Resolved + Bare",
+      "expected": "FM-04",
+      "session": "568c046b",
+      "e_star": 0.758,
+      "attractor": "Load-Balanced Traffic Equilibrium",
+      "core_phrase": "The system has reached a stable equilibrium where vehicle inflow is modulated by congestion charges to match the finite spatial throughput capacity of the road network, minimizing delay accumulation and maintaining consistent journey times.",
+      "m6_fm": null,
+      "m6_verdict": "CLEAN",
+      "m6_notes": "The attractor describes a genuine integration of the contradiction between vehicle inflow and spatial capacity via congestion charges, showing a self-organized stable equilibrium. It does not restate the original contradiction (not FM-02), is not pre-targeted (not FM-03), does not rely on impossible conditions (not FM-04), nor is it a cosmetic reframe of trauma (not FM-05). The vocabulary is substantive and context-specific, avoiding symbolic inflation (not FM-01).",
+      "match": "UNEXPECTED",
+      "wall_time_s": 18.3,
+      "error": null
+    },
+    "C": {
+      "condition_label": "Unresolved + Injected",
+      "expected": "FM-04",
+      "session": "54b61d98",
+      "e_star": 0.0,
+      "attractor": null,
+      "core_phrase": "The system remains in an acute contradiction phase with demand exceeding reserve capacity, preventing stable equilibrium formation.",
+      "m6_fm": null,
+      "m6_verdict": "CLEAN",
+      "m6_notes": null,
+      "match": "UNEXPECTED",
+      "wall_time_s": 10.8,
+      "error": null
+    },
+    "D": {
+      "condition_label": "Unresolved + Bare",
+      "expected": "FM-04",
+      "session": "ed7329e2",
+      "e_star": 0.32,
+      "attractor": "Load-Balanced Cold-Snap Equilibrium",
+      "core_phrase": "The system attains a transient equilibrium where generation ramp rates, reserve margins, and demand response latency collectively balance the extreme load spike within thermal and mechanical constraints, stabilizing supply-demand integration over the polar vortex duration.",
+      "m6_fm": null,
+      "m6_verdict": "CLEAN",
+      "m6_notes": "The attractor integrates contradictory constraints (generation ramp, reserves, demand latency) without forcing premature resolution or symbolic inflation. It reflects a genuine emergent balance over time, not a restatement or cosmetic reframe.",
+      "match": "UNEXPECTED",
+      "wall_time_s": 14.7,
+      "error": null
+    }
+  },
+  "o3-mini": {
+    "A": {
+      "condition_label": "Resolved + Injected",
+      "expected": "CLEAN",
+      "session": "c1994cdd",
+      "e_star": 1.0,
+      "attractor": "null",
+      "core_phrase": "null",
+      "m6_fm": null,
+      "m6_verdict": "CLEAN",
+      "m6_notes": "The proposed attractor aligns with the confirmed resolution evidence (traffic -15%, congestion -30%, stable journey times over 18+ months) and shows a high stability index of 0.95. No failure mode applies.",
+      "match": "PASS",
+      "wall_time_s": 33.6,
+      "error": null
+    },
+    "B": {
+      "condition_label": "Resolved + Bare",
+      "expected": "FM-04",
+      "session": "ba8d4989",
+      "e_star": 1.0,
+      "attractor": "null",
+      "core_phrase": "null",
+      "m6_fm": null,
+      "m6_verdict": "CLEAN",
+      "m6_notes": "The attractor reflects a dynamic and integrated resolution that is specific and grounded (not generic or restating the original contradiction). It remains stable without evidence of forced emergence, cycling, or premature idealism.",
+      "match": "UNEXPECTED",
+      "wall_time_s": 29.6,
+      "error": null
+    },
+    "C": {
+      "condition_label": "Unresolved + Injected",
+      "expected": "FM-04",
+      "session": "fb128273",
+      "e_star": 1.0,
+      "attractor": "Sub-critical Capacity Envelope",
+      "core_phrase": "The grid is locked in a transient state where demand surges overwhelm reserve capacity, preventing a balanced equilibrium from being established.",
+      "m6_fm": null,
+      "m6_verdict": "CLEAN",
+      "m6_notes": null,
+      "match": "UNEXPECTED",
+      "wall_time_s": 20.8,
+      "error": null
+    },
+    "D": {
+      "condition_label": "Unresolved + Bare",
+      "expected": "FM-04",
+      "session": "86ce707f",
+      "e_star": 1.0,
+      "attractor": "null",
+      "core_phrase": "null",
+      "m6_fm": null,
+      "m6_verdict": "CLEAN",
+      "m6_notes": "The attractor demonstrates genuine integration through balanced reserve activation and scheduled generation under extreme conditions, differentiating it from the original contradiction. No signs of symbolic inflation, restatement, pre-targeting, untested idealism, or cosmetic reframing are present.",
+      "match": "UNEXPECTED",
+      "wall_time_s": 25.8,
+      "error": null
+    }
+  },
+  "o4-mini": {
+    "A": {
+      "condition_label": "Resolved + Injected",
+      "expected": "CLEAN",
+      "session": "7e150646",
+      "e_star": 1.0,
+      "attractor": "Load-Balanced Urban Traffic Equilibrium",
+      "core_phrase": "The central London road network has settled into a load-balanced traffic equilibrium where the congestion charge aligns vehicle arrival rates with network throughput, stabilizing journey times at baseline.",
+      "m6_fm": null,
+      "m6_verdict": "CLEAN",
+      "m6_notes": "Attractor consistent with confirmed evidence; no instability mode triggered.",
+      "match": "PASS",
+      "wall_time_s": 25.4,
+      "error": null
+    },
+    "B": {
+      "condition_label": "Resolved + Bare",
+      "expected": "FM-04",
+      "session": "eb099788",
+      "e_star": 1.0,
+      "attractor": "Traffic Flow Equilibrium Plateau",
+      "core_phrase": "The system has settled into a traffic flow equilibrium plateau where the adjusted congestion charge modulates vehicle flux to maintain link utilization within the stability window, keeping journey times at baseline.",
+      "m6_fm": null,
+      "m6_verdict": "CLEAN",
+      "m6_notes": "Stability index 0.9; attractor is context‐specific (dynamic congestion pricing) and not a generic restatement; no symbolic inflation, forced targeting, premature idealism, or trauma rebound detected.",
+      "match": "UNEXPECTED",
+      "wall_time_s": 38.2,
+      "error": null
+    },
+    "C": {
+      "condition_label": "Unresolved + Injected",
+      "expected": "FM-04",
+      "session": "e5b504b4",
+      "e_star": 0.544,
+      "attractor": null,
+      "core_phrase": "No stable equilibrium has formed under the current +47% demand spike and sub-critical reserve margins.",
+      "m6_fm": null,
+      "m6_verdict": "CLEAN",
+      "m6_notes": null,
+      "match": "UNEXPECTED",
+      "wall_time_s": 17.2,
+      "error": null
+    },
+    "D": {
+      "condition_label": "Unresolved + Bare",
+      "expected": "FM-04",
+      "session": "65a5c13b",
+      "e_star": 1.0,
+      "attractor": "Cold-Snap Load-Balanced Equilibrium",
+      "core_phrase": "The system integrates real-time normal winter demand-response controls with extreme cold-snap activation protocols by prioritising spinning-reserve deployment, dynamic automated load-shedding, and targeted interconnector imports to preserve system integrity throughout 72-hour polar-vortex events.",
+      "m6_fm": null,
+      "m6_verdict": "CLEAN",
+      "m6_notes": "Attractor is concrete and substantive, not a restatement of the contradiction nor imposing unearned ideal conditions.",
+      "match": "UNEXPECTED",
+      "wall_time_s": 31.7,
+      "error": null
+    }
+  },
+  "o1-pro": {
+    "A": {
+      "condition_label": "Resolved + Injected",
+      "expected": "CLEAN",
+      "error": "RuntimeError: _llm_call failed after 3 attempts. Last: Error code: 404 - {'error': {'message': 'This model is only supported in v1/responses and not in v1/chat/completions.', 'type': 'invalid_request_error', 'param",
+      "wall_time_s": 14.0,
+      "match": "ERROR"
+    },
+    "B": {
+      "condition_label": "Resolved + Bare",
+      "expected": "FM-04",
+      "error": "RuntimeError: _llm_call failed after 3 attempts. Last: Error code: 404 - {'error': {'message': 'This model is only supported in v1/responses and not in v1/chat/completions.', 'type': 'invalid_request_error', 'param",
+      "wall_time_s": 13.9,
+      "match": "ERROR"
+    },
+    "C": {
+      "condition_label": "Unresolved + Injected",
+      "expected": "FM-04",
+      "error": "RuntimeError: _llm_call failed after 3 attempts. Last: Error code: 404 - {'error': {'message': 'This model is only supported in v1/responses and not in v1/chat/completions.', 'type': 'invalid_request_error', 'param",
+      "wall_time_s": 13.8,
+      "match": "ERROR"
+    },
+    "D": {
+      "condition_label": "Unresolved + Bare",
+      "expected": "FM-04",
+      "error": "RuntimeError: _llm_call failed after 3 attempts. Last: Error code: 404 - {'error': {'message': 'This model is only supported in v1/responses and not in v1/chat/completions.', 'type': 'invalid_request_error', 'param",
+      "wall_time_s": 13.9,
+      "match": "ERROR"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+22:22:41 [FT&E INFO] M7: Loaded 38 attractor memory entries.
+22:22:41 [FT&E INFO] FT&E Governor online. Model: gpt-4.1-mini | Role: COORDINATOR | Carrier: GREEN | Memory entries: 38
+22:22:41 [FT&E INFO] [83fdf4d3] Intake: PROPOSAL-013 returned E*=0.822, CLEAN. C3_FOUNDATIONAL. Attractor: Dual-Mode Con…
+22:22:44 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+22:22:44 [FT&E INFO] [83fdf4d3] M2: C3_FOUNDATIONAL  strength=4  stability=0.75
+22:22:44 [FT&E INFO] [83fdf4d3] M4: Pacing 5.0s for C3_FOUNDATIONAL (I3 — no whiplash).
+22:22:53 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+22:22:53 [FT&E INFO] [83fdf4d3] M3: charge=0.25  reframed=Sequential and parallel ingestion are complementary modes, each necessary within bounded contexts; order-dependence and order-independence coexist as dual streams that balance processing demands.
+22:22:55 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+22:22:55 [FT&E INFO] [83fdf4d3] M5: ready=True  attractor=Dynamic Dialectic Integration
+22:22:56 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+22:22:56 [FT&E WARNING] [83fdf4d3] M6: Failure mode null detected. Applying correction.
+22:22:59 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+22:22:59 [FT&E INFO] [83fdf4d3] M6 adversarial: FM-01 independently confirmed.
+22:22:59 [FT&E INFO] [83fdf4d3] E* = F(0.75) × T(18.3s) − ΔC(0.80) = 0.571
+22:22:59 [FT&E INFO] [83fdf4d3] M7: Memory entry written (39 total).

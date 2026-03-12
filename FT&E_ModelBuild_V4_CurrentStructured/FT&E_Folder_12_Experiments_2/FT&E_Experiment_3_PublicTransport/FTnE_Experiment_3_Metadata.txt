@@ -1,0 +1,10 @@
+
+Experiment ID: 3
+Title: Public Transport Collapse and Emergence
+Domain: Infrastructure / Systemic Recursion
+Dataset: TfL journey counts by transport mode
+Data Period: 2019–2022
+Source: Transport for London (TfL)
+Hypothesis: Recursion, forgiveness, and emergence manifest in journey trends after disruption
+Author: Matthew (FT&E Project)
+AI Assist: ChatGPT (FT&E Framework Engine)

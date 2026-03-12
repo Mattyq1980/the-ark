@@ -1,0 +1,10 @@
+
+Experiment ID: 5
+Title: Emergency Services – 999 Call Response Dynamics
+Domain: High-Pressure Human Systems / Real-Time Feedback
+Dataset: 999 Call Answering Times (UK Gov, Home Office)
+Focus: Metropolitan Police (London)
+Data Period: Nov 2021 – Feb 2025
+Hypothesis: Recursive contradiction and delayed forgiveness cycles lead to emergent stabilization in emergency response systems
+Author: Matthew (FT&E Project)
+AI Assist: ChatGPT (FT&E Framework Engine)

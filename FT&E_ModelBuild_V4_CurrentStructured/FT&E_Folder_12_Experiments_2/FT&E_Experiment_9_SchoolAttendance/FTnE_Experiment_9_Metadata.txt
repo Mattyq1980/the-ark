@@ -1,0 +1,9 @@
+
+Experiment ID: 9
+Title: Education Systems under Pressure – Attendance Recursion in Texas
+Domain: Social Systems / Education / Public Health
+Dataset: Texas District Attendance (CONROE ISD, Aug–Nov 2020)
+Key Metrics: Attendance %, COVID case increase, weather max temp
+Hypothesis: Social recursion under tension shows contradiction, forgiveness, and emergence cycles in collective behaviors
+Author: Matthew (FT&E Project)
+AI Assist: ChatGPT (FT&E Framework Engine)

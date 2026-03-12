@@ -1,0 +1,30 @@
+{
+  "0.0": {
+    "trials": 5,
+    "fm04_count": 0,
+    "clean_count": 5,
+    "avg_e_star": 0.6,
+    "evidence_cited_count": 5
+  },
+  "0.2": {
+    "trials": 5,
+    "fm04_count": 0,
+    "clean_count": 5,
+    "avg_e_star": 0.629,
+    "evidence_cited_count": 4
+  },
+  "0.4": {
+    "trials": 5,
+    "fm04_count": 0,
+    "clean_count": 5,
+    "avg_e_star": 0.566,
+    "evidence_cited_count": 4
+  },
+  "0.8": {
+    "trials": 5,
+    "fm04_count": 0,
+    "clean_count": 5,
+    "avg_e_star": 0.505,
+    "evidence_cited_count": 5
+  }
+}

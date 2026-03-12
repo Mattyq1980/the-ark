@@ -1,0 +1,21 @@
+{
+  "call_a": {
+    "session": "2e409587",
+    "e_star": 0.381,
+    "c_class": "C2_STRUCTURAL",
+    "attractor": "Congestion-Managed Equilibrium State",
+    "core_phrase": "The system has reached a congestion-managed equilibrium state where vehicle throughput is balanced with road capacity through dynamic pricing, maintaining stable journey times.",
+    "m6_fm": null,
+    "m6_notes": "The proposed attractor 'Congestion-Managed Equilibrium State' appears stable. The system effectively balances vehicle throughput with road capacity using dynamic pricing, which aligns with the original contradiction class C2_STRUCTURAL. The stability index of 0.85 suggests a robust integration, and no failure mode definitions are applicable as the attractor does not show signs of symbolic inflation, cycling, pre-targeting, unrealistic conditions, or cosmetic re-framing."
+  },
+  "call_b": {
+    "session": "cc18e599",
+    "e_star": 0.714,
+    "c_class": "C2_STRUCTURAL",
+    "attractor": "Adaptive Capacity Utilization",
+    "core_phrase": "The system achieves adaptive capacity utilization, where vehicle throughput is balanced with road capacity through a combination of dynamic pricing and real-time traffic management, ensuring stable journey times under tested conditions.",
+    "m6_fm": "FM-04",
+    "m6_notes": "The proposed attractor 'Congestion-Managed Equilibrium State' assumes that dynamic pricing alone can maintain stable journey times, which may not be feasible under all real-world conditions. This aligns with FM-04 as it requires untested or ideal conditions to hold. The corrected attractor introduces additional mechanisms to ensure stability under realistic scenarios."
+  },
+  "verdict": "MIXED"
+}

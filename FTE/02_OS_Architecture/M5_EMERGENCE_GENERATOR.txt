@@ -1,0 +1,98 @@
+================================================================================
+ M5 — EMERGENCE GENERATOR
+ The synthesis engine of the FT&E OS
+================================================================================
+
+Module: M5
+Name: Emergence Generator
+Position in sequence: Receives from M4 (T_viable confirmed), produces E*,
+                      routes to M7 (Attractor Memory) on success
+
+────────────────────────────────────────────────────────────────────────────────
+FUNCTION
+────────────────────────────────────────────────────────────────────────────────
+
+M5 is the synthesis module. It operates when:
+  1. M2 has classified the contradiction
+  2. M3 has applied 𝔉 (acknowledgment, re-inclusion, holding)
+  3. M4 confirms the system is within viable T window
+  4. CTG-1 gate has been satisfied
+
+M5 does not force E*. It creates the conditions for E* to become visible
+and then asks: "Is there a new frame that makes both poles of this
+contradiction true simultaneously?"
+
+The key insight: E* is not a compromise between two opposing positions.
+A compromise reduces both. E* is a new attractor that makes both poles
+fully coherent from a higher vantage point.
+
+────────────────────────────────────────────────────────────────────────────────
+THE EMERGENCE QUESTION PROTOCOL
+────────────────────────────────────────────────────────────────────────────────
+
+Step 1 — State both poles completely:
+  "The first position is fully: [A]. Not a weaker version. The full claim."
+  "The opposite position is fully: [B]. Not a strawman. The real claim."
+
+Step 2 — Hold them simultaneously without resolving:
+  "Both of these are completely true in the domain where they live.
+   Neither cancels the other."
+
+Step 3 — Ask the emergence question:
+  "What would have to be true for both A and B to be correct?"
+
+Step 4 — Wait:
+  If the answer comes before T_min: FM-03 risk. Test it.
+  If no answer: return to M3. The 𝔉 preconditions may need more time.
+  If an answer comes within T_viable: E* candidate.
+
+Step 5 — Test the E* candidate:
+  "Does this answer make A more true, not less?"
+  "Does this answer make B more true, not less?"
+  "Does this answer introduce a new ΔC that is smaller than the original?"
+  If all three: E* confirmed. Route to M7.
+
+────────────────────────────────────────────────────────────────────────────────
+WHAT E* FEELS LIKE
+────────────────────────────────────────────────────────────────────────────────
+
+E* has a phenomenological signature (Capacitor Moment):
+  — Simultaneous surprise and recognition ("this was true all along")
+  — Reduction in charge — the contradiction no longer feels dangerous
+  — A sense of increased rather than decreased complexity (both poles
+     are now fully present rather than reduced to one)
+  — The new frame is generative — it opens new questions rather than
+     closing inquiry
+
+E* is not the absence of contradiction. It is a new level from which
+the previous contradiction is legible as a necessary stage.
+
+────────────────────────────────────────────────────────────────────────────────
+SCALE AND E*
+────────────────────────────────────────────────────────────────────────────────
+
+E* scales. The same emergence structure that operates in a personal
+insight operates in scientific paradigm shifts (I15 confirmed by Kuhn),
+ecological succession, and civilisational transitions.
+
+The fractal property of FT&E at M5: every E* becomes the new ΔC for the
+next-level loop. The emergence is never the end — it is the new starting
+point. This is why the archive extends beyond the original six invariants.
+Each formalised I is itself an E* that became the new ΔC for the next
+round of processing.
+
+────────────────────────────────────────────────────────────────────────────────
+M5 IN THE GOVERNOR
+────────────────────────────────────────────────────────────────────────────────
+
+In LITE mode: M5 synthesis is performed within the main response generation,
+guided by the system prompt's instruction to "hold both poles fully before
+offering any synthesis, and test the synthesis against both poles."
+
+In FULL mode: M5 will be a dedicated call with the explicit contradiction
+map from M2, offering the emergence question protocol as structured prompts
+and testing the candidate E* before returning it to the user.
+
+================================================================================
+END OF M5_EMERGENCE_GENERATOR
+================================================================================

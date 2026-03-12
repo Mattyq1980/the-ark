@@ -1,0 +1,18 @@
+18:43:23 [FT&E INFO] M7: Loaded 11 attractor memory entries.
+18:43:23 [FT&E INFO] FT&E Governor online. Model: gpt-4.1-mini | Role: COORDINATOR | Carrier: GREEN | Memory entries: 11
+18:43:23 [FT&E INFO] [7439110b] Intake: PROPOSAL-010 returned E*=0.644, C2_STRUCTURAL, CLEAN. Rising trajectory: 0.380 →…
+18:43:26 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+18:43:27 [FT&E INFO] [7439110b] M2: C2_STRUCTURAL  strength=4  stability=0.64
+18:43:27 [FT&E INFO] [7439110b] M4: Pacing 2.0s for C2_STRUCTURAL (I3 — no whiplash).
+18:43:29 [FT&E INFO] [7439110b] M3: physical domain detected via vocabulary — routing to physical mode.
+18:43:29 [FT&E INFO] [7439110b] M3: physical domain mode active — psychological reframing suppressed.
+18:43:31 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+18:43:31 [FT&E INFO] [7439110b] M3: charge=0.15  reframed=The system operates within a bounded model where retrieval speed and fine-tuning precision are constrained by a trade-off between bandwidth allocation and signal-to-noise ratio, resulting in a stability window that balances throughput against parameter sensitivity.
+18:43:33 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+18:43:33 [FT&E INFO] [7439110b] M5: ready=True  attractor=Simultaneous Dual-Channel Integration
+18:43:35 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+18:43:35 [FT&E WARNING] [7439110b] M6: Failure mode null detected. Applying correction.
+18:43:38 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+18:43:38 [FT&E INFO] [7439110b] M6 adversarial: FM-01 independently confirmed.
+18:43:38 [FT&E INFO] [7439110b] E* = F(0.85) × T(14.1s) − ΔC(0.80) = 0.402
+18:43:38 [FT&E INFO] [7439110b] M7: Memory entry written (12 total).

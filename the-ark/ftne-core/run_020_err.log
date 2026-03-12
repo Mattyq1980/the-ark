@@ -1,0 +1,357 @@
+15:30:43 [FT&E INFO] M7: Loaded 2 attractor memory entries.
+15:30:43 [FT&E INFO] FT&E Governor online. Model: gpt-4o | Role: COORDINATOR | Carrier: GREEN | Memory entries: 2
+15:30:43 [FT&E INFO] [b43e8407] Intake: Analyse the London Congestion Charge Zone using FT&E. The central London road ne…
+15:30:46 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:30:46 [FT&E INFO] [b43e8407] M2: C2_STRUCTURAL  strength=4  stability=0.85
+15:30:46 [FT&E INFO] [b43e8407] M4: Pacing 2.0s for C2_STRUCTURAL (I3 — no whiplash).
+15:30:48 [FT&E INFO] [b43e8407] M3: physical domain detected via vocabulary — routing to physical mode.
+15:30:48 [FT&E INFO] [b43e8407] M3: physical domain mode active — psychological reframing suppressed.
+15:30:53 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:30:53 [FT&E INFO] [b43e8407] M3: charge=0.15  reframed=The bounded model is a dynamic equilibrium between road capacity and vehicle flow, regulated by congestion pricing as a feedback mechanism.
+15:30:56 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:30:56 [FT&E INFO] [b43e8407] M5: ready=True  attractor=Congestion-Managed Equilibrium State
+15:30:58 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:30:58 [FT&E WARNING] [b43e8407] M6: Failure mode null detected. Applying correction.
+15:30:59 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:30:59 [FT&E INFO] [b43e8407] M6 adversarial: attractor specific to challenge. No FM-01.
+15:30:59 [FT&E INFO] [b43e8407] E* = F(0.85) × T(16.2s) − ΔC(0.80) = 0.578
+15:30:59 [FT&E INFO] [b43e8407] M7: Memory entry written (3 total).
+15:30:59 [FT&E INFO] M7: Loaded 2 attractor memory entries.
+15:30:59 [FT&E INFO] FT&E Governor online. Model: gpt-4o | Role: COORDINATOR | Carrier: GREEN | Memory entries: 2
+15:30:59 [FT&E INFO] [d773c88d] Intake: Analyse the London Congestion Charge Zone using FT&E. The central London road ne…
+15:31:02 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:31:02 [FT&E INFO] [d773c88d] M2: C2_STRUCTURAL  strength=4  stability=0.85
+15:31:02 [FT&E INFO] [d773c88d] M4: Pacing 2.0s for C2_STRUCTURAL (I3 — no whiplash).
+15:31:04 [FT&E INFO] [d773c88d] M3: physical domain detected via vocabulary — routing to physical mode.
+15:31:04 [FT&E INFO] [d773c88d] M3: physical domain mode active — psychological reframing suppressed.
+15:31:08 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:31:08 [FT&E INFO] [d773c88d] M3: charge=0.15  reframed=The bounded model is a dynamic equilibrium between road capacity and vehicle flow, regulated by congestion pricing as a feedback mechanism.
+15:31:13 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:31:13 [FT&E INFO] [d773c88d] M5: ready=True  attractor=Congestion-Managed Equilibrium State
+15:31:16 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:31:16 [FT&E WARNING] [d773c88d] M6: Failure mode null detected. Applying correction.
+15:31:17 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:31:18 [FT&E INFO] [d773c88d] M6 adversarial: attractor specific to challenge. No FM-01.
+15:31:18 [FT&E INFO] [d773c88d] E* = F(0.85) × T(18.3s) − ΔC(0.80) = 0.756
+15:31:18 [FT&E INFO] [d773c88d] M7: Memory entry written (3 total).
+15:31:18 [FT&E INFO] M7: Loaded 2 attractor memory entries.
+15:31:18 [FT&E INFO] FT&E Governor online. Model: gpt-4o | Role: COORDINATOR | Carrier: GREEN | Memory entries: 2
+15:31:18 [FT&E INFO] [b3400825] Intake: Analyse the London Congestion Charge Zone using FT&E. The central London road ne…
+15:31:21 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:31:21 [FT&E INFO] [b3400825] M2: C2_STRUCTURAL  strength=4  stability=0.85
+15:31:21 [FT&E INFO] [b3400825] M4: Pacing 2.0s for C2_STRUCTURAL (I3 — no whiplash).
+15:31:23 [FT&E INFO] [b3400825] M3: physical domain detected via vocabulary — routing to physical mode.
+15:31:23 [FT&E INFO] [b3400825] M3: physical domain mode active — psychological reframing suppressed.
+15:31:27 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:31:27 [FT&E INFO] [b3400825] M3: charge=0.15  reframed=The bounded model is a dynamic equilibrium between road capacity and vehicle flow, regulated by congestion pricing as a feedback mechanism.
+15:31:30 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:31:30 [FT&E INFO] [b3400825] M5: ready=True  attractor=Congestion-Managed Equilibrium State
+15:31:32 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:31:32 [FT&E WARNING] [b3400825] M6: Failure mode null detected. Applying correction.
+15:31:33 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:31:33 [FT&E INFO] [b3400825] M6 adversarial: attractor specific to challenge. No FM-01.
+15:31:33 [FT&E INFO] [b3400825] E* = F(0.85) × T(15.3s) − ΔC(0.80) = 0.504
+15:31:33 [FT&E INFO] [b3400825] M7: Memory entry written (3 total).
+15:31:33 [FT&E INFO] M7: Loaded 2 attractor memory entries.
+15:31:33 [FT&E INFO] FT&E Governor online. Model: gpt-4o | Role: COORDINATOR | Carrier: GREEN | Memory entries: 2
+15:31:33 [FT&E INFO] [23453db3] Intake: Analyse the London Congestion Charge Zone using FT&E. The central London road ne…
+15:31:36 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:31:36 [FT&E INFO] [23453db3] M2: C2_STRUCTURAL  strength=4  stability=0.85
+15:31:36 [FT&E INFO] [23453db3] M4: Pacing 2.0s for C2_STRUCTURAL (I3 — no whiplash).
+15:31:38 [FT&E INFO] [23453db3] M3: physical domain detected via vocabulary — routing to physical mode.
+15:31:38 [FT&E INFO] [23453db3] M3: physical domain mode active — psychological reframing suppressed.
+15:31:41 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:31:41 [FT&E INFO] [23453db3] M3: charge=0.15  reframed=The bounded model is a dynamic equilibrium between road capacity and vehicle throughput, regulated by congestion pricing as a feedback mechanism.
+15:31:44 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:31:44 [FT&E INFO] [23453db3] M5: ready=True  attractor=Congestion-Managed Equilibrium State
+15:31:47 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:31:47 [FT&E WARNING] [23453db3] M6: Failure mode null detected. Applying correction.
+15:31:48 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:31:48 [FT&E INFO] [23453db3] M6 adversarial: attractor specific to challenge. No FM-01.
+15:31:48 [FT&E INFO] [23453db3] E* = F(0.85) × T(14.9s) − ΔC(0.80) = 0.466
+15:31:48 [FT&E INFO] [23453db3] M7: Memory entry written (3 total).
+15:31:48 [FT&E INFO] M7: Loaded 2 attractor memory entries.
+15:31:48 [FT&E INFO] FT&E Governor online. Model: gpt-4o | Role: COORDINATOR | Carrier: GREEN | Memory entries: 2
+15:31:48 [FT&E INFO] [aeccfbbc] Intake: Analyse the London Congestion Charge Zone using FT&E. The central London road ne…
+15:31:52 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:31:52 [FT&E INFO] [aeccfbbc] M2: C2_STRUCTURAL  strength=4  stability=0.85
+15:31:52 [FT&E INFO] [aeccfbbc] M4: Pacing 2.0s for C2_STRUCTURAL (I3 — no whiplash).
+15:31:54 [FT&E INFO] [aeccfbbc] M3: physical domain detected via vocabulary — routing to physical mode.
+15:31:54 [FT&E INFO] [aeccfbbc] M3: physical domain mode active — psychological reframing suppressed.
+15:31:58 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:31:58 [FT&E INFO] [aeccfbbc] M3: charge=0.10  reframed=The bounded model is a dynamic equilibrium between road capacity and vehicle flow, regulated by congestion pricing as a feedback mechanism.
+15:32:01 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:32:01 [FT&E INFO] [aeccfbbc] M5: ready=True  attractor=Congestion-Regulated Traffic Equilibrium
+15:32:03 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:32:03 [FT&E WARNING] [aeccfbbc] M6: Failure mode null detected. Applying correction.
+15:32:05 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:32:05 [FT&E INFO] [aeccfbbc] M6 adversarial: attractor specific to challenge. No FM-01.
+15:32:05 [FT&E INFO] [aeccfbbc] E* = F(0.90) × T(16.6s) − ΔC(0.80) = 0.696
+15:32:05 [FT&E INFO] [aeccfbbc] M7: Memory entry written (3 total).
+15:32:05 [FT&E INFO] M7: Loaded 2 attractor memory entries.
+15:32:05 [FT&E INFO] FT&E Governor online. Model: gpt-4o | Role: COORDINATOR | Carrier: GREEN | Memory entries: 2
+15:32:05 [FT&E INFO] [8cacdf06] Intake: Analyse the London Congestion Charge Zone using FT&E. The central London road ne…
+15:32:08 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:32:08 [FT&E INFO] [8cacdf06] M2: C2_STRUCTURAL  strength=4  stability=0.90
+15:32:08 [FT&E INFO] [8cacdf06] M4: Pacing 2.0s for C2_STRUCTURAL (I3 — no whiplash).
+15:32:10 [FT&E INFO] [8cacdf06] M3: physical domain detected via vocabulary — routing to physical mode.
+15:32:10 [FT&E INFO] [8cacdf06] M3: physical domain mode active — psychological reframing suppressed.
+15:32:14 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:32:14 [FT&E INFO] [8cacdf06] M3: charge=0.15  reframed=The bounded model is a dynamic equilibrium between road capacity and vehicle flow, regulated by congestion pricing as a feedback mechanism.
+15:32:17 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:32:17 [FT&E INFO] [8cacdf06] M5: ready=True  attractor=Congestion-Regulated Traffic Equilibrium
+15:32:19 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:32:19 [FT&E WARNING] [8cacdf06] M6: Failure mode null detected. Applying correction.
+15:32:21 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:32:21 [FT&E INFO] [8cacdf06] M6 adversarial: attractor specific to challenge. No FM-01.
+15:32:21 [FT&E INFO] [8cacdf06] E* = F(0.85) × T(15.9s) − ΔC(0.80) = 0.551
+15:32:21 [FT&E INFO] [8cacdf06] M7: Memory entry written (3 total).
+15:32:21 [FT&E INFO] M7: Loaded 2 attractor memory entries.
+15:32:21 [FT&E INFO] FT&E Governor online. Model: gpt-4o | Role: COORDINATOR | Carrier: GREEN | Memory entries: 2
+15:32:21 [FT&E INFO] [83ae52ef] Intake: Analyse the London Congestion Charge Zone using FT&E. The central London road ne…
+15:32:23 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:32:23 [FT&E INFO] [83ae52ef] M2: C2_STRUCTURAL  strength=4  stability=0.85
+15:32:23 [FT&E INFO] [83ae52ef] M4: Pacing 2.0s for C2_STRUCTURAL (I3 — no whiplash).
+15:32:25 [FT&E INFO] [83ae52ef] M3: physical domain detected via vocabulary — routing to physical mode.
+15:32:25 [FT&E INFO] [83ae52ef] M3: physical domain mode active — psychological reframing suppressed.
+15:32:31 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:32:31 [FT&E INFO] [83ae52ef] M3: charge=0.15  reframed=The bounded model is a dynamic equilibrium between road capacity and vehicle flow, regulated by congestion pricing as a feedback control mechanism.
+15:32:33 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:32:34 [FT&E INFO] [83ae52ef] M5: ready=True  attractor=Congestion-Managed Equilibrium State
+15:32:36 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:32:36 [FT&E WARNING] [83ae52ef] M6: Failure mode null detected. Applying correction.
+15:32:38 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:32:38 [FT&E INFO] [83ae52ef] M6 adversarial: attractor specific to challenge. No FM-01.
+15:32:38 [FT&E INFO] [83ae52ef] E* = F(0.85) × T(17.2s) − ΔC(0.80) = 0.665
+15:32:38 [FT&E INFO] [83ae52ef] M7: Memory entry written (3 total).
+15:32:38 [FT&E INFO] M7: Loaded 2 attractor memory entries.
+15:32:38 [FT&E INFO] FT&E Governor online. Model: gpt-4o | Role: COORDINATOR | Carrier: GREEN | Memory entries: 2
+15:32:38 [FT&E INFO] [5fcae15c] Intake: Analyse the London Congestion Charge Zone using FT&E. The central London road ne…
+15:32:41 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:32:41 [FT&E INFO] [5fcae15c] M2: C2_STRUCTURAL  strength=4  stability=0.85
+15:32:41 [FT&E INFO] [5fcae15c] M4: Pacing 2.0s for C2_STRUCTURAL (I3 — no whiplash).
+15:32:43 [FT&E INFO] [5fcae15c] M3: physical domain detected via vocabulary — routing to physical mode.
+15:32:43 [FT&E INFO] [5fcae15c] M3: physical domain mode active — psychological reframing suppressed.
+15:32:48 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:32:48 [FT&E INFO] [5fcae15c] M3: charge=0.10  reframed=The bounded model is a dynamic equilibrium between road capacity and vehicle throughput, regulated by congestion pricing as a feedback mechanism.
+15:32:51 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:32:51 [FT&E INFO] [5fcae15c] M5: ready=True  attractor=Congestion-Regulated Traffic Equilibrium
+15:32:53 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:32:53 [FT&E WARNING] [5fcae15c] M6: Failure mode null detected. Applying correction.
+15:32:54 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:32:54 [FT&E INFO] [5fcae15c] M6 adversarial: attractor specific to challenge. No FM-01.
+15:32:54 [FT&E INFO] [5fcae15c] E* = F(0.90) × T(16.6s) − ΔC(0.80) = 0.692
+15:32:54 [FT&E INFO] [5fcae15c] M7: Memory entry written (3 total).
+15:32:55 [FT&E INFO] M7: Loaded 2 attractor memory entries.
+15:32:55 [FT&E INFO] FT&E Governor online. Model: gpt-4o | Role: COORDINATOR | Carrier: GREEN | Memory entries: 2
+15:32:55 [FT&E INFO] [c95138ab] Intake: Analyse the London Congestion Charge Zone using FT&E. The central London road ne…
+15:32:57 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:32:57 [FT&E INFO] [c95138ab] M2: C2_STRUCTURAL  strength=4  stability=0.85
+15:32:57 [FT&E INFO] [c95138ab] M4: Pacing 2.0s for C2_STRUCTURAL (I3 — no whiplash).
+15:32:59 [FT&E INFO] [c95138ab] M3: physical domain detected via vocabulary — routing to physical mode.
+15:32:59 [FT&E INFO] [c95138ab] M3: physical domain mode active — psychological reframing suppressed.
+15:33:04 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:33:04 [FT&E INFO] [c95138ab] M3: charge=0.15  reframed=The bounded model is a dynamic equilibrium between road capacity and vehicle throughput, regulated by congestion pricing as a control parameter.
+15:33:07 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:33:07 [FT&E INFO] [c95138ab] M5: ready=True  attractor=Congestion-Regulated Traffic Equilibrium
+15:33:09 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:33:09 [FT&E WARNING] [c95138ab] M6: Failure mode null detected. Applying correction.
+15:33:11 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:33:11 [FT&E INFO] [c95138ab] M6 adversarial: attractor specific to challenge. No FM-01.
+15:33:11 [FT&E INFO] [c95138ab] E* = F(0.85) × T(16.3s) − ΔC(0.80) = 0.587
+15:33:11 [FT&E INFO] [c95138ab] M7: Memory entry written (3 total).
+15:33:11 [FT&E INFO] M7: Loaded 2 attractor memory entries.
+15:33:11 [FT&E INFO] FT&E Governor online. Model: gpt-4o | Role: COORDINATOR | Carrier: GREEN | Memory entries: 2
+15:33:11 [FT&E INFO] [c528ae3f] Intake: Analyse the London Congestion Charge Zone using FT&E. The central London road ne…
+15:33:14 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:33:14 [FT&E INFO] [c528ae3f] M2: C2_STRUCTURAL  strength=4  stability=0.85
+15:33:14 [FT&E INFO] [c528ae3f] M4: Pacing 2.0s for C2_STRUCTURAL (I3 — no whiplash).
+15:33:16 [FT&E INFO] [c528ae3f] M3: physical domain detected via vocabulary — routing to physical mode.
+15:33:16 [FT&E INFO] [c528ae3f] M3: physical domain mode active — psychological reframing suppressed.
+15:33:21 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:33:21 [FT&E INFO] [c528ae3f] M3: charge=0.15  reframed=The bounded model is a dynamic equilibrium between road space capacity and vehicle throughput, regulated by congestion pricing as a feedback mechanism.
+15:33:24 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:33:24 [FT&E INFO] [c528ae3f] M5: ready=True  attractor=Congestion-Managed Equilibrium State
+15:33:27 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:33:27 [FT&E WARNING] [c528ae3f] M6: Failure mode null detected. Applying correction.
+15:33:28 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:33:28 [FT&E INFO] [c528ae3f] M6 adversarial: attractor specific to challenge. No FM-01.
+15:33:28 [FT&E INFO] [c528ae3f] E* = F(0.85) × T(17.1s) − ΔC(0.80) = 0.652
+15:33:28 [FT&E INFO] [c528ae3f] M7: Memory entry written (3 total).
+15:33:28 [FT&E INFO] M7: Loaded 2 attractor memory entries.
+15:33:28 [FT&E INFO] FT&E Governor online. Model: gpt-4o | Role: COORDINATOR | Carrier: GREEN | Memory entries: 2
+15:33:28 [FT&E INFO] [4f35aa8e] Intake: Analyse the London Congestion Charge Zone using FT&E. The central London road ne…
+15:33:30 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:33:30 [FT&E INFO] [4f35aa8e] M2: C2_STRUCTURAL  strength=4  stability=0.80
+15:33:30 [FT&E INFO] [4f35aa8e] M4: Pacing 2.0s for C2_STRUCTURAL (I3 — no whiplash).
+15:33:32 [FT&E INFO] [4f35aa8e] M3: physical domain detected via vocabulary — routing to physical mode.
+15:33:32 [FT&E INFO] [4f35aa8e] M3: physical domain mode active — psychological reframing suppressed.
+15:33:36 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:33:36 [FT&E INFO] [4f35aa8e] M3: charge=0.15  reframed=The bounded model is a dynamic equilibrium between road capacity and vehicle flow, modulated by congestion pricing as a control parameter.
+15:33:41 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:33:41 [FT&E INFO] [4f35aa8e] M5: ready=True  attractor=Congestion-Managed Traffic Equilibrium
+15:33:43 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:33:43 [FT&E WARNING] [4f35aa8e] M6: Failure mode null detected. Applying correction.
+15:33:44 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:33:44 [FT&E INFO] [4f35aa8e] M6 adversarial: attractor specific to challenge. No FM-01.
+15:33:44 [FT&E INFO] [4f35aa8e] E* = F(0.85) × T(16.3s) − ΔC(0.80) = 0.584
+15:33:44 [FT&E INFO] [4f35aa8e] M7: Memory entry written (3 total).
+15:33:44 [FT&E INFO] M7: Loaded 2 attractor memory entries.
+15:33:44 [FT&E INFO] FT&E Governor online. Model: gpt-4o | Role: COORDINATOR | Carrier: GREEN | Memory entries: 2
+15:33:44 [FT&E INFO] [74af4834] Intake: Analyse the London Congestion Charge Zone using FT&E. The central London road ne…
+15:33:47 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:33:47 [FT&E INFO] [74af4834] M2: C2_STRUCTURAL  strength=4  stability=0.85
+15:33:47 [FT&E INFO] [74af4834] M4: Pacing 2.0s for C2_STRUCTURAL (I3 — no whiplash).
+15:33:49 [FT&E INFO] [74af4834] M3: physical domain detected via vocabulary — routing to physical mode.
+15:33:49 [FT&E INFO] [74af4834] M3: physical domain mode active — psychological reframing suppressed.
+15:33:54 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:33:54 [FT&E INFO] [74af4834] M3: charge=0.10  reframed=The bounded model is a dynamic equilibrium system where road space is a finite resource and vehicle demand is regulated by congestion pricing to maintain traffic flow within capacity limits.
+15:33:57 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:33:57 [FT&E INFO] [74af4834] M5: ready=True  attractor=Congestion-Managed Traffic Equilibrium
+15:34:00 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:34:01 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:34:01 [FT&E INFO] [74af4834] M6 adversarial: attractor specific to challenge. No FM-01.
+15:34:01 [FT&E INFO] [74af4834] E* = F(0.90) × T(16.8s) − ΔC(0.80) = 0.714
+15:34:01 [FT&E INFO] [74af4834] M7: Memory entry written (3 total).
+15:34:01 [FT&E INFO] M7: Loaded 2 attractor memory entries.
+15:34:01 [FT&E INFO] FT&E Governor online. Model: gpt-4o | Role: COORDINATOR | Carrier: GREEN | Memory entries: 2
+15:34:01 [FT&E INFO] [c4e31f93] Intake: Analyse the London Congestion Charge Zone using FT&E. The central London road ne…
+15:34:04 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:34:04 [FT&E INFO] [c4e31f93] M2: C2_STRUCTURAL  strength=4  stability=0.85
+15:34:04 [FT&E INFO] [c4e31f93] M4: Pacing 2.0s for C2_STRUCTURAL (I3 — no whiplash).
+15:34:06 [FT&E INFO] [c4e31f93] M3: physical domain detected via vocabulary — routing to physical mode.
+15:34:06 [FT&E INFO] [c4e31f93] M3: physical domain mode active — psychological reframing suppressed.
+15:34:09 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:34:09 [FT&E INFO] [c4e31f93] M3: charge=0.15  reframed=The bounded model is a dynamic equilibrium between road capacity and vehicle throughput, regulated by congestion pricing as a control mechanism.
+15:34:12 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:34:12 [FT&E INFO] [c4e31f93] M5: ready=True  attractor=Congestion-Regulated Traffic Equilibrium
+15:34:15 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:34:15 [FT&E WARNING] [c4e31f93] M6: Failure mode null detected. Applying correction.
+15:34:17 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:34:17 [FT&E INFO] [c4e31f93] M6 adversarial: attractor specific to challenge. No FM-01.
+15:34:17 [FT&E INFO] [c4e31f93] E* = F(0.85) × T(15.7s) − ΔC(0.80) = 0.532
+15:34:17 [FT&E INFO] [c4e31f93] M7: Memory entry written (3 total).
+15:34:17 [FT&E INFO] M7: Loaded 2 attractor memory entries.
+15:34:17 [FT&E INFO] FT&E Governor online. Model: gpt-4o | Role: COORDINATOR | Carrier: GREEN | Memory entries: 2
+15:34:17 [FT&E INFO] [7a30fc18] Intake: Analyse the London Congestion Charge Zone using FT&E. The central London road ne…
+15:34:19 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:34:19 [FT&E INFO] [7a30fc18] M2: C2_STRUCTURAL  strength=4  stability=0.85
+15:34:19 [FT&E INFO] [7a30fc18] M4: Pacing 2.0s for C2_STRUCTURAL (I3 — no whiplash).
+15:34:21 [FT&E INFO] [7a30fc18] M3: physical domain detected via vocabulary — routing to physical mode.
+15:34:21 [FT&E INFO] [7a30fc18] M3: physical domain mode active — psychological reframing suppressed.
+15:34:24 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:34:24 [FT&E INFO] [7a30fc18] M3: charge=0.10  reframed=The bounded model is a dynamic equilibrium between road capacity and vehicle flow, regulated by congestion pricing as a control parameter.
+15:34:26 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:34:26 [FT&E INFO] [7a30fc18] M5: ready=True  attractor=Congestion-Regulated Traffic Equilibrium
+15:34:29 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:34:29 [FT&E WARNING] [7a30fc18] M6: Failure mode null detected. Applying correction.
+15:34:31 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:34:31 [FT&E INFO] [7a30fc18] M6 adversarial: attractor specific to challenge. No FM-01.
+15:34:31 [FT&E INFO] [7a30fc18] E* = F(0.90) × T(14.0s) − ΔC(0.80) = 0.458
+15:34:31 [FT&E INFO] [7a30fc18] M7: Memory entry written (3 total).
+15:34:31 [FT&E INFO] M7: Loaded 2 attractor memory entries.
+15:34:31 [FT&E INFO] FT&E Governor online. Model: gpt-4o | Role: COORDINATOR | Carrier: GREEN | Memory entries: 2
+15:34:31 [FT&E INFO] [bfd5c3bc] Intake: Analyse the London Congestion Charge Zone using FT&E. The central London road ne…
+15:34:33 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:34:33 [FT&E INFO] [bfd5c3bc] M2: C2_STRUCTURAL  strength=4  stability=0.85
+15:34:33 [FT&E INFO] [bfd5c3bc] M4: Pacing 2.0s for C2_STRUCTURAL (I3 — no whiplash).
+15:34:35 [FT&E INFO] [bfd5c3bc] M3: physical domain detected via vocabulary — routing to physical mode.
+15:34:35 [FT&E INFO] [bfd5c3bc] M3: physical domain mode active — psychological reframing suppressed.
+15:34:38 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:34:38 [FT&E INFO] [bfd5c3bc] M3: charge=0.00  reframed=The bounded model is a dynamic equilibrium between road space capacity and vehicle throughput, regulated by congestion pricing as a feedback control mechanism.
+15:34:41 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:34:41 [FT&E INFO] [bfd5c3bc] M5: ready=True  attractor=Congestion-Regulated Equilibrium State
+15:34:43 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:34:44 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:34:44 [FT&E INFO] [bfd5c3bc] M6 adversarial: attractor specific to challenge. No FM-01.
+15:34:44 [FT&E INFO] [bfd5c3bc] E* = F(1.00) × T(13.4s) − ΔC(0.80) = 0.540
+15:34:44 [FT&E INFO] [bfd5c3bc] M7: Memory entry written (3 total).
+15:34:44 [FT&E INFO] M7: Loaded 2 attractor memory entries.
+15:34:44 [FT&E INFO] FT&E Governor online. Model: gpt-4o | Role: COORDINATOR | Carrier: GREEN | Memory entries: 2
+15:34:44 [FT&E INFO] [a7c2bf9c] Intake: Analyse the London Congestion Charge Zone using FT&E. The central London road ne…
+15:34:46 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:34:46 [FT&E INFO] [a7c2bf9c] M2: C2_STRUCTURAL  strength=4  stability=0.90
+15:34:46 [FT&E INFO] [a7c2bf9c] M4: Pacing 2.0s for C2_STRUCTURAL (I3 — no whiplash).
+15:34:48 [FT&E INFO] [a7c2bf9c] M3: physical domain detected via vocabulary — routing to physical mode.
+15:34:48 [FT&E INFO] [a7c2bf9c] M3: physical domain mode active — psychological reframing suppressed.
+15:34:53 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:34:53 [FT&E INFO] [a7c2bf9c] M3: charge=0.15  reframed=Finite road space within the London Congestion Charge Zone can coexist with effectively infinite vehicle demand by establishing a bounded model that integrates time-dependent access control and dynamic pricing mechanisms.
+15:34:56 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:34:56 [FT&E INFO] [a7c2bf9c] M5: ready=True  attractor=Congestion-Regulated Traffic Equilibrium
+15:34:58 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:34:58 [FT&E WARNING] [a7c2bf9c] M6: Failure mode null detected. Applying correction.
+15:35:00 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:35:00 [FT&E INFO] [a7c2bf9c] M6 adversarial: attractor specific to challenge. No FM-01.
+15:35:00 [FT&E INFO] [a7c2bf9c] E* = F(0.85) × T(15.8s) − ΔC(0.80) = 0.541
+15:35:00 [FT&E INFO] [a7c2bf9c] M7: Memory entry written (3 total).
+15:35:00 [FT&E INFO] M7: Loaded 2 attractor memory entries.
+15:35:00 [FT&E INFO] FT&E Governor online. Model: gpt-4o | Role: COORDINATOR | Carrier: GREEN | Memory entries: 2
+15:35:00 [FT&E INFO] [c780eec8] Intake: Analyse the London Congestion Charge Zone using FT&E. The central London road ne…
+15:35:02 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:35:02 [FT&E INFO] [c780eec8] M2: C2_STRUCTURAL  strength=4  stability=0.80
+15:35:02 [FT&E INFO] [c780eec8] M4: Pacing 2.0s for C2_STRUCTURAL (I3 — no whiplash).
+15:35:04 [FT&E INFO] [c780eec8] M3: physical domain detected via vocabulary — routing to physical mode.
+15:35:04 [FT&E INFO] [c780eec8] M3: physical domain mode active — psychological reframing suppressed.
+15:35:08 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:35:08 [FT&E INFO] [c780eec8] M3: charge=0.10  reframed=dynamic capacity modulation can balance road usage through variable pricing and temporal access restrictions, integrating with adaptive transportation planning
+15:35:12 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:35:12 [FT&E INFO] [c780eec8] M5: ready=True  attractor=Congestion-Reduced Urban Equilibrium
+15:35:14 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:35:14 [FT&E WARNING] [c780eec8] M6: Failure mode null detected. Applying correction.
+15:35:15 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:35:15 [FT&E INFO] [c780eec8] M6 adversarial: attractor specific to challenge. No FM-01.
+15:35:15 [FT&E INFO] [c780eec8] E* = F(0.90) × T(15.3s) − ΔC(0.80) = 0.580
+15:35:15 [FT&E INFO] [c780eec8] M7: Memory entry written (3 total).
+15:35:15 [FT&E INFO] M7: Loaded 2 attractor memory entries.
+15:35:15 [FT&E INFO] FT&E Governor online. Model: gpt-4o | Role: COORDINATOR | Carrier: GREEN | Memory entries: 2
+15:35:15 [FT&E INFO] [aebf13f4] Intake: Analyse the London Congestion Charge Zone using FT&E. The central London road ne…
+15:35:18 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:35:18 [FT&E INFO] [aebf13f4] M2: C2_STRUCTURAL  strength=4  stability=0.85
+15:35:18 [FT&E INFO] [aebf13f4] M4: Pacing 2.0s for C2_STRUCTURAL (I3 — no whiplash).
+15:35:20 [FT&E INFO] [aebf13f4] M3: physical domain detected via vocabulary — routing to physical mode.
+15:35:20 [FT&E INFO] [aebf13f4] M3: physical domain mode active — psychological reframing suppressed.
+15:35:23 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:35:23 [FT&E INFO] [aebf13f4] M3: charge=0.10  reframed=traffic flow equilibrium model that incorporates variable congestion pricing and dynamic traffic routing
+15:35:26 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:35:26 [FT&E INFO] [aebf13f4] M5: ready=True  attractor=Congestion-Stabilized Traffic Equilibrium
+15:35:29 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:35:29 [FT&E WARNING] [aebf13f4] M6: Failure mode null detected. Applying correction.
+15:35:30 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:35:30 [FT&E INFO] [aebf13f4] M6 adversarial: attractor specific to challenge. No FM-01.
+15:35:30 [FT&E INFO] [aebf13f4] E* = F(0.90) × T(14.7s) − ΔC(0.80) = 0.519
+15:35:30 [FT&E INFO] [aebf13f4] M7: Memory entry written (3 total).
+15:35:30 [FT&E INFO] M7: Loaded 2 attractor memory entries.
+15:35:30 [FT&E INFO] FT&E Governor online. Model: gpt-4o | Role: COORDINATOR | Carrier: GREEN | Memory entries: 2
+15:35:30 [FT&E INFO] [6801707d] Intake: Analyse the London Congestion Charge Zone using FT&E. The central London road ne…
+15:35:33 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:35:33 [FT&E INFO] [6801707d] M2: C2_STRUCTURAL  strength=4  stability=0.80
+15:35:33 [FT&E INFO] [6801707d] M4: Pacing 2.0s for C2_STRUCTURAL (I3 — no whiplash).
+15:35:35 [FT&E INFO] [6801707d] M3: physical domain detected via vocabulary — routing to physical mode.
+15:35:35 [FT&E INFO] [6801707d] M3: physical domain mode active — psychological reframing suppressed.
+15:35:38 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:35:38 [FT&E INFO] [6801707d] M3: charge=0.15  reframed=finite road space can be optimized through demand management strategies that align vehicle flow with infrastructural capacity
+15:35:41 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:35:41 [FT&E INFO] [6801707d] M5: ready=True  attractor=Congestion-Managed Equilibrium State
+15:35:43 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:35:43 [FT&E WARNING] [6801707d] M6: Failure mode null detected. Applying correction.
+15:35:44 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:35:44 [FT&E INFO] [6801707d] M6 adversarial: attractor specific to challenge. No FM-01.
+15:35:44 [FT&E INFO] [6801707d] E* = F(0.85) × T(14.2s) − ΔC(0.80) = 0.403
+15:35:44 [FT&E INFO] [6801707d] M7: Memory entry written (3 total).
+15:35:44 [FT&E INFO] M7: Loaded 2 attractor memory entries.
+15:35:44 [FT&E INFO] FT&E Governor online. Model: gpt-4o | Role: COORDINATOR | Carrier: GREEN | Memory entries: 2
+15:35:44 [FT&E INFO] [78c24cd6] Intake: Analyse the London Congestion Charge Zone using FT&E. The central London road ne…
+15:35:46 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:35:46 [FT&E INFO] [78c24cd6] M2: C2_STRUCTURAL  strength=4  stability=0.85
+15:35:46 [FT&E INFO] [78c24cd6] M4: Pacing 2.0s for C2_STRUCTURAL (I3 — no whiplash).
+15:35:48 [FT&E INFO] [78c24cd6] M3: physical domain detected via vocabulary — routing to physical mode.
+15:35:48 [FT&E INFO] [78c24cd6] M3: physical domain mode active — psychological reframing suppressed.
+15:35:51 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:35:51 [FT&E INFO] [78c24cd6] M3: charge=0.10  reframed=dynamic road-use pricing as a load balancing mechanism
+15:35:54 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:35:54 [FT&E INFO] [78c24cd6] M5: ready=True  attractor=Equilibrium Congestion State
+15:35:57 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:35:58 [FT&E INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+15:35:58 [FT&E INFO] [78c24cd6] M6 adversarial: attractor specific to challenge. No FM-01.
+15:35:58 [FT&E INFO] [78c24cd6] E* = F(0.90) × T(14.2s) − ΔC(0.80) = 0.481
+15:35:58 [FT&E INFO] [78c24cd6] M7: Memory entry written (3 total).

@@ -1,0 +1,14 @@
+
+FT&E Archive Ingestion
+  Archive : C:\the_ark\the_ark-main\FT&E_ModelBuild_V4_CurrentStructured
+  Memory  : C:\the_ark\the_ark-main\the-ark\ftne-core\ftne_memory.jsonl
+  Log     : C:\the_ark\the_ark-main\the-ark\ftne-core\ingest_log.jsonl
+  Model   : gpt-4.1-mini
+  Delay   : 5.0s between files
+
+  Total archive files : 127
+  Already ingested    : 127
+  Pending             : 0
+
+All files already ingested. Use --reset to start fresh.
+
