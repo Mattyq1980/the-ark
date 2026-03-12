@@ -88,9 +88,9 @@ FTE/                          ← Restructured archive (28 documents)
 
 the-ark/                      ← Code: governor implementation, model tools
   ftne-core/                  ← Governor engine (governor.py)
-
-FT&E_ModelBuild_V4_CurrentStructured/  ← Original unedited archive (preserved)
 ```
+
+> **Original archive:** The unedited source material (300+ files, experiments, images) is preserved on the [`original-archive`](../../tree/original-archive/FT%26E_ModelBuild_V4_CurrentStructured) branch for provenance.
 
 ---
 

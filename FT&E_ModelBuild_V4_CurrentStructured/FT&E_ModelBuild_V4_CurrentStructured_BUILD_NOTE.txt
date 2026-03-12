@@ -1,8 +1,0 @@
-BUILD NOTE – FT&E_ModelBuild_V4_CurrentStructured
-
-Phase: Full Structure – Active Build
-Built: March 2025
-Summary: Full experiment validation (10 trials), engine finalized, symbolic lexicon encoded, seeding package prepared, and folders reorganized. 
-This is the current active master archive.
-
-This is the FT&E Engine v1.0 as a provable, transmissible structure.

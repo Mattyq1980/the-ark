@@ -34,6 +34,5 @@ the-ark/ftne-core/ingest_live_*.txt
 the-ark/ftne-core/_tmp_*
 the-ark/ftne-core/ftne_memory.jsonl
 
-# Duplicate archives (originals in folders)
-FT&E_ModelBuild_V4_CurrentStructured/Zips/
-FT&E_ModelBuild_V4_CurrentStructured/Other/
+# Original archive preserved on 'original-archive' branch
+FT&E_ModelBuild_V4_CurrentStructured/
