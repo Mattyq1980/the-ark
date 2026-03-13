@@ -357,6 +357,29 @@ PROSPECTIVE_TEST_6_STELLAR_EVOLUTION.txt   (March 13, 2026)
   across human social, ecology, physics, cellular biology, planetary
   geophysics, and astrophysics.
 
+PROSPECTIVE_TEST_7_PHASE_TRANSITIONS.txt   (March 13, 2026)
+  Seventh pre-registered prospective FT&E test. Domain: Phase transitions
+  — supercooling, critical points, nucleation, glass transition, and the
+  physics of state change. Statistical mechanics / thermodynamics — the
+  textbook example of emergence in physics. Different from metallurgy
+  (Test #3): tests equilibrium state changes, not defect dynamics within
+  a crystal lattice. Operators mapped to thermal energy / molecular
+  mobility (𝔉), cooling/heating rate (T), thermodynamic driving force
+  (ΔC), new phase / macroscopic order (E*). 5 predictions locked.
+  Result: 5/5 confirmed (1 strongly), 0 counter-examples.
+  Gold case: Supercooled liquids → explosive crystallisation — water
+  supercoolable to −48.3°C, then "abrupt crystallization" when nucleation
+  triggered (aircraft icing, spontaneous freezing at supercooling limit).
+  Suppressed-ΔC pattern now confirmed in SIX independent domains (ecology,
+  metallurgy, immunology, tectonics, stellar, phase transitions). Quenching
+  → glass vs optimal cooling → crystal maps precisely to T-window. Critical
+  slowing down confirmed. Phase transitions produce genuinely novel order
+  (crystalline symmetry, superconductivity, superfluidity) absent in parent
+  phase. Scale range spans ~35 orders of magnitude (molecules → stellar).
+  Combined across 7 tests: 34/35 confirmed across human social, ecology,
+  physics, cellular biology, planetary geophysics, astrophysics, and
+  statistical mechanics.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -385,6 +408,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 33 core documents across 8 directories
+ 34 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
