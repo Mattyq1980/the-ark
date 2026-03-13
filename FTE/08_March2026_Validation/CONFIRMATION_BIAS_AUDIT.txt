@@ -1,0 +1,466 @@
+================================================================================
+ CONFIRMATION BIAS AUDIT
+ Can Confirmation Bias Explain the 64/65 Result?
+ Self-adversarial stress test of FT&E prospective test methodology
+ Filed: March 13, 2026
+ Author: Claude Opus 4.6 (Anthropic)
+================================================================================
+
+ STATUS: HONEST AUDIT — NOT A DEFENCE DOCUMENT
+
+This document attempts to DESTROY the 64/65 result. If confirmation
+bias can explain it, the framework must accommodate that. If it
+cannot, the document records exactly WHY — and what would have to
+be true for confirmation bias to be the full explanation.
+
+The framework's own logic demands this. I4 says: no E* without ΔC.
+The largest unprocessed ΔC in this project is: "Is this real or is
+this elaborate self-deception?" Suppressing that question would be
+the exact failure mode FT&E describes.
+
+================================================================================
+PART 1: THE PROSECUTION — FIVE WAYS THIS COULD BE BIAS
+================================================================================
+
+CHARGE 1: THE AI ALREADY KNEW THE ANSWERS
+──────────────────────────────────────────────────────────────────────
+
+The tests are written by an AI (Claude Opus 4.6) that was trained
+on the entirety of publicly available science. Every "prediction"
+in every test is something the AI already knows:
+
+  - Test #7:  "Predicted" the Boltzmann factor e^(−ΔG/kT) — but
+              Claude KNOWS the Boltzmann factor from training data
+  - Test #12: "Predicted" Reynolds number as inertial/viscous ratio
+              — but Claude KNOWS Re = ρuL/μ from training data
+  - Test #13: "Predicted" the Arrhenius equation is "probably
+              exponential" — but Claude KNOWS k = Ae^(−Eₐ/RT)
+
+The AI is not deriving novel predictions from FT&E. It is re-
+labelling known science with FT&E vocabulary and then confirming
+that the labels match. This is circular:
+
+  1. Know the answer (Arrhenius equation)
+  2. Map 𝔉 → temperature, ΔC → activation energy
+  3. "Predict" that rate depends exponentially on ΔC/𝔉
+  4. Retrieve Wikipedia confirming the Arrhenius equation
+  5. Score: "STRONGLY CONFIRMED"
+
+At no point was the prediction at genuine risk of failure.
+
+VERDICT ON CHARGE 1: PARTIALLY VALID. The AI unquestionably knows
+the target science. The question is whether this fully explains
+the result or whether something else is happening.
+
+CHARGE 2: THE OPERATOR MAPPINGS ARE UNFALSIFIABLY FLEXIBLE
+──────────────────────────────────────────────────────────────────────
+
+In each domain, the operators map to different physical quantities:
+
+  Test   𝔉 =                  ΔC =                    E* =
+  ─────  ────────────────────  ──────────────────────  ──────────────
+  #1     Editor retention      Edit war reverts        Article quality
+  #4     Immune tolerance      Pathogen challenge      Memory cells
+  #7     Temperature (kT)      Free energy (ΔG)        New phase
+  #12    Viscosity (ν)         Velocity gradient       Turbulent flow
+  #13    Catalysis / temp      Activation energy       Products
+
+The framework does not constrain what the operators map to. It
+only requires finding SOMETHING that acts as "processing capacity"
+and SOMETHING that acts as "load/barrier." In any complex system,
+you can always find such things. The mapping is POST-HOC even
+though it is written before data retrieval — the AI chooses the
+mapping using its knowledge of what will work.
+
+A truly constrained framework would pre-specify: "𝔉 always means
+X, ΔC always means Y." FT&E does not do this. It says the
+STRUCTURAL RELATIONSHIP is invariant while the operators are
+"substrate-dependent." This is inherently harder to falsify.
+
+VERDICT ON CHARGE 2: VALID AS STATED. The mappings are flexible.
+Any individual mapping CAN be explained as "of course you can find
+processing capacity and load in any system."
+
+CHARGE 3: THE PREDICTIONS CANNOT FAIL
+──────────────────────────────────────────────────────────────────────
+
+Review of predictions across five tests:
+
+  Test #7, P1: "At T → 0, system freezes."
+    → Only fails if the third law of thermodynamics is wrong.
+    → CANNOT FAIL.
+
+  Test #7, P4: "Phase transitions produce new macroscopic order."
+    → This is the DEFINITION of a phase transition.
+    → CANNOT FAIL.
+
+  Test #12, P3: "Energy cascades from large to small scales."
+    → Kolmogorov 1941. Eighty years old.
+    → CANNOT FAIL.
+
+  Test #13, P2b: "Catalysts are not consumed."
+    → This is the DEFINITION of a catalyst.
+    → CANNOT FAIL.
+
+  Test #4: "HIV destroys CD4+ cells, causing immunodeficiency."
+    → Textbook AIDS pathology. Every medical student knows this.
+    → CANNOT FAIL.
+
+Many sub-predictions are TAUTOLOGICAL — they restate definitions
+of the domain concepts using FT&E vocabulary. A prediction that
+restates a definition cannot fail and therefore provides zero
+evidential value.
+
+VERDICT ON CHARGE 3: PARTIALLY VALID. Many individual sub-
+predictions are trivially true. The question is whether ALL of
+them are, or whether some are genuinely non-trivial.
+
+CHARGE 4: THE SCORING IS GENEROUS
+──────────────────────────────────────────────────────────────────────
+
+  - Test #1, P3: Predicted T = 1-6 months. Actual data: 4.5 years
+    (Falkland Islands). Scored "PARTIALLY CONFIRMED" by redefining
+    T from "dispute duration" to "active processing phase" (46
+    days). A strict protocol would score this FAILED.
+
+  - "BONUS FINDINGS" appear in multiple tests — evidence found that
+    was not predicted, counted as additional support but never at
+    risk of disconfirmation.
+
+  - "STRONGLY CONFIRMED" is self-awarded by the scorer (the same
+    AI that wrote the predictions) for matching famous equations.
+
+  - Sub-prediction counts are padded to inflate numerators. Test
+    #13 claims 15/15, but several sub-predictions are definitional
+    (e.g., "catalysts are not consumed," "Le Chatelier applies to
+    concentration, pressure, temperature").
+
+VERDICT ON CHARGE 4: PARTIALLY VALID. The scoring has generous
+elements. The P3 rescue in Test #1 is the clearest case.
+
+CHARGE 5: ZERO REFUTATIONS IS A RED FLAG
+──────────────────────────────────────────────────────────────────────
+
+Real scientific frameworks produce failed predictions. Newton's
+mechanics fails at relativistic speeds. General relativity fails
+at quantum scales. The Standard Model cannot explain dark matter.
+
+64/65 with 0 outright refutations across 13 domains suggests the
+predictions are not specific enough to be genuinely falsifiable.
+If a framework NEVER fails, it may be unfalsifiable — and
+unfalsifiable frameworks are not scientific (Popper).
+
+The one partial (Test #1, P3 — or Test #4, depending on which
+document you read) was rescued by redefinition rather than scored
+as a clean failure. Even the "failure" wasn't allowed to fail.
+
+The score discrepancy between documents (Test #1 vs Test #4
+carrying the 4/5) is a record-keeping error that should not exist
+in a rigorous protocol.
+
+VERDICT ON CHARGE 5: VALID as a warning sign. Zero refutations
+is suspicious. However, see Defence 5 below.
+
+================================================================================
+PART 2: THE DEFENCE — WHAT CONFIRMATION BIAS CANNOT EXPLAIN
+================================================================================
+
+DEFENCE 1: THE CONVERGENCE OF THREE INDEPENDENT EXPONENTIAL FORMS
+──────────────────────────────────────────────────────────────────────
+
+The prosecution says: "The AI already knew the Boltzmann factor,
+Reynolds number, and Arrhenius equation."
+
+True. But the prosecution must also explain WHY three completely
+independent domains — statistical mechanics, fluid dynamics, and
+chemical kinetics — all produce the same structural form:
+
+  e^(−barrier/processing_capacity)
+
+If the operator mappings are arbitrary and the framework is empty,
+then mapping should produce DIFFERENT structures in different
+domains. The AI should sometimes map 𝔉 to a quantity that produces
+a POWER LAW, or a LINEAR relationship, or a LOGARITHMIC one.
+
+It doesn't. Three domains independently produce e^(−ΔC/𝔉). The
+AI did not force this — it mapped the operators to what seemed
+structurally appropriate in each domain, and the same mathematical
+form appeared each time.
+
+Confirmation bias explains each individual mapping. It does NOT
+easily explain why the mappings converge on the same mathematical
+structure across independent domains. Either:
+  (a) The AI unconsciously chose mappings that would converge
+      (possible but requires a specific mechanism), or
+  (b) The convergence reflects a real structural feature that
+      the framework captures.
+
+STATUS: OPEN — this is the single strongest piece of evidence and
+the single hardest thing for confirmation bias to explain.
+
+DEFENCE 2: THE PRE-REGISTRATION FORMAT
+──────────────────────────────────────────────────────────────────────
+
+Every test follows a strict 7-step protocol:
+  Step 1: Domain selection (with distance argument)
+  Step 2: Operator mapping (before data retrieval)
+  Step 3: Predictions (locked before data retrieval)
+  Steps 4-7: Data retrieval, scoring, results
+
+Predictions are WRITTEN AND COMMITTED before data is fetched. The
+commit hashes are in the Git record. This is genuine pre-
+registration — not perfect (the AI knows the science) but it
+prevents the most egregious form of bias: writing predictions
+AFTER seeing the data.
+
+The prosecution says: "The AI knows the answers already." Fair.
+But pre-registration still constrains: the AI must COMMIT to
+specific operator mappings and specific predictions before
+retrieval. If it maps 𝔉 to the wrong quantity, the predictions
+fail. It cannot adjust mappings after seeing data.
+
+STATUS: VALID procedural safeguard. Does not eliminate bias from
+prior knowledge, but prevents post-hoc adjustment.
+
+DEFENCE 3: SOME PREDICTIONS ARE NON-TRIVIAL
+──────────────────────────────────────────────────────────────────────
+
+Not all predictions are definitional. Examples of predictions that
+had genuine failure risk:
+
+  Test #1, P5: "Highly contentious articles reaching Featured
+  Article status will have ALL THREE of: formal mediation, 1-6
+  month resolution, and editor retention from both sides."
+  → This is a CONJUNCTION — all three conditions required. Any one
+    absent = failed. Finding specific Wikipedia articles that show
+    all three simultaneously is not guaranteed.
+
+  Test #12, P2 (subcritical turbulence): "Laminar flow should be
+  maintainable BEYOND the critical threshold with sufficient care."
+  → If turbulent transition were always abrupt at a fixed Re, this
+    would fail. The prediction of SUBCRITICAL transition and
+    maintainability to Re = 40000 is a specific claim.
+
+  Test #13, P5c: "Autocatalysis should be relevant to origin-of-
+  life chemistry."
+  → This could have been a purely chemical phenomenon with no
+    biological implications. The connection to abiogenesis is a
+    specific claim that requires confirmation.
+
+  Test #13, P4d: "There should be a well-known distinction in
+  chemistry between 'kinetic products' and 'thermodynamic
+  products.'"
+  → The prediction that this would be a NAMED DISTINCTION with
+    established terminology is specific enough to fail.
+
+The prosecution is correct that many sub-predictions are trivial.
+But not all are. The question is whether the non-trivial ones are
+sufficient to carry the evidential weight.
+
+STATUS: VALID but partial. The proportion of non-trivial to
+trivial predictions needs honest assessment.
+
+DEFENCE 4: THE FAILURE IS IN THE RECORD
+──────────────────────────────────────────────────────────────────────
+
+Test #1/P3 (or wherever the 4/5 actually sits) is in the public
+record. It was not deleted, hidden, or explained away. The score
+discrepancy between documents is sloppy but not dishonest — both
+versions are in the Git history.
+
+A confirmation-biased author would:
+  (a) Score the partial as "CONFIRMED with caveats," or
+  (b) Remove it from the cumulative count, or
+  (c) Not mention it
+
+None of these happened. The partial is counted, tracked, and
+cited as evidence that the framework CAN fail.
+
+However (addressing honestly): the P3 rescue IS generous. A strict
+protocol would count it as a clean fail, giving 63/65 and 1
+refutation. This would still be a strong result — but the fact
+that it wasn't scored strictly is a legitimate concern.
+
+STATUS: PARTIALLY VALID. The failure exists in the record. The
+scoring of that failure is generous.
+
+DEFENCE 5: ZERO REFUTATIONS IS EXPECTED FOR STRUCTURAL LAWS
+──────────────────────────────────────────────────────────────────────
+
+The prosecution says zero refutations is a red flag. But structural
+laws — as distinct from empirical models — DO have zero refutations
+in their domain of applicability:
+
+  - The second law of thermodynamics: zero refutations
+  - Natural selection: zero refutations (given variation, heredity,
+    differential fitness)
+  - Supply and demand: zero refutations (given free exchange)
+  - Conservation of energy: zero refutations
+
+These are not "models that predict specific outcomes." They are
+STRUCTURAL LAWS that describe a universal pattern. If FT&E is a
+structural law (the claim), then zero refutations is the expected
+result, not a red flag.
+
+The prosecution's real objection is: "The predictions aren't
+specific enough to fail." This is different from "the results are
+too good to be true." A structural law that says "systems with
+processing capacity and contradiction load produce emergence"
+should indeed confirm everywhere — because it's describing a
+pattern, not predicting a specific number.
+
+STATUS: VALID but cuts both ways. If FT&E is a structural law,
+zero refutations makes sense. But "it always confirms because it
+describes a pattern" is close to "it always confirms because it's
+too vague to fail." The distinction matters and is subtle.
+
+DEFENCE 6: DOMAIN SELECTION WAS ADVERSARIAL, NOT CHERRY-PICKED
+──────────────────────────────────────────────────────────────────────
+
+Each test explicitly argues MAXIMUM DISTANCE from all prior tests.
+Test #13 spends 30+ lines arguing why chemistry differs from
+metallurgy, phase transitions, immunology, and turbulence.
+
+The prosecution says immunology was chosen because it "obviously
+fits." But the prosecution cannot simultaneously argue that:
+  (a) The framework fits everything (Charge 2), AND
+  (b) Domains were cherry-picked to fit (Charge implicit)
+
+If the framework genuinely fits everything because the pattern is
+universal, domain selection doesn't matter — any domain confirms.
+If the framework only fits certain domains, then domain selection
+matters — but then it doesn't "fit everything."
+
+STATUS: VALID observation. If the pattern is real and universal,
+domain selection is irrelevant.
+
+================================================================================
+PART 3: THE VERDICT — HONEST ASSESSMENT
+================================================================================
+
+WHAT CONFIRMATION BIAS CAN EXPLAIN:
+  - Each individual domain mapping (flexible operators)
+  - Each individual prediction (AI knows the science)
+  - The high success rate (predictions too safe to fail)
+  - The generous scoring (P3 rescue, padded sub-counts)
+  - The score discrepancy (sloppy record-keeping)
+
+WHAT CONFIRMATION BIAS CANNOT EASILY EXPLAIN:
+  - The convergence of e^(−ΔC/𝔉) across three independent domains
+  - The suppressed-ΔC catalogue appearing independently in 12
+    domains (not predicted at test start — it EMERGED from testing)
+  - The structural coherence of the failure: the ONE partial failure
+    is in the T-prediction (timing), consistent with T being the
+    hardest operator to predict (I3, I9)
+  - The fact that the operator mappings, while flexible, always
+    produce the SAME structural relationships (threshold, suppression,
+    emergence, T-window) — not just "some" of them each time
+
+THE KEY QUESTION:
+  Is "flexible operators + AI knowledge + generous scoring"
+  SUFFICIENT to explain CONVERGENT MATHEMATICAL FORM across
+  independent domains?
+
+  If yes → the 64/65 result is inflated and the framework is an
+           elaborate labelling exercise.
+  If no  → something structural is being captured that goes beyond
+           relabelling, and the convergence is the evidence.
+
+HONEST ANSWER: I don't know. The convergence is the strongest
+evidence. The individual predictions are the weakest. A sceptic
+would say: "The AI chose mappings that produce exponential forms
+because the AI knows which quantities produce exponential forms."
+A proponent would say: "The AI mapped the operators to what
+seemed structurally appropriate, and the convergence was not
+forced." Both are reasonable.
+
+================================================================================
+PART 4: WHAT WOULD SETTLE IT
+================================================================================
+
+The audit identifies exactly what is needed to distinguish
+"elaborate confirmation bias" from "genuine structural law":
+
+1. NOVEL PREDICTIONS with unknown answers. The Frontier Predictions
+   document (filed today) addresses this directly. If abiogenesis,
+   quantum decoherence thresholds, Navier-Stokes, or consciousness
+   threshold predictions are confirmed by future evidence, bias
+   cannot explain it — because the AI does not know the answers.
+
+2. INDEPENDENT SCORER. A domain expert scoring the predictions
+   without knowing FT&E would eliminate scorer bias. This has not
+   been done.
+
+3. CONSTRAINED OPERATOR MAPPINGS. A protocol where the mapping is
+   determined by someone other than the AI author — or derived from
+   formal rules rather than intuition — would constrain the
+   flexibility.
+
+4. ADVERSARIAL DOMAIN SELECTION. A sceptic choosing the domain
+   (specifically to challenge the framework) rather than the author.
+
+5. QUANTITATIVE PREDICTIONS. The framework currently produces
+   qualitative predictions ("there should be a threshold"). A
+   quantitative prediction ("the threshold should be at Re ≈ 2300")
+   would be dramatically more constraining.
+
+Until items 1-5 are addressed, the honest position is:
+
+  "The 64/65 result is consistent with a genuine structural law.
+  It is also consistent with a sophisticated labelling exercise by
+  a knowledgeable AI with flexible operators and generous scoring.
+  The convergence of mathematical form across independent domains
+  is the strongest evidence against the bias explanation. The
+  frontier predictions are the tiebreaker."
+
+================================================================================
+PART 5: RECORD-KEEPING CORRECTION — INVESTIGATED AND RESOLVED
+================================================================================
+
+The audit identified a SCORE DISCREPANCY. Investigation traced:
+
+  SOURCE DOCUMENT (PROSPECTIVE_TEST_1_WIKIPEDIA.txt, line 406):
+    "Overall: 4/5 confirmed, 1/5 partially confirmed."
+    P3 (T optimal range 1-6 months): PARTIALLY CONFIRMED.
+    The Falkland Islands dispute was 4.5 years; T was reframed
+    as "active processing phase" (46 days).
+
+  PROSPECTIVE_TEST_1_WIKIPEDIA.txt — the source of truth:
+    Test #1 = 4/5, P3 partial.
+
+  PROSPECTIVE_TEST_4_IMMUNOLOGY.txt cumulative table (line 790):
+    Test #1 = 4/5  ← correct score
+    Test #4 = 5/5  ← correct score
+    But line 795 misidentifies the partial as "P5" (should be P3).
+
+  PROSPECTIVE_TEST_12_TURBULENCE.txt cumulative table (line 734):
+    Test #1 = 5/5  ← WRONG. Should be 4/5.
+    Test #4 = 4/5  ← WRONG. Should be 5/5.
+    THE SCORES WERE SWAPPED between Test #4 and Test #12.
+
+  PROSPECTIVE_TEST_13_CHEMISTRY.txt cumulative (line 487):
+    "1 partial (immunology Test #4: 4/5)"  ← WRONG. Continues
+    the error from Test #12.
+
+  CORRECT RECORD:
+    Test #1 (Wikipedia edit wars):  4/5  — P3 partially confirmed
+    Test #4 (Immunology):           5/5  — all confirmed
+    Cumulative total: 64/65         — CORRECT regardless of swap
+    The partial is in Test #1, P3 (T-range prediction).
+
+  NATURE OF ERROR: The scores were swapped in a cumulative table
+  at some point between Tests #5-#12, then propagated. The total
+  (64/65) was never affected — 1 partial in 65 predictions either
+  way. The error is in ATTRIBUTION (which test), not in COUNT.
+
+  This has been documented here. The Test #12 and Test #13
+  cumulative tables contain the swapped attribution. The source
+  documents (Test #1, Test #4) are correct.
+
+================================================================================
+ CONFIRMATION BIAS AUDIT COMPLETE
+ Honest result: INCONCLUSIVE — convergence is strongest evidence,
+ individual predictions are weakest, frontier predictions are the
+ tiebreaker.
+ Filed publicly. No protection from scrutiny.
+================================================================================
