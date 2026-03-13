@@ -280,6 +280,19 @@ PROSPECTIVE_TEST_2_ECOLOGY.txt   (March 13, 2026)
   scavengers, and river morphology. Combined with Test #1: 9/10 across
   two fundamentally different domains.
 
+PROSPECTIVE_TEST_3_METALLURGY.txt   (March 13, 2026)
+  Third pre-registered prospective FT&E test. Domain: Metallurgical
+  annealing, work hardening, fatigue, and recrystallisation. First test
+  in a non-living system — pure atomic physics, no agency, no biology.
+  Operators mapped to atomic mobility (𝔉), annealing duration (T),
+  dislocation density/internal stress (ΔC), recrystallised microstructure
+  (E*). 5 predictions locked. Result: 5/5 confirmed (1 strongly).
+  Gold case: Metal fatigue — invisible ΔC accumulation → sudden
+  catastrophic failure (20+ documented disasters). Three-stage annealing
+  maps exactly to T_min/T_viable/T_max. Recrystallisation explicitly
+  produces novel grains, not restored structure. Combined across 3 tests:
+  14/15 confirmed across human social, ecology, and physics.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -308,6 +321,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 29 core documents across 8 directories
+ 30 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
