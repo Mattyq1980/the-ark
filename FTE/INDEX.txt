@@ -667,6 +667,27 @@ CONFIRMATION_BIAS_AUDIT.txt   (March 13, 2026)
   with unknown answers, independent scorer, constrained operator mappings,
   adversarial domain selection, quantitative predictions.
 
+PROSPECTIVE_TEST_14_INFORMATION_THEORY.txt   (March 2026)
+  Fourteenth pre-registered prospective FT&E test. Domain: abstract
+  mathematical communication theory (Shannon's framework). FIRST TEST IN
+  PURE MATHEMATICS — no physical, biological, or social substrate.
+  Methodology directly addresses all five Confirmation Bias Audit
+  criticisms: formally constrained operator mappings (not intuitive),
+  quantitative predictions included, maximally distant domain, explicit
+  failure conditions, AI's prior knowledge acknowledged.
+  Operator mapping: 𝔉=Channel capacity C (max I(X;Y)), ΔC=Noise entropy
+  H(N)/equivocation H(X|Y), T=Block length n, E*=Reliable communication.
+  Five predictions: (P1) error exponent e^(−n·E_r(R)) with sharp
+  threshold at R=C — fourth independent domain producing exponential
+  threshold form. (P2) redundancy as 𝔉-bandwidth, capacity-approaching
+  codes exist (LDPC within 0.0045 dB). (P3) noiseless channel = trivial
+  emergence — Suppressed-ΔC pattern in pure mathematics. (P4) AWGN
+  capacity C=W·log₂(1+S/N) encodes E*=𝔉·T−ΔC structure. (P5) converse
+  theorem establishes T-minimum, required block length diverges as R→C.
+  Result: 5/5. Combined across 14 tests: 69/70 confirmed, 0 refutations.
+  Gold finding: exponential threshold now spans physics, chemistry,
+  engineering, AND pure mathematics — four independent domains.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -695,6 +716,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 43 core documents across 8 directories
+ 44 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
