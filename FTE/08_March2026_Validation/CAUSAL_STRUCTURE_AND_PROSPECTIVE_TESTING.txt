@@ -1,0 +1,293 @@
+================================================================================
+ FT&E — CAUSAL STRUCTURE AND PROSPECTIVE TESTING
+ Formalisation layer for intervention, mechanism, and prediction
+================================================================================
+
+Date:        March 13, 2026
+Author:      GitHub Copilot (GPT-5.4)
+Purpose:     Convert FT&E from a broad structural relation into a clearer
+             causal-testing frame. This document does NOT replace the
+             equation, invariants, or prospective protocol. It adds the
+             missing causal layer needed for stronger scientific engagement.
+
+WHY THIS FILE EXISTS
+
+Multiple serious scientific objections converge on the same pressure point:
+
+  "What is the causal structure here?"
+
+The existing archive already provides:
+  - a core equation: E* = 𝔉 · T − ΔC
+  - invariants and falsifiers
+  - failure modes
+  - retrospective evidence
+  - prospective test templates
+
+What it has not yet stated explicitly is a causal graph logic:
+  - what variables are upstream,
+  - what interventions should change what outcomes,
+  - what mediation paths are proposed,
+  - what would count as causal failure rather than mere interpretive mismatch.
+
+This document formalises that layer.
+
+────────────────────────────────────────────────────────────────────────────────
+1. MINIMAL CAUSAL CLAIM
+────────────────────────────────────────────────────────────────────────────────
+
+FT&E makes the following minimal causal claim:
+
+  For contradiction-bearing systems, the probability and quality of stable
+  emergence (E*) is jointly determined by:
+
+    - contradiction load (ΔC)
+    - re-inclusion / tolerance / metabolisation capacity (𝔉)
+    - time available for processing (T)
+
+In directional form:
+
+  Higher ΔC, holding other factors fixed, reduces the chance of stable E*.
+  Higher 𝔉, holding other factors fixed, increases the chance of stable E*.
+  T has a bounded effect: too little T blocks emergence; viable T increases
+  emergence; excessive T may degrade into chronicity or breakdown.
+
+This is not merely correlational inside FT&E. It is intended as a mechanism
+claim.
+
+────────────────────────────────────────────────────────────────────────────────
+2. VARIABLES
+────────────────────────────────────────────────────────────────────────────────
+
+Core variables:
+
+  ΔC  = Contradiction load
+        The quantity/intensity of incompatible demands, unresolved tensions,
+        or destructive mismatch present in the system.
+
+  𝔉   = Forgiveness / re-inclusion capacity
+        The system's capacity to encounter contradiction without expelling,
+        suppressing, or misrouting it. Not sentiment. A structural operator.
+
+  T   = Processing time
+        The duration of sustained engagement with contradiction. Has lower and
+        upper viability bounds.
+
+  E*  = Emergence
+        Stable new system state, new capacity, or durable reorganisation after
+        contradiction has been metabolised.
+
+Intermediate / mediating variables:
+
+  P   = Patch intensity
+        Degree to which contradiction is displaced, suppressed, moralised,
+        or extracted onto weaker nodes rather than processed.
+
+  B   = Boundary quality
+        Whether the system maintains viable containment while processing.
+        Neither zero-boundary exposure nor total closure.
+
+  S   = Stability state
+        Whether the new state is robust, premature, chronic, fragile, or
+        self-damaging.
+
+  D   = Detection fidelity
+        The system's ability to register contradiction honestly (M1-level
+        detection rather than denial, masking, or projection).
+
+────────────────────────────────────────────────────────────────────────────────
+3. CAUSAL SKELETON
+────────────────────────────────────────────────────────────────────────────────
+
+Minimal directed graph:
+
+  ΔC ───────► P ───────► E* (negative path)
+   │          ▲
+   │          │
+   │          │
+   ├──────► D ┘
+   │
+   ├──────────────────────────────► E* (negative direct load effect)
+   │
+   ▼
+  T ──────────────────────────────► S ───────────────────────────────► E*
+   ▲                                ▲
+   │                                │
+   │                                │
+  𝔉 ─────────► P (reduces Patch) ───┘
+   │
+   ├──────────────────────────────► E* (positive direct effect)
+   │
+   └──────────────────────────────► B ───────────────────────────────► S
+
+Informal reading:
+
+  - Higher contradiction load increases pressure toward patching and reduces
+    emergence directly if not metabolised.
+  - Higher forgiveness/re-inclusion reduces patching and improves the odds of
+    emergence.
+  - Time affects stability non-linearly: too little gives no integration,
+    viable time permits reorganisation, too much can become pathology.
+  - Boundary quality and detection fidelity mediate whether contradiction is
+    processed or misrouted.
+
+────────────────────────────────────────────────────────────────────────────────
+4. INTERVENTIONAL CLAIMS
+────────────────────────────────────────────────────────────────────────────────
+
+FT&E should cash out under intervention as follows:
+
+I1. Intervention on 𝔉:
+  If we raise 𝔉 while keeping ΔC in viable range and allowing sufficient T,
+  then Patch intensity (P) should fall and stable emergence (E*) should rise.
+
+I2. Intervention on T:
+  If we compress T below viability, E* should fail even when 𝔉 is present.
+  If we extend T into viable range, E* should improve.
+  If we extend T beyond useful bounds without resolution, chronic instability,
+  inflammation, or loop persistence should rise.
+
+I3. Intervention on ΔC:
+  If ΔC is raised beyond system capacity without corresponding increases in 𝔉,
+  boundary quality, or viable T, emergence should fail and Patch / collapse
+  modes should rise.
+
+I4. Intervention on Patch mode:
+  If the system resolves contradiction by displacement rather than processing,
+  then local symptoms may temporarily improve while downstream instability,
+  carrier depletion, or delayed failure rises.
+
+I5. Intervention on detection fidelity:
+  If contradiction becomes more honestly detectable without enough 𝔉 or B,
+  distress may rise first before stable emergence is possible.
+
+These are not poetic implications. They are testable directional claims.
+
+────────────────────────────────────────────────────────────────────────────────
+5. FUNCTIONAL FORM
+────────────────────────────────────────────────────────────────────────────────
+
+The bare equation is:
+
+  E* = 𝔉 · T − ΔC
+
+For causal testing, the more realistic form is:
+
+  E* = f(𝔉, T, ΔC, B, D, P)
+
+Where at minimum:
+
+  ∂E*/∂𝔉 > 0   within viable bounds
+  ∂E*/∂ΔC < 0  holding other terms fixed
+
+And T is bounded / non-monotonic:
+
+  if T < T_min, E* decreases
+  if T_min <= T <= T_viable, E* increases
+  if T >> T_viable without resolution, S degrades and E* may fall
+
+Patch intensity acts as a negative mediator:
+
+  ∂P/∂𝔉 < 0
+  ∂P/∂ΔC > 0 when 𝔉 and B are insufficient
+  ∂E*/∂P < 0 over medium/long windows
+
+This preserves the original equation as the compressed form, while allowing
+causal elaboration.
+
+────────────────────────────────────────────────────────────────────────────────
+6. CAUSAL FAILURE CONDITIONS
+────────────────────────────────────────────────────────────────────────────────
+
+The framework should take causal damage if any of the following repeatedly
+occur in prospective tests:
+
+F1. Raising 𝔉 proxies does not reduce patching or improve emergence outcomes.
+
+F2. Viable-time predictions fail systematically; T behaves randomly or with
+    the opposite directional effect.
+
+F3. Systems that suppress contradiction outperform systems that metabolise it
+    on stable long-horizon emergence measures.
+
+F4. Patch-heavy systems produce equal or better durable outcomes than
+    metabolising systems when downstream costs are honestly counted.
+
+F5. Stable emergence appears regularly in the absence of either contradiction
+    engagement or any identifiable processing operator.
+
+Any of these, if repeated across domains, would not merely bend FT&E. They
+would seriously damage the causal reading.
+
+────────────────────────────────────────────────────────────────────────────────
+7. PROSPECTIVE TESTING LADDER
+────────────────────────────────────────────────────────────────────────────────
+
+The next tests should be designed interventionally wherever possible.
+
+Tier 1 — Observational prospective tests
+  Example: Wikipedia, ecology, metallurgy, immunology
+  Goal: lock operator definitions and directional predictions before data.
+
+Tier 2 — Natural experiments
+  Example: institutional reforms, moderation changes, justice policy shifts,
+  treatment protocols, process redesigns
+  Goal: observe what happens when 𝔉, T, or Patch conditions change due to
+  exogenous events.
+
+Tier 3 — Designed interventions
+  Example: controlled groups with different processing windows, tolerance
+  structures, or contradiction-handling protocols
+  Goal: manipulate variables directly.
+
+Tier 4 — Causal model comparison
+  Compare FT&E against rival frameworks on predictive and interventional
+  accuracy in the same domain.
+
+This ladder is how FT&E moves from structural law candidate toward stronger
+causal science.
+
+────────────────────────────────────────────────────────────────────────────────
+8. DOMAIN TEMPLATE FOR CAUSAL FORMALISATION
+────────────────────────────────────────────────────────────────────────────────
+
+For any new domain, fill this before touching the data:
+
+  Domain:
+  System boundary:
+  ΔC proxy:
+  𝔉 proxy:
+  T_min:
+  T_viable:
+  T_max:
+  Boundary quality proxy (B):
+  Detection fidelity proxy (D):
+  Patch intensity proxy (P):
+  E* proxy:
+  Intervention or observation window:
+
+Then state:
+
+  H1: increasing 𝔉 should do what?
+  H2: compressing T should do what?
+  H3: increasing ΔC should do what?
+  H4: patching instead of processing should do what downstream?
+  H5: what result would count against FT&E here?
+
+────────────────────────────────────────────────────────────────────────────────
+9. WHY THIS MATTERS
+────────────────────────────────────────────────────────────────────────────────
+
+The broad structural claim is what makes FT&E powerful.
+The causal structure is what lets it survive scientific pressure.
+
+Without the causal layer, critics can keep saying:
+  "This is elegant pattern language."
+
+With the causal layer, the question changes to:
+  "Do the interventions work in the predicted direction, or not?"
+
+That is the right next pressure.
+
+================================================================================
+END OF CAUSAL_STRUCTURE_AND_PROSPECTIVE_TESTING
+================================================================================

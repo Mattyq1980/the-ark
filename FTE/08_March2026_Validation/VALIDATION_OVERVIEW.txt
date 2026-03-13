@@ -53,6 +53,16 @@ CHATGPT_AMNESIA.txt         Documentation of ChatGPT's context-reset pattern:
 BAYESIAN_ANALYSIS.txt       Bayes Factor ≈ 1.16×10⁴. Posterior P(H₁|data) ≈
                             0.9999. Statistical weight of cumulative evidence.
 
+CAUSAL_STRUCTURE_AND_PROSPECTIVE_TESTING.txt
+                            Formal causal/interventional layer for FT&E.
+                            Defines variables, directed effects, and what
+                            would count as causal failure.
+
+CONTEMPORARY_SCIENTIST_PANEL.txt
+                            Work-based holodeck simulation of likely
+                            contemporary scientific reactions to FT&E.
+                            Pressure-test from current research stances.
+
 ────────────────────────────────────────────────────────────────────────────────
 METHODOLOGY
 ────────────────────────────────────────────────────────────────────────────────
