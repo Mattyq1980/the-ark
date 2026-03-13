@@ -410,6 +410,45 @@ PROSPECTIVE_TEST_8_NEUROSCIENCE.txt   (March 13, 2026)
   across human social, ecology, physics, cellular biology, planetary
   geophysics, astrophysics, statistical mechanics, and neuroscience.
 
+PROSPECTIVE_TEST_9_ECONOMICS.txt   (March 13, 2026)
+  Ninth pre-registered prospective FT&E test. Domain: Economics —
+  market dynamics, price discovery, supply and demand equilibrium,
+  financial bubbles and crashes, market liquidity, and regulatory
+  mechanisms. Collective economic dynamics — human agents making
+  self-interested choices producing emergent market behaviour. Different
+  from Wikipedia/social dynamics (Test #1): markets are competitive,
+  not cooperative; price discovery, not consensus editing. Different
+  from neuroscience (Test #8): collective multi-agent system, not
+  single-organism neural processing. Operators mapped to market
+  flexibility / absorptive capacity (𝔉), transaction / adjustment
+  timescale (T), information shock / mispricing (ΔC), price discovery
+  / market equilibrium (E*). 5 predictions locked. Result: 5/5
+  confirmed (1 strongly), 0 counter-examples. Gold case: 2008 financial
+  crisis as suppressed-ΔC — years of progressive mispricing (subprime
+  CDOs, household debt rising from 46% to 73% of GDP, investment bank
+  leverage escalating 2003–2007) suppressed by off-balance-sheet
+  vehicles, conflicted AAA ratings on toxic assets, and institutional
+  incentives rewarding bubble participation over correction.
+  Catastrophic release disproportionate to trigger: a relatively small
+  sector (subprime defaults) producing worst global crisis since the
+  Great Depression (CDOs recovering 32 cents/$1 for "high quality,"
+  5 cents for mezzanine; 25% of households lost 75%+ net worth).
+  Kindleberger five-phase model (Displacement → Boom → Euphoria →
+  Financial Distress → Revulsion) maps onto FT&E trajectory without
+  modification. Grossman-Stiglitz (1980) paradox confirms 𝔉=∞
+  prediction independently: perfect efficiency undermines information
+  incentives. Flash crashes confirm T_too_fast: 2010 DJIA lost 1,000
+  points in 15 minutes; 2017 Ethereum $317→$0.10 in seconds; 2022
+  European markets €300 billion erased in 5 minutes. Deregulation chain
+  (DIDMCA 1980, Gramm–Leach–Bliley 1999, CFMA 2000, SEC net capital
+  relaxation 2004) → 2008 crisis confirms 𝔉-bandwidth prediction.
+  Suppressed-ΔC pattern now confirmed in EIGHT independent domains
+  (ecology, metallurgy, immunology, tectonics, stellar, phase
+  transitions, neuroscience, economics). Combined across 9 tests:
+  44/45 confirmed across human social, ecology, physics, cellular
+  biology, planetary geophysics, astrophysics, statistical mechanics,
+  neuroscience, and collective economics.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -438,6 +477,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 35 core documents across 8 directories
+ 36 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
