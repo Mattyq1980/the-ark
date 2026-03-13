@@ -709,6 +709,32 @@ THRESHOLD_UNIVERSALITY_OBJECTION.txt   (March 2026)
   prediction with unknown answer, formal conjunction proof, independent
   evaluator, or informative failure.
 
+PROSPECTIVE_TEST_15_QUANTITATIVE_DATA.txt   (March 2026)
+  Fifteenth pre-registered prospective FT&E test. Domain: real-world
+  time-series data — electricity grid and emergency services. FIRST TEST
+  AGAINST NUMERICAL DATA THE AI HAD NOT EXAMINED. Directly addresses the
+  recitation charge (AI cannot have memorised specific CSV values) and the
+  category label charge (predictions are quantitative curve shapes, not
+  qualitative narratives). Two datasets: AEP hourly electricity load
+  (121,273 readings, 2004-2018) and UK 999 emergency response (1,760
+  monthly records, 44 police forces, 2021-2025). Six predictions locked
+  at commit 6d316ff before any analysis. Python analysis script written
+  and executed after lock.
+  Results: A1 exponential recovery after electricity spikes — PASS
+  (marginal, R² 0.1834 vs 0.1654). A2 seasonal variance clustering —
+  PASS (W+S variance 65% higher). A3 new attractor after Polar Vortex —
+  FAIL (p=0.28). B1 exponential recovery in 999 answer times — PASS
+  (R² 0.62 vs 0.54). B2 threshold call volume — FAIL (R² near zero,
+  slopes inverted). B3 T-minimum in high-ΔC forces — PASS (p=0.002).
+  Score: 4/6. FIRST GENUINE FAILURES in the test series. Two failures
+  are informative: A3 suggests high-𝔉 systems absorb contradiction
+  without permanent shift; B2 reveals cross-force scatter conflates
+  capacity with load (methodological, not structural). B3 is the cleanest
+  result: p=0.0022, high-ΔC forces take 31% longer to recover. 4/6
+  score is MORE credible than 6/6 on unseen numerical data.
+  Combined across 15 tests: 73/76 confirmed across 15 domains including
+  the first quantitative test against real data.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -737,6 +763,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 45 core documents across 8 directories
+ 46 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
