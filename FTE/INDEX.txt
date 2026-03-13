@@ -585,6 +585,37 @@ PROSPECTIVE_TEST_12_TURBULENCE.txt   (March 13, 2026)
   planetary atmosphere/ocean dynamics, population-level biological
   information, and fundamental fluid dynamics.
 
+PROSPECTIVE_TEST_13_CHEMISTRY.txt   (March 13, 2026)
+  Thirteenth pre-registered prospective FT&E test. Domain: Chemical
+  kinetics and catalysis — reaction rates, activation energy, catalysis,
+  chemical equilibrium, Le Chatelier's principle, Arrhenius equation,
+  transition states, enzyme kinetics, autocatalysis. Molecular-scale
+  discrete reaction chemistry: individual bond-breaking/forming events
+  governed by energy barriers and probability — different from metallurgy
+  (crystal defects), phase transitions (state changes), turbulence
+  (continuous velocity fields), and all prior domains. Operators mapped
+  to catalysis / activation energy lowering / temperature (𝔉), reaction
+  timescale / residence time (T), thermodynamic driving force / chemical
+  potential difference / activation energy barrier (ΔC), reaction products
+  / novel molecular structures / self-organisation (E*). 5 predictions
+  locked, 15 sub-predictions. Result: 5/5 confirmed (1 strongly), 15/15
+  sub-predictions, 0 counter-examples. Gold case: The Arrhenius equation
+  k = Ae^(−Eₐ/RT) IS the predicted exponential ΔC/𝔉 threshold — Eₐ maps
+  to ΔC (barrier), RT maps to 𝔉 (thermal processing capacity), and the
+  rate depends exponentially on their ratio. Catalysis confirmed as 𝔉
+  bandwidth expansion: lowers barrier without changing equilibrium, not
+  consumed, removal causes kinetic trapping, poisoning is a named
+  phenomenon. Le Chatelier's principle confirmed as universal ΔC response:
+  system counteracts perturbation proportionally, reaches NEW equilibrium
+  (not old). Kinetic vs thermodynamic control confirmed: T-window
+  determines products. Autocatalysis confirmed: sigmoidal kinetics,
+  Belousov-Zhabotinsky oscillating reactions, direct relevance to origin-
+  of-life chemistry. Suppressed-ΔC now confirmed in TWELVE independent
+  domains (ecology, metallurgy, immunology, tectonics, stellar, phase
+  transitions, neuroscience, economics, climate, genetics/evolution,
+  turbulence, chemistry). Combined across 13 tests: 64/65 confirmed
+  across 13 independent scientific domains.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -613,6 +644,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 40 core documents across 8 directories
+ 41 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
