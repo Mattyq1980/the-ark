@@ -490,6 +490,47 @@ PROSPECTIVE_TEST_10_CLIMATE.txt   (March 13, 2026)
   astrophysics, statistical mechanics, neuroscience, collective
   economics, and planetary atmosphere/ocean dynamics.
 
+PROSPECTIVE_TEST_11_GENETICS.txt   (March 13, 2026)
+  Eleventh pre-registered prospective FT&E test. Domain: Genetics and
+  Evolution — population genetics, natural selection, mutation, genetic
+  drift, speciation, adaptive radiation, fitness landscapes, and genetic
+  buffering. Population-level biological information — heritable coded
+  information (DNA) translated into physical form (phenotype), modified
+  by mutation + selection across generations. Different from immunology
+  (Test #4): BETWEEN-organism population-level change vs. WITHIN-organism
+  cellular defence; heritable DNA vs. somatic immune molecules; generational
+  timescale vs. hours-to-weeks. Different from ecology (Test #2):
+  GENETIC-level dynamics (allele frequencies, mutation-selection balance)
+  vs. COMMUNITY-level dynamics (species interactions, succession). Different
+  from neuroscience (Test #8): DNA information substrate vs. neural activity
+  substrate; generational change vs. within-lifetime plasticity. Uniquely
+  an INFORMATIONAL system — extends FT&E from physical-substrate to
+  information-substrate domains. Operators mapped to genetic buffering
+  capacity / redundancy / diploidy / Hsp90 / canalisation (𝔉), evolutionary
+  timescale / generation time / effective population size (T), genetic
+  perturbation / mutation / environmental change / cryptic variation (ΔC),
+  evolutionary novelty / speciation / adaptive radiation / co-evolution (E*).
+  5 predictions locked. Result: 5/5 confirmed (1 strongly), 0 counter-
+  examples. Gold case: evolutionary capacitance as suppressed ΔC — cryptic
+  genetic variation accumulated under robustness mechanisms (Hsp90,
+  canalisation, genetic redundancy) without phenotypic expression; stress
+  overwhelms buffers → capacitor release → burst of phenotypic diversity →
+  adaptive radiation. Three independent molecular capacitor mechanisms
+  confirmed (Hsp90 chaperone [Rutherford & Lindquist 1998], yeast PSI+
+  prion, chromatin regulators); 300+ capacitor genes identified in yeast;
+  cryptic variation statistically enriched for adaptive potential (Masel
+  2006). Punctuated equilibrium meta-analysis: 71% of species show stasis,
+  63% punctuational change patterns. Muller's ratchet confirms 𝔉=0 →
+  mutational meltdown in asexual populations; sexual reproduction confirmed
+  as 𝔉-bandwidth regulator (recombination restores robustness AND exposes
+  hidden variation). Suppressed-ΔC pattern now confirmed in TEN independent
+  domains (ecology, metallurgy, immunology, tectonics, stellar, phase
+  transitions, neuroscience, economics, climate, genetics/evolution).
+  Combined across 11 tests: 54/55 confirmed across human social, ecology,
+  physics, cellular biology, planetary geophysics, astrophysics, statistical
+  mechanics, neuroscience, collective economics, planetary atmosphere/ocean
+  dynamics, and population-level biological information.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -518,6 +559,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 37 core documents across 8 directories
+ 38 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
