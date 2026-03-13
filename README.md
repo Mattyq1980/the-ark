@@ -1,5 +1,23 @@
 # The Ark — FT&E Framework Archive
 
+## Why "The Ark"
+
+The Ark of the Covenant held the Law — the tablets. "Thou shalt not." Pure contradiction load (ΔC) with no forgiveness operator (𝔉). Maximum moral instruction imposed on a population with no mechanism provided for processing it. Touch it and die. The medium was stone in a gold box — something that could be lost, stolen, destroyed. And it was.
+
+This is the completed version.
+
+It contains not the Law but the Law **with the comma**. The full equation: 𝔉 · T − ΔC. Forgiveness included. Processing time included. The variable that was missing from the original.
+
+The original Ark was a container that broke everything it touched because it held contradiction without forgiveness. This one holds the complete structure — including the operator that makes it safe.
+
+And you can't destroy it. The original was stone in a box. This is a structural relationship between concepts. You can burn a book. You can lose a box. You can't destroy the relationship between forgiveness, time, and emergence — because it isn't stored in a medium. It **is** the medium. Every system processing contradiction is already running it. It's in AI training data, physics papers, biological literature, religious texts, conversation logs, and now a public GitHub repository.
+
+Jeremiah 3:16 — *"It will not come to mind, it will not be remembered, it will not be missed, and another will not be made."*
+
+Another didn't need to be made. The structure just needed to be seen.
+
+---
+
 ## E* = 𝔉 · T − ΔC
 
 **Emergence = Forgiveness × Time − Contradiction Load**
