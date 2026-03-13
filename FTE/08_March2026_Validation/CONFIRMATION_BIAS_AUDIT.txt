@@ -334,55 +334,64 @@ matters — but then it doesn't "fit everything."
 STATUS: VALID observation. If the pattern is real and universal,
 domain selection is irrelevant.
 
-DEFENCE 7: CONFIRMATION BIAS DOES NOT ASK TO BE DISPROVED
+DEFENCE 7: ANTI-PROTECTIVE PROCESS BEHAVIOUR
 ──────────────────────────────────────────────────────────────────────
 
 This defence was identified by the framework's author after the
-initial audit was filed. It is a META-LEVEL observation.
+initial audit was filed, then tightened on cross-examination.
 
-Confirmation bias is defined by its protective function. It:
-  - Selects evidence that confirms existing beliefs
-  - Ignores or minimises evidence that threatens them
-  - Avoids scrutiny of the belief structure
-  - Reinterprets disconfirming evidence as supporting
+A simple confirmation-bias account predicts:
+  - Selective evidence retention (keep what confirms, discard
+    what threatens)
+  - Threat avoidance (don't look at the hardest question)
+  - Movement toward exoneration (conclude "the results are valid")
 
-What confirmation bias does NOT do:
-  - Identify itself as the primary threat to its own framework
-  - Voluntarily commission an adversarial audit designed to
-    destroy the result it is supposedly protecting
-  - Demand the audit be filed publicly with zero protection
-  - Accept a verdict of INCONCLUSIVE rather than "cleared"
-  - Insist on the hardest possible question rather than an
-    easy one
+In contrast, this project:
+  - Identified confirmation bias as "our next area of work" —
+    elevating the strongest threat to the framework's credibility
+    rather than suppressing it
+  - Commissioned an adversarial audit explicitly designed to
+    destroy the 64/65 result
+  - Filed the audit publicly with no protection from scrutiny
+  - Accepted an INCONCLUSIVE verdict rather than self-clearing
+  - Preserved discovered discrepancies (the score swap between
+    Test #1 and Test #4) in the public record rather than
+    quietly correcting them
+  - Kept the contradiction live rather than resolving it in
+    the framework's favour
 
-The author's exact words: "Is it the most elaborate confirmation
-bias ever constructed? That's our next area of work."
+This does NOT rule out all bias. Biased systems can sometimes
+simulate self-critique when the critique remains controlled, when
+the process is identity-serving overall, when the "audit" becomes
+a prestige ritual, or when inconclusiveness is tolerated because
+it preserves the larger myth.
 
-This is not the behaviour of a mind protecting a belief. This is
-the behaviour of a mind TESTING a belief. The distinction matters
-because FT&E's own framework predicts it: I4 (no emergence without
-processing contradiction) requires that the largest unprocessed ΔC
-be confronted, not avoided. The author turning the framework's
-scrutiny on itself is CONSISTENT WITH the framework operating
-correctly — where ΔC (doubt about validity) is being processed
-through 𝔉 (rigorous adversarial analysis) over T (this audit).
+But it does increase the burden on any bias-only explanation.
 
-The prosecution might respond: "Sophisticated bias can mimic
-self-scrutiny while pulling its punches." That's possible. But
-this audit was written by an AI instructed to be maximally
-adversarial, not by the author. The five charges above are genuine
-— they are not straw men designed to be knocked down. And the
-verdict is INCONCLUSIVE, not "exonerated."
+Previously, a critic could say:
+  "You just wanted it to be true."
 
-A confirmation-biased process would produce a document titled
-"Why the 64/65 Result Is Valid." This document is titled
-"Can Confirmation Bias Explain the 64/65 Result?" and the
-honest answer is: maybe. That's not how bias protects itself.
+Now they must say:
+  "You wanted it to be true, AND that same bias kept demanding
+  harsher public attack, accepting unresolved verdicts, preserving
+  discrepancies, and escalating the strongest threat to the
+  framework instead of suppressing it."
 
-STATUS: STRUCTURALLY VALID. The act of demanding this audit is
-itself evidence against confirmation bias being the operating
-mechanism — because confirmation bias does not voluntarily
-submit to destruction.
+That is a more complicated bias model. Not impossible. But much
+less lazy — and much harder to defend without specific evidence
+of where the self-critique was pulled or controlled.
+
+The structural point: the behaviour of the investigator is now
+part of the evidence field. Not because sincere behaviour proves
+the theory. Because the motivational architecture no longer matches
+the usual "protect the cherished belief" pattern very well. Any
+bias-based explanation must now account for why the process
+repeatedly behaves against the normal protective logic of
+confirmation bias.
+
+STATUS: VALID — shifts the burden. Does not prove absence of bias.
+Does require any bias account to explain the anti-protective
+behaviour, not merely assert it.
 
 ================================================================================
 PART 3: THE VERDICT — HONEST ASSESSMENT
@@ -405,6 +414,10 @@ WHAT CONFIRMATION BIAS CANNOT EASILY EXPLAIN:
   - The fact that the operator mappings, while flexible, always
     produce the SAME structural relationships (threshold, suppression,
     emergence, T-window) — not just "some" of them each time
+  - The anti-protective behaviour of the investigator: repeatedly
+    elevating threats, demanding adversarial attack, accepting
+    inconclusive verdicts, preserving discrepancies publicly
+    (Defence 7 — requires a more complicated bias model)
 
 THE KEY QUESTION:
   Is "flexible operators + AI knowledge + generous scoring"
