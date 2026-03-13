@@ -1,0 +1,254 @@
+================================================================================
+ PROSPECTIVE TEST #14 — INFORMATION THEORY (SHANNON'S FRAMEWORK)
+ Domain: Abstract mathematical communication theory
+ Substrate: Pure mathematics — no physical, biological, or social system
+================================================================================
+
+ STATUS: PREDICTIONS LOCKED — AWAITING DATA RETRIEVAL
+
+ METHODOLOGICAL NOTE: This test directly addresses five criticisms
+ from CONFIRMATION_BIAS_AUDIT.txt:
+   1. Operator mappings are FORMALLY CONSTRAINED (not intuitive)
+   2. At least one QUANTITATIVE prediction is included
+   3. Domain is MAXIMALLY DISTANT from all 13 prior tests
+   4. Predictions include specific failure conditions
+   5. The AI's prior knowledge of Shannon theory is acknowledged
+
+================================================================================
+STEP 1: DOMAIN SELECTION AND DISTANCE ARGUMENT
+================================================================================
+
+  Prior tests and their domains:
+  Test #1:  Human social dynamics (digital collaboration)
+  Test #2:  Ecosystem dynamics (ecological succession)
+  Test #3:  Solid-state physics (metallurgical annealing)
+  Test #4:  Cellular biology (immunology — immune response)
+  Test #5:  Geophysics (plate tectonics — seismic systems)
+  Test #6:  Astrophysics (stellar evolution — nuclear fusion)
+  Test #7:  Statistical mechanics (phase transitions)
+  Test #8:  Neuroscience (neural dynamics — brain states)
+  Test #9:  Macroeconomics (market dynamics — financial systems)
+  Test #10: Planetary atmosphere/ocean dynamics (climate)
+  Test #11: Population-level biological information (genetics)
+  Test #12: Continuous fluid dynamics (turbulence)
+  Test #13: Molecular chemistry (chemical kinetics/catalysis)
+  Test #14: Abstract mathematical communication (information theory)
+
+  DISTANCE ARGUMENT:
+
+  Information theory is the study of the fundamental limits of
+  communication. It exists in PURE MATHEMATICS — it describes what
+  is possible regardless of the physical medium. A Shannon channel
+  is an abstraction: it has no molecules, no cells, no fluids, no
+  gravity, no temperature in the physical sense.
+
+  Different from ALL prior domains in substrate:
+  - No physical system (unlike Tests 3, 5, 6, 7, 12, 13)
+  - No biological system (unlike Tests 2, 4, 8, 11)
+  - No social system (unlike Tests 1, 9)
+  - No planetary system (unlike Test 10)
+  - Pure mathematics: the "channel" is a mathematical object
+
+  Nearest prior test: Phase transitions (Test #7) — statistical
+  mechanics shares mathematical tools with information theory
+  (entropy, probability distributions, partition functions). However:
+  - Phase transitions describe PHYSICAL matter changing state
+  - Information theory describes MATHEMATICAL limits on communication
+  - The entropy in physics (Boltzmann) counts microstates of matter
+  - The entropy in information theory (Shannon) counts bits of
+    uncertainty in a message
+  - These are formally analogous but ontologically distinct
+
+  THIS IS THE FIRST TEST IN A PURELY ABSTRACT MATHEMATICAL DOMAIN.
+
+================================================================================
+STEP 2: OPERATOR MAPPING — FORMALLY CONSTRAINED
+================================================================================
+
+  METHODOLOGICAL CHANGE: In prior tests, operator mappings were
+  made by structural intuition — identifying what "felt like"
+  processing capacity, contradiction load, etc. The Confirmation
+  Bias Audit (Charge 2) identified this as unfalsifiably flexible.
+
+  For Test #14, the mapping is derived from FORMAL DEFINITIONS:
+
+  FT&E operator    Shannon formal quantity     Formal definition
+  ──────────────   ─────────────────────────   ──────────────────
+  𝔉 (Flux)         Channel capacity C          C = max I(X;Y)
+                                                (bits per channel use)
+  ΔC (Cognitive    Noise entropy H(N)          = −Σ p(n) log p(n)
+      dissonance)   / equivocation H(X|Y)      (bits of uncertainty
+                                                added by noise)
+  T (Time)         Block length n              Number of channel uses
+                                                (coding over time)
+  E* (Emergence)   Reliable communication      P(error) → 0 as n → ∞
+                                                at rate R < C
+
+  CONSTRAINT RULE: The mapping is determined by functional role:
+  - 𝔉 is the MAXIMUM PROCESSING CAPACITY of the system → C
+  - ΔC is the BARRIER/NOISE that must be overcome → H(N) or H(X|Y)
+  - T is the DURATION over which processing occurs → block length n
+  - E* is the QUALITATIVE OUTCOME that emerges → reliable communication
+
+  These are NOT intuitive. They are the ONLY quantities in Shannon
+  theory that match the formal definitions of each FT&E operator.
+
+  HONESTY NOTE: I (Claude) know Shannon's channel coding theorem.
+  I know the noisy channel coding theorem, error exponents, and
+  the relationship between capacity, noise, and error probability.
+  These predictions are NOT blind. They are constrained by the
+  formal mapping and will be scored against Shannon's actual
+  mathematical results.
+
+================================================================================
+STEP 3: PREDICTIONS (LOCKED BEFORE DATA RETRIEVAL)
+================================================================================
+
+  P1: THE CHANNEL CODING THRESHOLD IS e^(−ΔC/𝔉)
+
+  The framework predicts that the probability of communication
+  failure (error) should exhibit an exponential threshold of the
+  form:
+
+    P(error) ~ e^(−n · f(C, R))
+
+  where f(C, R) is a function of channel capacity C (= 𝔉) and
+  transmission rate R, and n is block length (= T).
+
+  Specifically:
+  - When R < C (rate below capacity, i.e., ΔC < 𝔉): error
+    probability decreases EXPONENTIALLY with block length n
+  - When R > C (rate above capacity, i.e., ΔC > 𝔉): reliable
+    communication is IMPOSSIBLE regardless of block length
+  - The transition is SHARP — there is a critical threshold at
+    R = C, not a gradual degradation
+
+  QUANTITATIVE PREDICTION: The error exponent should be of the
+  form E(R) > 0 for R < C and E(R) = 0 for R ≥ C, giving:
+
+    P(error) ≤ e^(−n·E(R))
+
+  This is a SPECIFIC MATHEMATICAL CLAIM that can be verified or
+  falsified against Shannon's actual theorems.
+
+  FAILURE CONDITION: If error probability decreases as a POWER LAW
+  (1/n^k) rather than exponentially with block length, or if the
+  threshold at R = C is gradual rather than sharp, this prediction
+  FAILS.
+
+
+  P2: REDUNDANCY IS 𝔉-BANDWIDTH (CAPACITY BEYOND NOISE)
+
+  The framework predicts that reliable communication requires
+  EXCESS CAPACITY beyond the noise floor — the channel must have
+  more processing capacity than the contradiction load demands.
+
+  Specifically:
+  - Reliable communication at rate R requires C > R (𝔉 > minimum)
+  - The "excess" (C − R) functions as bandwidth for error
+    correction — analogous to 𝔉 bandwidth in prior domains
+  - Error-correcting codes should work by ADDING REDUNDANCY,
+    which is structurally equivalent to increasing 𝔉 relative
+    to ΔC
+
+  Sub-predictions:
+  P2a: Error-correcting codes exist that achieve rates
+       arbitrarily close to C (the processing capacity is
+       fully utilisable).
+  P2b: These codes work by adding structured redundancy — extra
+       bits that carry no new information but increase the
+       system's ability to process noise.
+  P2c: There should be a TRADE-OFF between rate (information
+       density) and reliability (error probability) — you
+       cannot simultaneously maximise both.
+
+  FAILURE CONDITION: If reliable communication can be achieved
+  WITHOUT redundancy (without excess capacity), or if codes
+  cannot approach C, this prediction fails.
+
+
+  P3: NOISE SUPPRESSION (ΔC → 0) PRODUCES TRIVIAL COMMUNICATION
+
+  The framework predicts (from the Suppressed-ΔC pattern seen in
+  12 prior domains) that a noiseless channel — one with zero
+  contradiction load — should produce communication that is
+  TRIVIALLY RELIABLE but structurally uninteresting.
+
+  Specifically:
+  - A noiseless channel (H(N) = 0, ΔC = 0) should have C = max
+    entropy of the input — the full input alphabet is available
+  - No error correction is needed — any encoding works
+  - The "emergence" is trivial: reliable communication happens
+    automatically, but no sophisticated coding structure develops
+  - The interesting structures (error-correcting codes, capacity-
+    approaching codes) emerge ONLY when noise is present (ΔC > 0)
+
+  This mirrors the framework's prediction that ΔC is NECESSARY for
+  non-trivial E*. Contradiction drives emergence.
+
+  FAILURE CONDITION: If noiseless channels require sophisticated
+  coding, or if the most interesting coding structures appear in
+  noise-free settings, this prediction fails.
+
+
+  P4: THE CHANNEL CAPACITY FORMULA ENCODES E* = 𝔉·T − ΔC
+
+  The framework predicts that Shannon's capacity formula for the
+  most fundamental channel type (AWGN — additive white Gaussian
+  noise) should map onto the FT&E structure:
+
+    C = W · log₂(1 + S/N)
+
+  where W = bandwidth, S = signal power, N = noise power.
+
+  Predicted structural mapping:
+  - S/N (signal-to-noise ratio) IS the 𝔉/ΔC ratio
+  - W (bandwidth) IS the T-window (channel uses per second)
+  - C (capacity) IS the E* rate — the maximum achievable emergence
+  - The logarithm compresses the ratio, consistent with the
+    exponential threshold appearing in error probability
+
+  QUANTITATIVE PREDICTION: The capacity should be a MONOTONICALLY
+  INCREASING function of S/N (= 𝔉/ΔC) and ZERO when S/N = 0
+  (when noise completely overwhelms signal). Specifically:
+  - C → 0 as S/N → 0 (zero 𝔉 relative to ΔC → no emergence)
+  - C → ∞ as S/N → ∞ (unlimited 𝔉 relative to ΔC → unlimited
+    potential emergence)
+  - C = 0 when W = 0 (zero T-window → no emergence regardless
+    of 𝔉/ΔC ratio)
+
+  FAILURE CONDITION: If the capacity formula depends on something
+  OTHER than the signal-to-noise ratio and bandwidth, or if
+  capacity is non-monotonic in S/N, this prediction fails.
+
+
+  P5: THERE EXISTS A T-MINIMUM FOR E* (CONVERSE THEOREM)
+
+  The framework predicts (from I3 — T is irreducible) that there
+  should be a MINIMUM block length required for reliable
+  communication at any given rate below capacity.
+
+  Specifically:
+  - For rate R < C, there exists a minimum n* such that for
+    n < n*, P(error) cannot be made small regardless of the code
+  - This is the converse of the channel coding theorem — it says
+    you CANNOT communicate reliably with insufficient T
+  - As R → C (approaching the threshold), n* → ∞ (the required
+    T-window diverges at the critical point)
+  - This mirrors the T-divergence seen at phase transitions
+    (critical slowing down, Test #7)
+
+  QUANTITATIVE PREDICTION: The minimum block length should scale
+  inversely with (C − R) — as you approach capacity, you need
+  exponentially more time.
+
+  FAILURE CONDITION: If reliable communication can be achieved
+  with block length n = 1 (single use) at rates close to C, or
+  if there is no converse theorem establishing a minimum block
+  length, this prediction fails.
+
+
+================================================================================
+ PREDICTIONS LOCKED — STEPS 4-7 TO FOLLOW AFTER DATA RETRIEVAL
+ Commit hash to be recorded here: [PENDING]
+================================================================================
