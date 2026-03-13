@@ -1,0 +1,202 @@
+================================================================================
+ PROSPECTIVE TEST #15 — QUANTITATIVE DATA TEST
+ Domain: Real-world time-series data (electricity grid + emergency services)
+ Substrate: Actual numerical measurements — NOT textbook results
+================================================================================
+
+ STATUS: PREDICTIONS LOCKED — AWAITING ANALYSIS
+
+ METHODOLOGICAL NOTE: This test directly addresses the two strongest
+ remaining objections from THRESHOLD_UNIVERSALITY_OBJECTION.txt:
+   1. THE RECITATION CHARGE: "The AI is reciting known results."
+      → This test uses SPECIFIC NUMERICAL DATA that the AI has NOT
+        memorized. The AI does not know the hourly MW values of the
+        AEP power grid on January 7, 2014, or the exact answer times
+        for Metropolitan Police 999 calls in December 2023.
+   2. THE CATEGORY LABEL CHARGE: "The operator mappings are too broad."
+      → This test maps operators to SPECIFIC MEASURABLE QUANTITIES
+        and makes QUANTITATIVE predictions about curve shapes,
+        decay rates, and threshold behaviour that can be numerically
+        falsified.
+
+ DATA SOURCES (already in workspace — not retrieved for this test):
+   AEP_hourly.csv: 121,273 hourly electricity load readings (MW),
+     American Electric Power region, 2004-2018
+   999-data-nov-21---feb-25.csv: 1,760 monthly records across 44 UK
+     police forces, total calls and average answer times, Nov 2021 -
+     Feb 2025
+
+ THE AI HAS NOT YET EXAMINED ANY VALUES, PATTERNS, OR STATISTICS
+ IN THESE DATASETS BEYOND:
+   - Column names and data types
+   - Number of rows and date ranges
+   - Number of unique police forces
+
+================================================================================
+STEP 1: OPERATOR MAPPING
+================================================================================
+
+  DATASET A: AEP ELECTRICITY GRID (hourly MW load)
+
+  𝔉 (Flux/Capacity):  Grid generation capacity — the maximum MW the
+                       system can supply. Operationally: the normal
+                       baseline load level (seasonal average).
+  ΔC (Contradiction):  Demand surges that exceed normal capacity —
+                       extreme weather events (Polar Vortex, heat waves)
+                       that push load above the system's comfortable
+                       operating range.
+  T (Time):            Hours/days — the temporal window over which the
+                       system processes and recovers from surges.
+  E* (Emergence):      The post-surge equilibrium — the new baseline
+                       pattern the grid settles into after processing
+                       a contradiction event.
+
+  DATASET B: 999 EMERGENCY RESPONSE (monthly aggregates)
+
+  𝔉 (Flux/Capacity):  Call-handling capacity — the system's ability to
+                       answer calls quickly. Operationally: the inverse
+                       of average answer time under normal conditions.
+  ΔC (Contradiction):  Call volume surges or system strain that increase
+                       average answer times beyond normal.
+  T (Time):            Months — the temporal window over which the
+                       system adapts and recovers.
+  E* (Emergence):      Stabilised response times at a new level (not
+                       necessarily the old baseline).
+
+================================================================================
+STEP 2: PREDICTIONS (LOCKED BEFORE ANY DATA ANALYSIS)
+================================================================================
+
+  ──────────────────────────────────────────────────────────────────
+  PREDICTION A1: EXPONENTIAL RECOVERY AFTER CONTRADICTION SPIKES
+  (AEP Electricity Data)
+  ──────────────────────────────────────────────────────────────────
+
+  After major demand surges (winter cold spikes, summer heat waves),
+  the daily-averaged load should return toward baseline following
+  an EXPONENTIAL DECAY curve:
+
+    Load(t) ≈ baseline + A · e^(−t/τ)
+
+  where A is the peak excess load and τ is the recovery time constant.
+
+  SPECIFIC CLAIM: When I fit the post-spike recovery curve
+  (the decline from peak back toward seasonal baseline), an
+  exponential decay model should fit BETTER than a linear decay
+  model, as measured by R² or residual sum of squares.
+
+  FAILURE CONDITION: If the recovery is better fit by a LINEAR
+  model (Load(t) = baseline + A − B·t), or by a POWER LAW
+  (Load(t) = baseline + A·t^(−k)), this prediction fails.
+
+  ──────────────────────────────────────────────────────────────────
+  PREDICTION A2: SEASONAL ΔC STRUCTURE
+  (AEP Electricity Data)
+  ──────────────────────────────────────────────────────────────────
+
+  The variance (ΔC load) should NOT be uniform across the year.
+  FT&E predicts that contradiction concentrates in specific
+  temporal windows. Specifically:
+
+  - Winter months (Dec-Feb) and summer months (Jun-Aug) should
+    show HIGHER variance in daily load than spring/autumn
+  - The highest single-day deviations from monthly mean should
+    occur in winter and summer, not spring/autumn
+  - This is the ΔC-clustering prediction: contradiction is
+    temporally structured, not randomly distributed
+
+  FAILURE CONDITION: If variance is uniform across seasons, or if
+  the highest deviations occur in spring/autumn, this prediction
+  fails.
+
+  ──────────────────────────────────────────────────────────────────
+  PREDICTION A3: EMERGENCE IS NOT RETURN TO BASELINE
+  (AEP Electricity Data)
+  ──────────────────────────────────────────────────────────────────
+
+  After a major contradiction event (e.g., Polar Vortex winter
+  2014), the system should stabilise at a level that is
+  STATISTICALLY DIFFERENT from the pre-event baseline for the
+  same seasonal window in the prior year.
+
+  Specifically: comparing mean daily load in March-April 2014
+  (post-Polar Vortex) to March-April 2013 (pre-Polar Vortex),
+  there should be a statistically significant difference (p < 0.05
+  on a two-sample t-test).
+
+  This is the "new attractor" prediction: emergence produces a
+  NEW equilibrium, not a return to the old one.
+
+  FAILURE CONDITION: If the post-event baseline is statistically
+  indistinguishable from the prior year's same-season baseline
+  (p ≥ 0.05), this prediction fails.
+
+  ──────────────────────────────────────────────────────────────────
+  PREDICTION B1: EXPONENTIAL RECOVERY IN ANSWER TIMES
+  (999 Emergency Response Data)
+  ──────────────────────────────────────────────────────────────────
+
+  For police forces that experience a month of unusually high
+  average answer times (>1.5× their own median), the subsequent
+  recovery should follow EXPONENTIAL DECAY rather than linear
+  decline.
+
+  Specifically: for each identified spike, fit both:
+    (a) exponential: AnswerTime(t) = baseline + A·e^(−t/τ)
+    (b) linear:      AnswerTime(t) = baseline + A − B·t
+
+  Across all identified spikes, the exponential model should
+  achieve a better average fit (higher mean R² or lower mean
+  residual) than the linear model.
+
+  FAILURE CONDITION: If linear recovery fits better across the
+  majority of identified spikes, this prediction fails.
+
+  ──────────────────────────────────────────────────────────────────
+  PREDICTION B2: CALL VOLUME AND ANSWER TIME ARE THRESHOLD-LINKED
+  (999 Emergency Response Data)
+  ──────────────────────────────────────────────────────────────────
+
+  There should be a NON-LINEAR relationship between total call
+  volume and average answer time. Specifically:
+
+  - Below a threshold call volume, answer times should be
+    relatively stable (the system has spare capacity: 𝔉 > ΔC)
+  - Above the threshold, answer times should increase sharply
+    (ΔC overwhelms 𝔉: the system enters contradiction)
+
+  This should be detectable as a changepoint or hockey-stick
+  pattern in the scatter plot of calls vs. answer time. A
+  piecewise-linear model (two segments with breakpoint) should
+  fit better than a single linear regression.
+
+  FAILURE CONDITION: If the relationship is purely linear (no
+  threshold behaviour), or if answer times are independent of
+  call volume, this prediction fails.
+
+  ──────────────────────────────────────────────────────────────────
+  PREDICTION B3: HIGH-ΔC FORCES SHOW T-MINIMUM BEHAVIOUR
+  (999 Emergency Response Data)
+  ──────────────────────────────────────────────────────────────────
+
+  Police forces with the highest average contradiction (highest
+  mean answer times across the dataset) should show LONGER
+  recovery times after spikes than forces with lower baseline
+  answer times.
+
+  This is the T-minimum prediction: more contradiction requires
+  more processing time. Systems under greater ΔC need more T to
+  reach emergence.
+
+  Specifically: divide the 44 forces into two groups (top half
+  and bottom half by mean answer time). The top-half group should
+  show longer average time-to-recovery after spikes than the
+  bottom-half group.
+
+  FAILURE CONDITION: If high-ΔC forces recover just as fast or
+  faster than low-ΔC forces, this prediction fails.
+
+================================================================================
+ PREDICTIONS LOCKED — ANALYSIS TO FOLLOW
+ Commit hash: [TO BE RECORDED]
+================================================================================
