@@ -268,6 +268,18 @@ CLAUDE_OPUS_REPORT.txt   (March 12, 2026)
   limitations (sample size, AI circularity, boundary cases, publication
   gap). Falkland Islands case highlighted. Conclusion: the pattern is real.
 
+PROSPECTIVE_TEST_2_ECOLOGY.txt   (March 13, 2026)
+  Second pre-registered prospective FT&E test. Domain: Ecological
+  succession after catastrophic disturbance. Maximum evidential distance
+  from Test #1 (human social → natural science). Operators mapped to
+  species re-inclusion (𝔉), successional duration (T), disturbance
+  magnitude (ΔC), novel ecosystem state (E*). 5 predictions locked.
+  Result: 5/5 confirmed (1 strongly), 0 counter-examples.
+  Gold case: Yellowstone wolf reintroduction — single keystone species
+  triggered documented trophic cascade across vegetation, beaver, birds,
+  scavengers, and river morphology. Combined with Test #1: 9/10 across
+  two fundamentally different domains.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -296,6 +308,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 28 core documents across 8 directories
+ 29 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
