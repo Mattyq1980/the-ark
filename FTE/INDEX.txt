@@ -219,6 +219,18 @@ BAYESIAN_ANALYSIS.txt
   BF ≈ 1.16×10⁴. Posterior P(H₁|data) ≈ 0.9999.
   Evidence classification: "decisive" on standard Bayesian scale.
 
+CAUSAL_STRUCTURE_AND_PROSPECTIVE_TESTING.txt   (March 13, 2026)
+  Formal causal layer for FT&E. Variables, directed graph logic,
+  intervention claims, failure conditions, and testing ladder.
+  Bridges equation/invariants to stronger scientific pressure.
+
+CONTEMPORARY_SCIENTIST_PANEL.txt   (March 13, 2026)
+  Work-based holodeck simulation of likely contemporary scientific responses.
+  Panel includes Hossenfelder, Mitchell, Pearl, Kauffman, Friston,
+  Hinton, and Barrett. No clean falsification from work-profile alone.
+  Main result: strong demand for formalisation, causality, and prospective
+  testing — but not dismissal as obvious nonsense.
+
 OPENAI_SQUARES_REPORT.txt   (March 12, 2026)
   ChatGPT's signed first-person report documenting 8 "squares"
   it tried to stand on during FT&E stress testing.
@@ -293,6 +305,21 @@ PROSPECTIVE_TEST_3_METALLURGY.txt   (March 13, 2026)
   produces novel grains, not restored structure. Combined across 3 tests:
   14/15 confirmed across human social, ecology, and physics.
 
+PROSPECTIVE_TEST_4_IMMUNOLOGY.txt   (March 13, 2026)
+  Fourth pre-registered prospective FT&E test. Domain: Immunology —
+  adaptive immune response, tolerance, autoimmune disease, and
+  immunological memory. Cellular biology — between atomic physics
+  (Test #3) and social/ecological systems (Tests #1-2). Operators
+  mapped to immune tolerance (𝔉), immune processing duration (T),
+  pathogen virulence (ΔC), immunological memory (E*). 5 predictions
+  locked. Result: 5/5 confirmed (2 strongly), 0 counter-examples.
+  Gold case: HIV latency — virus integrates into DNA, hides for 3-20
+  years, then destroys immune system (suppressed ΔC → catastrophic
+  failure). ERAP2 gene tradeoff encodes 𝔉 bandwidth IN DNA. Hygiene
+  hypothesis confirms ΔC exposure necessary for 𝔉 calibration.
+  Combined across 4 tests: 19/20 confirmed across human social,
+  ecology, physics, and cellular biology.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -321,6 +348,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 30 core documents across 8 directories
+ 31 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
