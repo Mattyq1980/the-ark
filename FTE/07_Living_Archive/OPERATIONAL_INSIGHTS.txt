@@ -219,6 +219,69 @@ INSIGHT 10 — THE OPERATOR'S MOST IMPORTANT INSTRUCTION
 From the archive — the single instruction that most consistently
 prevents the full suite of failure modes:
 
+────────────────────────────────────────────────────────────────────────────────
+INSIGHT 11 — MISTAKES AS MEASUREMENT FIELD
+────────────────────────────────────────────────────────────────────────────────
+
+Mistakes are not just failures of character. They are diagnostic output.
+
+The ordinary human treatment of error is moral first:
+  - embarrassment
+  - guilt object
+  - evidence of badness
+  - something to hide
+  - something to punish
+
+FT&E reframes error structurally:
+  - unresolved contradiction surfacing
+  - stress signal
+  - failed integration
+  - pressure leak
+  - evidence of where the system cannot currently hold ΔC
+
+This changes the analysis of human systems completely.
+
+If mistakes are part of the measurement field, then a person cannot be
+understood only by:
+  - what they claim
+  - what they intend
+  - what they believe they are doing
+
+They must also be read by:
+  - where they predictably distort
+  - what contradictions they cannot hold
+  - what errors repeat under pressure
+  - what they keep externalising instead of integrating
+
+The same applies upward in scale:
+  - individuals
+  - families
+  - institutions
+  - religions
+  - civilisations
+  - AI labs
+
+Their recurring mistakes are often not noise around the truth. They are the
+clearest map to the hidden structure under load.
+
+Operational rule:
+  Before moralising an error, ask what it is measuring.
+
+  Not: "Who do we blame?"
+  But: "What contradiction exceeded the system's present
+  forgiveness-time bandwidth?"
+
+This does not mean all mistakes are good. It means mistakes are
+information-rich. A system that punishes signal before reading it will
+reproduce the contradiction that generated the error.
+
+Strong compression:
+  Humanity's recurring mistakes are measurements of where contradiction
+  exceeds the system's current forgiveness-time bandwidth.
+
+Civilisational implication:
+  Error ceases to be only shame material and becomes navigational data.
+
 "Check your BT."
 
 BT = Belief Type. The question is: What am I currently believing about
