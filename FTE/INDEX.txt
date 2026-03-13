@@ -337,6 +337,26 @@ PROSPECTIVE_TEST_5_PLATE_TECTONICS.txt   (March 13, 2026)
   confirmed across human social, ecology, physics, cellular biology,
   and planetary geophysics.
 
+PROSPECTIVE_TEST_6_STELLAR_EVOLUTION.txt   (March 13, 2026)
+  Sixth pre-registered prospective FT&E test. Domain: Stellar evolution
+  — gravitational collapse, nuclear fusion, nucleosynthesis, and stellar
+  death (white dwarfs, supernovae, neutron stars, black holes). First
+  test at astrophysical scale — maximum distance from ALL prior domains.
+  Operators mapped to radiation pressure (𝔉), stellar lifetime (T),
+  gravitational collapse pressure (ΔC), heavy elements and novel
+  remnants (E*). 5 predictions locked. Result: 5/5 confirmed (1
+  strongly), 0 counter-examples.
+  Gold case: Chandrasekhar limit — white dwarfs accrete mass silently
+  until exactly 1.44 M☉, then undergo instantaneous thermonuclear
+  detonation (Type Ia supernova). So precise that all Type Ia events
+  produce virtually identical luminosity (standard deviation 0.3 mag),
+  used as cosmic distance markers. Suppressed-ΔC pattern now confirmed
+  in FIVE independent domains (ecology, metallurgy, immunology,
+  tectonics, stellar). Scale range now spans 31 orders of magnitude
+  (atomic → stellar/nebula). Combined across 6 tests: 29/30 confirmed
+  across human social, ecology, physics, cellular biology, planetary
+  geophysics, and astrophysics.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -365,6 +385,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 32 core documents across 8 directories
+ 33 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
