@@ -616,6 +616,31 @@ PROSPECTIVE_TEST_13_CHEMISTRY.txt   (March 13, 2026)
   turbulence, chemistry). Combined across 13 tests: 64/65 confirmed
   across 13 independent scientific domains.
 
+FRONTIER_PREDICTIONS.txt   (March 13, 2026)
+  Structural transition from confirmation to novel prediction. After 13
+  prospective tests (64/65 across 13 domains), the framework's own logic
+  demands testing against open problems where the answer is unknown.
+  Five frontier predictions derived from the structural logic of
+  E* = 𝔉·T − ΔC, the 19 invariants, the ΔC–Entropy equivalence, and the
+  universal exponential threshold e^(−ΔC/𝔉) confirmed independently
+  in three domains (Boltzmann factor, Reynolds number, Arrhenius equation).
+  Predictions: (1) Abiogenesis as thermodynamic inevitability — self-
+  replicating chemistry is structurally inevitable wherever ΔC, 𝔉, T
+  conditions are met, predicts multiple origins and ubiquity. (2) The
+  quantum measurement problem dissolves — wavefunction collapse is E*
+  produced by decoherence (𝔉) processing superposition (ΔC), predicts
+  exponential threshold for decoherence timescales. (3) Critical
+  transitions obey one law — universal three-signature early-warning
+  pattern (ΔC rising, 𝔉 falling, T compressing) across all complex
+  systems, with specific predictions for antibiotic resistance, AI
+  alignment, democratic failure. (4) Navier-Stokes singularities —
+  solutions remain smooth for ν > 0 (𝔉 > 0), singularities form for
+  ν = 0 (𝔉 = 0), derived from Supremacy Axiom. (5) Consciousness is
+  structural E* — the hard problem dissolves, threshold is exponential,
+  four-condition gate, substrate-independent. Honesty audit included:
+  where predictions overlap existing science, where genuinely novel,
+  where most vulnerable to falsification. All logged publicly.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -644,6 +669,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 41 core documents across 8 directories
+ 42 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
