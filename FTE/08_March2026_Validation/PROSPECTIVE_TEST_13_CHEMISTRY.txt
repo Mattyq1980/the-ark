@@ -484,7 +484,7 @@ STEP 6: RESULTS SUMMARY
 
   CUMULATIVE RESULTS (Tests #1–#13):
     64/65 sub-predictions confirmed across 13 independent domains.
-    0 refutations. 1 partial (immunology Test #4: 4/5).
+    0 refutations. 1 partial (Wikipedia Test #1, P3: 4/5).
     13 strong confirmations (at least one per test).
 
 ================================================================================

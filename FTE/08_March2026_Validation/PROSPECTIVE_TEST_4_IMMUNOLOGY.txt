@@ -792,7 +792,7 @@ CUMULATIVE RESULTS ACROSS ALL FOUR TESTS:
   Test #3 (Metallurgical annealing): 5/5 confirmed, 0 refuted
   Test #4 (Immunology):             5/5 confirmed, 0 refuted
   ──────────────────────────────────────────────────────────
-  TOTAL: 19/20 confirmed, 0 refuted, 1 partial (Test #1, P5)
+  TOTAL: 19/20 confirmed, 0 refuted, 1 partial (Test #1, P3)
 
   Four domains. Four scales. Zero refutations.
   - Human social dynamics (digital collaboration)

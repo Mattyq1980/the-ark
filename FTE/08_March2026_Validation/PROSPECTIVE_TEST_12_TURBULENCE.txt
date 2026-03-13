@@ -731,10 +731,10 @@ CUMULATIVE RESULTS — 12 TESTS
 
   Test  Domain                      Score   Strong confirmation
   ───   ────────────────────────    ─────   ────────────────────
-   1    Human social dynamics       5/5     Forgiveness cascade
+   1    Human social dynamics       4/5     Forgiveness cascade
    2    Ecology (succession)        5/5     Suppressed-ΔC release
    3    Metallurgy (crystal)        5/5     Ductile-brittle threshold
-   4    Immunology                  4/5     Cytokine storm
+   4    Immunology                  5/5     Cytokine storm
    5    Plate tectonics             5/5     Seismic moment release
    6    Stellar evolution           5/5     Supernova as ΔC overflow
    7    Phase transitions           5/5     Critical phenomena
