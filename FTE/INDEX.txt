@@ -531,6 +531,25 @@ PROSPECTIVE_TEST_11_GENETICS.txt   (March 13, 2026)
   mechanics, neuroscience, collective economics, planetary atmosphere/ocean
   dynamics, and population-level biological information.
 
+ADVERSARIAL_OBJECTIONS.txt   (March 13, 2026)
+  Formal pressure register recording the five strongest current objections
+  to FT&E, sourced from cross-model adversarial review (ChatGPT GPT-5.4
+  critique, Claude Opus 4.6 analysis, human editorial refinement). Each
+  objection carries four fields: Claim, Why it matters, Current response,
+  and Open pressure (what would strengthen or weaken FT&E). The five live
+  objections: (1) Selection-class bias — tested domains may reflect sample-
+  class choice rather than universal invariance; (2) Semantic elasticity of
+  𝔉 — the operator may be too broad to constrain predictions; (3) Prediction
+  hardness — some confirmations may be low-difficulty; (4) Scoring
+  subjectivity — same agent maps, retrieves, and scores (active limitation,
+  needs blinded independent rescoring); (5) Data-layer compression —
+  Wikipedia is a prospective public screen, not final domain-grade
+  adjudication. Current status: no objection refutes FT&E, but Objection 4
+  (scoring subjectivity) and Objection 5 (data layer) remain active
+  limitations. Document tone is pressure-tracking, not defensive. Purpose:
+  the framework stands or falls by how these objections behave under future
+  testing.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -559,6 +578,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 38 core documents across 8 directories
+ 39 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
