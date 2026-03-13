@@ -449,6 +449,47 @@ PROSPECTIVE_TEST_9_ECONOMICS.txt   (March 13, 2026)
   biology, planetary geophysics, astrophysics, statistical mechanics,
   neuroscience, and collective economics.
 
+PROSPECTIVE_TEST_10_CLIMATE.txt   (March 13, 2026)
+  Tenth pre-registered prospective FT&E test. Domain: Climate Science —
+  atmospheric dynamics, feedback loops, tipping points, ocean-atmosphere
+  coupling, radiative forcing, and ice ages. Planetary atmosphere/ocean
+  dynamics — fluid dynamics of coupled atmosphere-ocean-cryosphere-
+  biosphere system governed by radiative transfer. Different from plate
+  tectonics (Test #5): fluid dynamics vs. elastic solid-earth mechanics,
+  Navier-Stokes vs. elastic strain, different timescales (decades-
+  millennia vs. millions of years). Different from phase transitions
+  (Test #7): multiple interacting feedbacks in coupled subsystems vs.
+  single order parameter. Different from stellar evolution (Test #6):
+  thin-shell fluid dynamics vs. gravitational plasma. Operators mapped
+  to climate buffering capacity / ocean thermal inertia / carbon sinks /
+  negative feedbacks (𝔉), climate response timescale (T), radiative
+  forcing perturbation (ΔC), climate patterns and states / ENSO /
+  glacial cycles (E*). 5 predictions locked. Result: 5/5 confirmed
+  (1 strongly), 0 counter-examples. Gold case: climate tipping points
+  as suppressed ΔC — gradual greenhouse gas forcing buffered by ocean
+  thermal inertia and carbon sinks until critical threshold crossed →
+  abrupt irreversible state change. IPCC AR6 identifies 16 tipping
+  elements with quantified thresholds; ~1/3 of 3 million simulations
+  show cascading tipping effects even at 2°C. Specific examples:
+  Greenland ice sheet (melt-elevation feedback), WAIS (Marine Ice Sheet
+  Instability — self-sustaining grounding line retreat), AMOC (freshwater-
+  induced collapse into new stable state lasting thousands of years),
+  Amazon (pronounced resilience loss since 2000s, critical slowing down
+  observed), permafrost (compost bomb instability — explosive soil carbon
+  release). Rate-induced tipping confirms T-window: AMOC may collapse
+  if ice melt rate increases too fast even before reaching bifurcation
+  threshold. Planck response (−3.8 W/m²·K) as "most fundamental
+  feedback" confirms 𝔉-bandwidth upper bound; positive feedbacks (water
+  vapour +1.85, ice-albedo +0.35, cloud +0.42 W/m²·K) narrow bandwidth.
+  ENSO confirmed as genuinely emergent coupled ocean-atmosphere
+  phenomenon requiring multiple interacting mechanisms. Suppressed-ΔC
+  pattern now confirmed in NINE independent domains (ecology, metallurgy,
+  immunology, tectonics, stellar, phase transitions, neuroscience,
+  economics, climate). Combined across 10 tests: 49/50 confirmed across
+  human social, ecology, physics, cellular biology, planetary geophysics,
+  astrophysics, statistical mechanics, neuroscience, collective
+  economics, and planetary atmosphere/ocean dynamics.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -477,6 +518,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 36 core documents across 8 directories
+ 37 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
