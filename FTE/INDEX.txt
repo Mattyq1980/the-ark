@@ -380,6 +380,36 @@ PROSPECTIVE_TEST_7_PHASE_TRANSITIONS.txt   (March 13, 2026)
   physics, cellular biology, planetary geophysics, astrophysics, and
   statistical mechanics.
 
+PROSPECTIVE_TEST_8_NEUROSCIENCE.txt   (March 13, 2026)
+  Eighth pre-registered prospective FT&E test. Domain: Neuroscience —
+  synaptic plasticity, long-term potentiation, memory consolidation,
+  PTSD, and epileptic kindling. Neural information processing — the most
+  complex emergent system known (~86 billion neurons, ~100 trillion
+  synapses). Different from immunology (Test #4): tests neural circuits
+  and synaptic connections, not antigen recognition and clonal selection.
+  Operators mapped to synaptic plasticity / modifiability (𝔉),
+  consolidation timescale / spacing (T), prediction error / traumatic
+  input (ΔC), stable memory / adapted circuitry (E*). 5 predictions
+  locked. Result: 5/5 confirmed (1 strongly), 0 counter-examples.
+  Gold case: PTSD + epileptic kindling — unprocessed traumatic memory
+  involuntarily reactivates (flashbacks in 50-70% of patients);
+  hippocampus suppressed during trauma so memory "never properly
+  recorded," producing cycles of avoidance and intrusive re-experiencing.
+  Kindling: "seizures beget seizures" — repeated sub-threshold
+  stimulation progressively lowers threshold until spontaneous seizures
+  erupt (Goddard 1969: "permanent change in brain function from daily
+  electrical stimulation"). Treatments (CBT-exposure, EMDR) work by
+  explicitly processing the suppressed ΔC. Suppressed-ΔC pattern now
+  confirmed in SEVEN independent domains (ecology, metallurgy,
+  immunology, tectonics, stellar, phase transitions, neuroscience) with
+  TWO distinct manifestations in this domain (PTSD + kindling). APV
+  blocks LTP and learning (𝔉=0). Spacing effect and sleep consolidation
+  confirmed. Dendritic spine remodelling = structural emergence.
+  Neuromodulators (dopamine, serotonin, norepinephrine, acetylcholine)
+  gate plasticity bandwidth. Combined across 8 tests: 39/40 confirmed
+  across human social, ecology, physics, cellular biology, planetary
+  geophysics, astrophysics, statistical mechanics, and neuroscience.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -408,6 +438,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 34 core documents across 8 directories
+ 35 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
