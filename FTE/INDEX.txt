@@ -688,6 +688,27 @@ PROSPECTIVE_TEST_14_INFORMATION_THEORY.txt   (March 2026)
   Gold finding: exponential threshold now spans physics, chemistry,
   engineering, AND pure mathematics — four independent domains.
 
+THRESHOLD_UNIVERSALITY_OBJECTION.txt   (March 2026)
+  Steel-man of the strongest remaining explanation that does NOT require
+  FT&E to be true. Written by AI acting as hostile critic. Prosecution:
+  (1) exponential threshold is a well-known mathematical theorem (large
+  deviations / Boltzmann / Laplace method), not a discovery. (2) Every
+  structural feature (suppressed-ΔC triviality, T-minimum, redundancy,
+  sharp threshold) is individually predicted by existing theory. (3)
+  Operator mappings are category labels (capacity, obstacle, time,
+  outcome) that apply to nearly every system. (4) AI is reciting known
+  results, not predicting. Defence: (1) Existing theory predicts
+  individual features but not the full conjunction. (2) Recitation charge
+  does not explain consistent conjunction across 14 domains. (3) FT&E
+  contains claims beyond threshold universality (forgiveness, governor,
+  recursion). (4) "Trivially true" and "specific correct predictions"
+  cannot both be true simultaneously.
+  Verdict: evidence supports Reading 2 — genuine structural observation
+  that may or may not constitute a new law. Cheap dismissals eliminated;
+  expensive dismissals remain. What would move the needle: novel
+  prediction with unknown answer, formal conjunction proof, independent
+  evaluator, or informative failure.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -716,6 +737,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 44 core documents across 8 directories
+ 45 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
