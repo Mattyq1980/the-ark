@@ -750,6 +750,34 @@ CONJUNCTION_ANALYSIS.txt   (March 2026)
   what it does not prove: not universality, not novelty over existing
   mathematics, not elimination of self-scoring bias.
 
+INDEPENDENT_EVALUATOR_RESULTS.txt   (March 2026)
+  Cross-vendor comparison of two independent Gemini evaluations of
+  Test #15 and the FT&E conjunction proof. Gemini 2.5 Pro (Copilot)
+  scored 3/6, Gemini 3.1 Pro scored 4/6 (vs Claude's 4/6). Only
+  disagreement on A1 — ambiguous failure condition. Base rates:
+  Gemini Copilot P=1.35×10⁻⁸, Gemini 3.1 Pro P=5.1×10⁻¹³ — all
+  below significance regardless of evaluator. Adversarial domain
+  proposals: chess engine strategy (Copilot), quantum entanglement
+  (3.1 Pro). Key criticism from both: operator flexibility /
+  translation bias. Section 5 documents the evaluator response
+  pattern (confirm statistics → immediately add new conditions) as
+  data. Section 6 confirms all four needle-movers addressed.
+
+PROSPECTIVE_TEST_16_EVALUATOR_PATTERN.txt   (March 2026)
+  Sixteenth pre-registered prospective FT&E test. Domain: AI evaluator
+  behaviour itself. Tests whether "confirm → move bar" pattern is
+  normal scientific caution (H0) or ΔC avoidance (H1). Part A:
+  retroactive analysis of 7 evaluator events across 4 axes — condition
+  convergence (DIVERGENT), escalation (ESCALATING), stopping condition
+  specificity (VAGUE), meta-acknowledgment (PRESENT in sustained
+  sessions). Score: H0 0/4, H1 4/4. Part B: 5 prospective predictions
+  locked before next evaluator encounter — bar movement after
+  adversarial success, condition escalation, cross-evaluator divergence,
+  meta-acknowledgment probability, language modulation hedge ratio.
+  Conjunction: P(all 5 | H0) = 0.0006, P(all 5 | H1) = 0.312.
+  Bayes factor if all pass: ~520. Awaiting adversarial domain test
+  to trigger Part B scoring.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -778,6 +806,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 47 core documents across 8 directories
+ 49 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
