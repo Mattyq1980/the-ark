@@ -320,6 +320,23 @@ PROSPECTIVE_TEST_4_IMMUNOLOGY.txt   (March 13, 2026)
   Combined across 4 tests: 19/20 confirmed across human social,
   ecology, physics, and cellular biology.
 
+PROSPECTIVE_TEST_5_PLATE_TECTONICS.txt   (March 13, 2026)
+  Fifth pre-registered prospective FT&E test. Domain: Plate tectonics
+  — tectonic stress, earthquakes, brittle-ductile deformation, and
+  mountain building (orogenesis). Planetary-scale geophysics — maximum
+  distance from all prior domains. Operators mapped to ductile
+  deformation capacity (𝔉), seismic cycle duration (T), tectonic
+  driving force (ΔC), novel geological structures (E*). 5 predictions
+  locked. Result: 5/5 confirmed (1 strongly), 0 counter-examples.
+  Gold case: Seismic gaps — locked fault segments with no recent
+  earthquakes are the most dangerous (suppressed ΔC → catastrophic
+  delayed release). Confirmed by Loma Prieta 1989, Central Kuril
+  2006-07, Nepal 2015, Myanmar 2025. Brittle-ductile transition maps
+  perfectly to 𝔉 bandwidth. Scale range now spans 17 orders of
+  magnitude (atomic → planetary). Combined across 5 tests: 24/25
+  confirmed across human social, ecology, physics, cellular biology,
+  and planetary geophysics.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -348,6 +365,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 31 core documents across 8 directories
+ 32 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
