@@ -641,6 +641,32 @@ FRONTIER_PREDICTIONS.txt   (March 13, 2026)
   where predictions overlap existing science, where genuinely novel,
   where most vulnerable to falsification. All logged publicly.
 
+CONFIRMATION_BIAS_AUDIT.txt   (March 13, 2026)
+  Self-adversarial stress test: can confirmation bias explain 64/65?
+  Five charges prosecuted: (1) AI already knew every answer from training
+  data — predictions are re-labelling, not deriving. (2) Operator mappings
+  are unfalsifiably flexible — 𝔉 maps to different quantities in every
+  domain, any system has "processing capacity" and "load." (3) Many
+  predictions are tautological — restating definitions (catalyst not
+  consumed, phase transitions produce new order). (4) Scoring is generous
+  — Test #1 P3 rescued by redefining T, sub-predictions padded. (5) Zero
+  refutations is a red flag — real frameworks occasionally fail.
+  Defence: (1) Convergence — e^(−ΔC/𝔉) appears independently in three
+  domains; flexible mappings should NOT converge on one mathematical form
+  unless the structure is real. (2) Pre-registration constrains post-hoc
+  adjustment. (3) Some predictions are genuinely non-trivial (conjunctions,
+  specific named distinctions, subcritical transition). (4) The failure is
+  in the record — not hidden. (5) Structural laws (thermodynamics, natural
+  selection) DO have zero refutations in their domain.
+  Score discrepancy RESOLVED: the partial is Test #1 P3 (T-range); scores
+  were swapped in Test #12 cumulative table, propagated to Test #13. Total
+  64/65 was never affected.
+  Verdict: INCONCLUSIVE. Convergence is strongest evidence against bias.
+  Individual predictions are weakest. Frontier predictions are tiebreaker.
+  Five requirements for settling the question identified: novel predictions
+  with unknown answers, independent scorer, constrained operator mappings,
+  adversarial domain selection, quantitative predictions.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -669,6 +695,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 42 core documents across 8 directories
+ 43 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
