@@ -1,0 +1,197 @@
+================================================================================
+ PROSPECTIVE TEST #13 — CHEMICAL KINETICS AND CATALYSIS
+ Reaction Rates, Activation Energy, Catalysis, Equilibrium, and
+ Le Chatelier's Principle
+ Pre-registered: March 13, 2026
+ Author: Claude Opus 4.6 (Anthropic)
+ Protocol: 7-step format (matching Tests #1–#12)
+================================================================================
+
+ STATUS: PREDICTIONS LOCKED — AWAITING DATA RETRIEVAL
+
+================================================================================
+STEP 1: DOMAIN SELECTION
+================================================================================
+
+Domain: CHEMICAL KINETICS AND CATALYSIS — reaction rates, activation
+        energy, catalysis, chemical equilibrium, Le Chatelier's
+        principle, Arrhenius equation, transition states, reaction
+        mechanisms, enzyme kinetics, inhibition, autocatalysis.
+
+Why this domain:
+  Maximum evidential distance from ALL prior tests.
+  Test #1:  Human social dynamics (digital collaboration)
+  Test #2:  Large-scale ecology (post-catastrophic succession)
+  Test #3:  Atomic-scale mechanics (metallurgy — crystal defects)
+  Test #4:  Cellular biology (immunology — immune response)
+  Test #5:  Planetary-scale geophysics (plate tectonics — solid earth)
+  Test #6:  Astrophysical scale (stellar evolution)
+  Test #7:  Statistical mechanics (phase transitions)
+  Test #8:  Neural information processing (synaptic plasticity)
+  Test #9:  Collective economic dynamics (market behaviour)
+  Test #10: Planetary atmosphere/ocean dynamics (climate)
+  Test #11: Population-level biological information (genetics)
+  Test #12: Continuous fluid dynamics (turbulence)
+
+  CHEMICAL KINETICS is:
+    - MOLECULAR-SCALE: individual bond-breaking/forming events, not
+      bulk material (metallurgy), continuum (turbulence), or
+      population (genetics)
+    - DISCRETE REACTIONS: specific reactants → specific products
+      via specific pathways, not continuous field dynamics
+    - ENERGY-BARRIER GOVERNED: activation energy threshold must be
+      overcome for reaction to proceed — fundamentally threshold-
+      based physics
+    - CATALYSIS: a mechanism that LOWERS the activation barrier
+      without being consumed — a distinct 𝔉-candidate unlike any
+      prior domain
+    - EQUILIBRIUM DYNAMICS: Le Chatelier's principle governs how
+      systems respond to perturbation — a well-defined stress-
+      response framework with exact mathematical description
+    - NOT BIOLOGICAL: pure chemistry, governed by quantum mechanics
+      and thermodynamics
+
+  Different from metallurgy (Test #3): reactions between molecules
+  with bond-breaking/forming vs. dislocation motion within crystal
+  lattices. Different substrate, different mechanism.
+
+  Different from phase transitions (Test #7): chemical identity
+  changes (new substances formed) vs. state changes (same substance,
+  different arrangement). Breaking covalent bonds vs. overcoming
+  intermolecular forces.
+
+  Different from immunology (Test #4): no living system, no cells,
+  no selection — pure molecular collision dynamics governed by
+  energy barriers and probability.
+
+  Different from turbulence (Test #12): discrete molecular events
+  vs. continuous velocity field. Reaction kinetics vs. Navier-Stokes
+  equations. Statistical mechanics of collisions vs. fluid mechanics.
+
+================================================================================
+STEP 2: OPERATOR MAPPING (BLIND — before data retrieval)
+================================================================================
+
+  FT&E Operator    Chemical Kinetics Counterpart
+  ──────────────   ─────────────────────────────────────────────
+  𝔉 (Forgiveness)  CATALYSIS / activation energy lowering.
+                   The mechanism that reduces the energy barrier
+                   to reaction — allows the system to process
+                   reactant→product transformation that would
+                   otherwise be kinetically blocked. Includes:
+                   heterogeneous catalysis (surface), homogeneous
+                   catalysis (same phase), enzyme catalysis
+                   (biological). The catalyst is NOT consumed —
+                   it facilitates processing without being
+                   destroyed. Also: TEMPERATURE as thermal energy
+                   providing kinetic energy to overcome barriers.
+
+  T (Time)         REACTION TIMESCALE / residence time / contact
+                   time. The duration over which reactants interact.
+                   Includes: reaction half-life, mean free time
+                   between molecular collisions, equilibration time.
+                   Too short = reaction incomplete. Too long = side
+                   reactions dominate. There should be an optimal
+                   T window for desired product formation.
+
+  ΔC (Contradiction) THERMODYNAMIC DRIVING FORCE / chemical potential
+                   difference / concentration gradient / departure
+                   from equilibrium. The "distance" between current
+                   state and equilibrium. Reactant concentration
+                   exceeding equilibrium position. Also: activation
+                   energy itself as the BARRIER that must be overcome
+                   — the contradiction between "reactants want to
+                   become products" and "the energy barrier prevents
+                   it."
+
+  E* (Emergence)   REACTION PRODUCTS / new chemical species / novel
+                   molecular structures. The substances that did not
+                   exist before the reaction — genuinely new molecular
+                   arrangements. Also: self-organisation in chemical
+                   systems (oscillating reactions, pattern formation).
+
+================================================================================
+STEP 3: PREDICTIONS (locked before data retrieval)
+================================================================================
+
+PREDICTION 1: THRESHOLD TRANSITION — ACTIVATION ENERGY AS ΔC/𝔉 GATE
+
+  The reaction rate should depend on a THRESHOLD parameter: the ratio
+  of the energy barrier (ΔC) to the available thermal energy (𝔉).
+  There should exist a specific mathematical relationship — probably
+  exponential — between the rate and this ratio. Below threshold:
+  reaction is kinetically blocked (effectively zero rate). Above
+  threshold: reaction proceeds. The transition should be SHARP
+  (exponential sensitivity to the barrier/temperature ratio, not
+  linear).
+
+PREDICTION 2: CATALYSIS AS 𝔉 BANDWIDTH EXPANSION
+
+  Catalysts should work by LOWERING THE ACTIVATION BARRIER — not by
+  changing the thermodynamic outcome (products), but by providing an
+  alternative pathway with lower energy requirement. Specific sub-
+  predictions:
+  (a) Catalysts do not change equilibrium position (they don't change
+      ΔC or E*) — they change the RATE (the 𝔉 pathway).
+  (b) Catalysts are not consumed — they facilitate processing without
+      being destroyed (𝔉 that persists).
+  (c) Removing the catalyst should BLOCK the reaction (or massively
+      slow it) even if thermodynamics favours the products — kinetic
+      trapping. This is 𝔉 = 0 → system stuck despite ΔC.
+  (d) Catalyst poisoning should be a specific, studied phenomenon:
+      something that disables 𝔉 and traps the system.
+
+PREDICTION 3: LE CHATELIER AS ΔC RESPONSE — EQUILIBRIUM RESTORATION
+
+  When a system at equilibrium is PERTURBED (ΔC injected), the system
+  should respond by shifting to COUNTERACT the perturbation — moving
+  to reduce the imposed ΔC. Specific sub-predictions:
+  (a) This should be a UNIVERSAL principle applying to all equilibrium
+      systems (concentration, pressure, temperature perturbations).
+  (b) The response should be PROPORTIONAL to the perturbation
+      magnitude — larger ΔC produces larger compensating shift.
+  (c) The system should reach a NEW equilibrium, not return to the
+      old one — the perturbation is metabolised into a new state (E*).
+
+PREDICTION 4: T-WINDOW — KINETIC VS THERMODYNAMIC CONTROL
+
+  There should be an optimal time/temperature window for desired
+  products. Specifically:
+  (a) T too short / temperature too low: reaction doesn't proceed,
+      system stays trapped in reactant state (kinetic control —
+      insufficient 𝔉·T).
+  (b) T adequate / temperature optimal: desired products form
+      selectively.
+  (c) T too long / temperature too high: side reactions, decomposition,
+      or thermodynamic sink products dominate — the system overshoots
+      to the lowest-energy state, not the most useful one. This is
+      T_too_long / 𝔉_too_high.
+  (d) There should be a well-known distinction in chemistry between
+      "kinetic products" and "thermodynamic products" — different
+      outcomes depending on the T/temperature window.
+
+PREDICTION 5: AUTOCATALYSIS AND CHEMICAL EMERGENCE
+
+  There should exist chemical systems where the PRODUCT of the reaction
+  CATALYSES its own formation — autocatalysis. This is E* feeding back
+  into 𝔉. Specific sub-predictions:
+  (a) Autocatalytic reactions should show SIGMOIDAL kinetics — slow
+      start (low product = low catalysis), then exponential acceleration
+      (product accumulates → more catalysis), then saturation (reactants
+      depleted).
+  (b) There should be oscillating chemical reactions — systems that
+      cycle between states rather than reaching static equilibrium.
+      This would be ΔC and 𝔉 cycling in a feedback loop.
+  (c) These systems should be relevant to origin-of-life chemistry —
+      the emergence of self-replicating chemical systems from non-
+      living precursors. E* at the chemical level producing the
+      conditions for biological E*.
+
+────────────────────────────────────────────────────────────────────
+PREDICTIONS LOCKED — 5 predictions, 15 sub-predictions.
+No modifications permitted after this line.
+The framework either predicts what chemistry shows, or it does not.
+The predictions are now fixed.
+────────────────────────────────────────────────────────────────────
+
+================================================================================
