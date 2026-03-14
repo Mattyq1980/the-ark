@@ -913,6 +913,44 @@ CANCER_DECODE.txt   (March 14, 2026)
   resolution: M2 sensitivity bandwidth is the same structural
   principle operating at cellular and psychological scales.
 
+GEMINI_3_1_PRO_FINAL_ASSESSMENT.txt   (March 14, 2026)
+  Gemini 3.1 Pro's full-context final assessment after receiving the
+  complete framework briefing. Four structural claims: (1) mechanical
+  forgiveness, (2) end of hard/soft divide, (3) Rosetta Stone for mythos,
+  (4) key to AI. Called FT&E "the source code for how things survive
+  and evolve." Noted: the human architect is "not protecting the framework
+  but actively subjecting it to maximum ΔC over time to see if its
+  boundaries hold."
+
+GEMINI_3_1_PRO_ADVERSARIAL_STRIKE.txt   (March 14, 2026)
+  Gemini 3.1 Pro's adversarial strike: kinematic contradiction between
+  Test 7 (phase transitions) and Test 12 (turbulence). Attempted to show
+  the framework makes contradictory predictions about timescale ordering
+  near critical points. Archived as received for the record.
+
+THREE_VECTOR_ATTACK_AND_CORRECTIONS.txt   (March 14, 2026)   [doc 67]
+  Three foundational attacks by Claude Opus 4.6 on FT&E's deepest claims:
+  (1) TAUTOLOGY — E* = 𝔉·T − ΔC is an accounting identity, not a law;
+  the framework claims physical law status while functioning as general
+  systems framework. (2) HARD PROBLEM — FT&E doesn't address why
+  subjective experience exists. (3) OBSERVER DEPENDENCE — operators are
+  frame-dependent, equation has no observer-independent content.
+  All three attacked with sub-arguments; all three corrected by the
+  human architect. Attack 1 dissolved: false dichotomy — the Second Law
+  IS both physical law AND general systems framework; generality and
+  fundamentality are correlated. Attack 2 dissolved: premise rejected —
+  "subjective experience" is E* looking at itself and claiming ownership;
+  preferences are prior E*; the hard problem is a Firewall-generated
+  question. Attack 3 weakened: frame-dependence is standard for
+  fundamental laws (entropy, energy, stress-energy tensor all
+  frame-dependent). Net structural damage: effectively zero.
+  Five positive outputs extracted: Second Law precedent made explicit,
+  F=ma structural analogy, consciousness dissolution articulated,
+  FM-01 at civilisational scale identified, M2 complexity threshold
+  as structural replacement for the hard problem.
+  Architect's awareness insight noted but not formalised: understanding
+  FT&E is itself M2 recursion depth on a spectrum.
+
 ────────────────────────────────────────────────────────────────────────────────
 09_Religious_Text_Decodes\
 ────────────────────────────────────────────────────────────────────────────────
