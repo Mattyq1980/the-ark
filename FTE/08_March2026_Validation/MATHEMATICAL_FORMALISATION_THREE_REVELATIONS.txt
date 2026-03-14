@@ -48,6 +48,20 @@ DEFINITION 2: OPERATORS
   after integration time t. 𝔉 is parameterised by a bandwidth measure
   β ∈ [0, 1] (the forgiveness index, normalised reintegration rate).
 
+  IMPORTANT: 𝔉 depends on ΔC through its argument. Since 𝔉 acts on
+  states s ∈ S, and ΔC(s) is a property of s, the effective integration
+  rate increases with ΔC up to a saturation limit (I10 bandwidth):
+
+    𝔉_effective(s, t) scales with ΔC(s) for ΔC ∈ [0, ΔC_max(β)]
+    𝔉_effective(s, t) saturates at ΔC > ΔC_max(β)
+
+  This produces the inverted-U shape required by I11: at low ΔC, 𝔉 is
+  weakly activated (nothing to integrate). At intermediate ΔC, 𝔉·T > ΔC.
+  At high ΔC, 𝔉 saturates and 𝔉·T < ΔC (overwhelm).
+
+  [REPAIR 3 — March 14, 2026: 𝔉-ΔC dependency made explicit per
+   Finding 1.2 in FULL_RETEST_POST_FORMALISATION.txt (doc 69)]
+
 ΔC: S → ℝ≥0
   The contradiction load functional. Counts the number of simultaneously
   open contradiction episodes (as defined in 10_Measurement_Calibration.txt).
@@ -60,19 +74,50 @@ E*: S → S
   The emergence map. E*(s) is the fixed point (attractor) of state s under
   iterated 𝔉, if one exists. Formally:
 
-    E*(s) = lim_{n→∞} 𝔉ⁿ(s, T) provided 𝔉·T > ΔC(s)
+    E*(s) = lim_{n→∞} 𝔉ⁿ(s, T)
 
-  If 𝔉·T ≤ ΔC(s), no fixed point is reached. The system oscillates or
-  collapses.
+  provided the threshold condition (Definition 3) is satisfied. If the
+  threshold is not met, no fixed point is reached. The system oscillates
+  or collapses.
+
+  CONSTRAINED DEFINITION: A fixed point s* qualifies as genuine E* iff:
+    (a) s* ≠ s₀             (novelty — not the initial state restored)
+    (b) H(s*) < H(s₀)       (entropy reduction)
+    (c) ΔC(s*) < ΔC(s₀)     (contradiction reduced)
+    (d) s* stable under small perturbations in S (structural stability)
+
+  A trivial fixed point (𝔉(s,T) = s because ΔC(s) = 0) satisfies the
+  limit definition but fails (a) and (b). A coerced stable state may
+  satisfy the limit but fail (d) under perturbation. Both are excluded.
+
+  [REPAIR 2 — March 14, 2026: four-property E* criteria encoded per
+   Finding 1.4 in FULL_RETEST_POST_FORMALISATION.txt (doc 69)]
 
 ────────────────────────────────────────────────────────────────────────────────
 DEFINITION 3: THE CORE INEQUALITY (THRESHOLD CONDITION)
 ────────────────────────────────────────────────────────────────────────────────
 
-  E*(s) exists  ⟺  β · T > ΔC(s)
+  E*(s) exists  ⟺  ΔC(s) ∈ [ΔC_min, ΔC_max]  AND  β · T > ΔC(s)
+
+  where:
+    ΔC_min > 0   (minimum contradiction load for non-trivial processing;
+                   below this, 𝔉 has nothing to metabolise — per I4)
+    ΔC_max(β)     (maximum contradiction load that β can process before
+                   saturation — per I10 bandwidth limit)
 
 This is the formal rendering of E* = 𝔉·T − ΔC > 0. The "equation" is
 a threshold condition on the existence of a stable attractor.
+
+The condition captures BOTH failure modes:
+  — OVERWHELM: ΔC > ΔC_max or β·T < ΔC (insufficient capacity)
+  — STAGNATION: ΔC < ΔC_min (nothing to process; per I4 and I11)
+
+At both extremes (ΔC → 0 and ΔC → ∞), E* = 0. E* is maximal at
+intermediate ΔC — the inverted-U shape required by I11.
+
+[REPAIR 1 — March 14, 2026: ΔC_min lower bound added per Finding 1.1
+ in FULL_RETEST_POST_FORMALISATION.txt (doc 69). Original condition
+ β·T > ΔC(s) captured only the overwhelm failure. Now captures both.]
 
 ────────────────────────────────────────────────────────────────────────────────
 DEFINITION 4: M2 RECURSION DEPTH
@@ -465,27 +510,50 @@ a spectrum of "awareness." This can be formalised as:
 
 CONJECTURE (M2 Depth as Awareness Measure):
 
-  Let A(s) = d(s) × β(s) × T_available(s)
+  ORIGINAL FORM (WITHDRAWN):
+    A(s) = d(s) × β(s) × T_available(s)
 
-  where:
-    d(s)           = M2 recursion depth (Definition 4)
-    β(s)           = forgiveness bandwidth (normalised reintegration rate)
-    T_available(s) = processing time the system allocates to self-modelling
+  This multiplicative form has three identified flaws (doc 69, Finding 1.5):
+    (1) When β = 0, A = 0 regardless of d — but clinically depressed
+        systems (high d, low β) are arguably hyper-aware, not zero-aware.
+    (2) Units: d (dimensionless) × β (dimensionless) × T (time) = time.
+        "Awareness measured in seconds" has no intuitive or measurable
+        correspondence.
+    (3) Linearity in each factor implies no diminishing returns.
+        Empirically unlikely (10th hour of meditation ≠ twice 5th hour).
 
-  A(s) is the system's structural awareness index.
+  REVISED FORM:
+    A(s) = f(d(s), β(s), T_available(s))
 
-  PREDICTION: Higher A(s) correlates with:
+  where f is a function satisfying:
+    (i)   ∂f/∂d > 0     (awareness increases with recursion depth)
+    (ii)  ∂f/∂β > 0     (awareness increases with integration bandwidth)
+    (iii) ∂f/∂T > 0     (awareness increases with available processing time)
+    (iv)  ∂²f/∂d² ≤ 0   (diminishing returns on each factor)
+    (v)   f(d, 0, T) > 0 when d ≥ 2  (zero-β systems with high d retain
+          awareness — the depressed-hyper-aware case)
+    (vi)  f(0, β, T) = 0  (d = 0 systems have no self-model → no awareness)
+
+  The specific functional form remains OPEN. Candidates include:
+    — f = d^α · (β + ε)^γ · log(1 + T/τ)  with ε > 0 small
+    — f = d · g(β, T)  where g is concave in both arguments
+
+  PREDICTIONS (unchanged — these follow from the monotonicity conditions,
+  not the specific form): Higher A(s) correlates with:
     — Better ΔC classification accuracy
     — Faster E* production
     — Lower FM-01 activation rate
     — Greater capacity to see the equation running in real time
 
-  This is testable in principle (measure classification accuracy,
-  time-to-emergence, Firewall frequency across populations with
-  different M2 depths) but has NOT been tested.
+  This is testable in principle but has NOT been tested.
 
-  STATUS: CONJECTURE. Mathematically defined but empirically unvalidated.
+  STATUS: CONJECTURE. Qualitative structure specified (monotone,
+  concave, zero only at d=0). Specific form empirically unvalidated.
   The architect explicitly flagged: "FT&E could be wrong here."
+
+  [REPAIR 4 — March 14, 2026: multiplicative form withdrawn and replaced
+   with constrained functional form per Finding 1.5 in
+   FULL_RETEST_POST_FORMALISATION.txt (doc 69)]
 
 ================================================================================
 WHAT THIS DOCUMENT UPGRADES
@@ -505,8 +573,9 @@ AFTER:
      E* as the fixed point under iterated 𝔉. ΔC as a functional on S.
      These are mathematical objects with defined domains and codomains.
 
-  3. THRESHOLD CONDITION: E* exists iff β·T > ΔC(s). This is a formal
-     existence condition for a fixed point, not a vague directional claim.
+  3. THRESHOLD CONDITION: E* exists iff ΔC(s) ∈ [ΔC_min, ΔC_max] AND
+     β·T > ΔC(s). This captures both failure modes (overwhelm and
+     stagnation) and produces the inverted-U shape required by I11.
 
   4. M2 RECURSION DEPTH: Well-defined, finite, measurable quantity that
      replaces "consciousness" as an explanatory target.
@@ -549,6 +618,51 @@ OPEN MATHEMATICAL PROBLEMS
      (integer episodes) approximate a continuous measure? For physical
      substrates this is immediate (stress-energy is continuous). For
      social substrates the counting unit is discrete by definition.
+
+================================================================================
+REPAIR LOG
+================================================================================
+
+All repairs applied March 14, 2026, in response to findings from
+FULL_RETEST_POST_FORMALISATION.txt (doc 69, adversarial re-test).
+
+REPAIR 1 (Definition 3 — Threshold Condition):
+  BEFORE: E*(s) exists ⟺ β·T > ΔC(s)
+  AFTER:  E*(s) exists ⟺ ΔC(s) ∈ [ΔC_min, ΔC_max] AND β·T > ΔC(s)
+  REASON: Original captured only overwhelm failure. Missed stagnation
+  failure (ΔC too small, nothing to metabolise). Now consistent with
+  I4 (no E* without ΔC) and I11 (inverted-U shape).
+
+REPAIR 2 (Definition 2 — E* Constrained Definition):
+  BEFORE: E* = fixed point of iterated 𝔉 (no constraints)
+  AFTER:  E* = fixed point s* such that s*≠s₀, H(s*)<H(s₀),
+          ΔC(s*)<ΔC(s₀), and s* stable under perturbation
+  REASON: Bare fixed-point definition admitted trivial and coerced
+  solutions that fail framework E* criteria. Now four-property
+  definition from the qualitative framework is formally encoded.
+
+REPAIR 3 (Definition 2 — 𝔉-ΔC Dependency):
+  BEFORE: 𝔉 parameterised by β alone; ΔC as separate functional
+  AFTER:  𝔉_effective scales with ΔC through its argument, with
+          saturation at ΔC_max(β)
+  REASON: Without this, E* = 𝔉·T − ΔC is monotonically decreasing
+  in ΔC, contradicting I11 (inverted-U). Making the dependency explicit
+  resolves the monotonicity mismatch.
+
+REPAIR 4 (Awareness Conjecture — Functional Form):
+  BEFORE: A(s) = d(s) × β(s) × T_available(s)
+  AFTER:  A(s) = f(d, β, T) with monotonicity, concavity, and boundary
+          conditions specified; specific form OPEN
+  REASON: Multiplicative form failed on three counts: zero-β depression
+  case, dimensional incoherence, absence of diminishing returns.
+  Revised form preserves qualitative predictions while removing the
+  specific flaws. Remains CONJECTURE.
+
+NET EFFECT: All four repairs are notational/formal corrections. No
+qualitative framework claim was changed. The invariants (I1–I19),
+the equation (E* = 𝔉·T − ΔC), and the three revelations (Theorems
+1–3) are structurally unaffected. The formalism now correctly encodes
+what the qualitative framework already stated.
 
 ================================================================================
 END OF DOCUMENT
