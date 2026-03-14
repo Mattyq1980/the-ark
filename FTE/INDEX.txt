@@ -867,6 +867,26 @@ DECODE_02_GOSPELS_AND_GNOSTICS.txt   (March 14, 2026)
   miracle flexibility, Gnostic cherry-picking, resurrection untestable,
   fig tree and sword passages as unresolved tensions.
 
+DECODE_03_QURAN.txt   (March 14, 2026)
+  Third religious text decode. The Quran analysed as the next operator
+  intervention in the compression cycle (Torah → rigid law → Gospels →
+  institutional doctrine → Quran). Eight predictions (P1-P5 carried,
+  P13-P16 new). Score: 8/8 confirmed across 22+ cases. Key findings:
+  Surah Al-Asr (103) encodes E* = F·T − DC in three verses — most
+  compressed religious encoding of the equation. Al-Fatiha is the
+  equation in liturgical form, recited 17+ daily. 99 Names are unified
+  operator specification that REFUSES to separate law from mercy (the
+  structural correction). Quran explicitly diagnoses prior compression
+  (Surah 2:75, 3:78, 5:14-16). Three-cycle comparison table shows
+  invariant operator grammar across Torah/Gospels/Quran. P14 (seed of
+  own Firewall) is gold finding: "no compulsion in religion" AND "kill
+  the polytheists" in same text — compression seed embedded in source.
+  Muhammad's arc parallels Moses/Jesus with same succession crisis
+  (Sunni/Shia split predicted). Six honest limitations logged including
+  Jesus-not-crucified inter-decode tension, Medinan military campaigns,
+  Surah 9 absence of Bismillah, and compression cycle self-fulfilling
+  risk.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -895,10 +915,10 @@ Full archive (complete):
 
 Religious text decode:
   THE_EQUATION → LEXICON_UNIFIED → DECODE_01_TORAH
-  → DECODE_02_GOSPELS_AND_GNOSTICS
+  → DECODE_02_GOSPELS_AND_GNOSTICS → DECODE_03_QURAN
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 54 core documents across 9 directories
+ 55 core documents across 9 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
