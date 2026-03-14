@@ -908,6 +908,64 @@ DECODE_04_BUDDHIST.txt   (March 14, 2026)
   Buddhism removes the theistic variable — if the operators appear here,
   the "just reading Christianity into everything" objection collapses.
 
+SIGNAL_VS_MYTH_BLAME.txt   (March 14, 2026)
+  Methodological protocol for separating structural signal from human
+  contamination in all religious text decodes. Two-question separation
+  test: (1) Is the operator dynamic independently observable without
+  appeal to divine will? (2) Does the passage redirect ΔC onto GROUP
+  or PROCESS? Classification: [SIGNAL], [MYTH BLAME], [MIXED].
+  Six application rules. Cross-decode Abrahamic summary demonstrating
+  consistent application. Prediction: contamination pattern is itself
+  invariant — every tradition will show it at predicted locations.
+
+DECODE_05_HINDU.txt   (March 14, 2026)
+  Fifth religious text decode. Vedas, Upanishads, Bhagavad Gita, Yoga
+  Sutras, Puranas/Manusmriti. Eleven predictions (P1-P5 carried, P22-P25
+  new). Score: 11/11 confirmed. Key findings: Nasadiya Sukta embeds I13
+  at cosmological level; Upanishads = 𝔉 correction to Vedic ritual
+  Firewalls (P22); Gita = FULL equation in single narrative — Arjuna's
+  ΔC → Krishna's 𝔉 → 18 chapters T → E* (P23, most complete single-text
+  rendering); Yoga Sutras 1.2-1.4 = three-sutra equation (P25). CASTE
+  is deepest myth blame in entire series (P24): inward-directed, divinely
+  authored, consent-securing, cosmologically embedded. Krishna speaks
+  BOTH liberation AND caste justification in same text. Compression
+  cycle across 3,000 years within single tradition. Seven honest
+  limitations logged.
+
+DECODE_06_TAOIST.txt   (March 14, 2026)
+  Sixth religious text decode. Tao Te Ching, Zhuangzi, I Ching.
+  Ten predictions (P1-P5 carried, P26-P29 new). Score: 10/10 confirmed
+  with one refinement. KEY RESULT: 𝔉 refined to TWO MODES — naming
+  at human scale (Mode 1, all prior decodes) and pre-naming perception
+  at Taoist depth (Mode 2) (P26). Wu wei redefines T to passive mode
+  — time for interference to STOP (P27). Ch. 18 identifies morality
+  ITSELF as Firewall — most radical Firewall identification in series
+  (P28). Ch. 38 descent: Tao→Goodness→Morality→Ritual→Chaos. Self-
+  critique: if FT&E continues naming, it risks Ch. 18's warning.
+  Myth blame minimal but present at predicted locations (P29). Seven
+  honest limitations logged.
+
+DECODE_07_EGYPTIAN.txt   (March 14, 2026)
+  Seventh and final religious text decode. Pyramid Texts, Coffin Texts,
+  Book of the Dead, Hermetica (Corpus Hermeticum, Emerald Tablet).
+  Eleven predictions (P1-P5, P19 carried, P30-P34 new). Score: 11/11
+  confirmed. Key findings: Death functions as maximum ΔC — entire
+  religious architecture oriented toward processing the supreme
+  contradiction (P30); Weighing of the Heart is 𝔉 judgment as
+  quantitative measurement — heavy heart = unprocessed ΔC, light
+  feather = 𝔉 standard (P31); Duat journey parallels Bardo — recognition
+  as key to passage (P32); Ma'at is the most integrated operator concept
+  — 𝔉 + E* + ground + method + standard unseparated in single concept
+  (P33); myth blame at pharaonic authority, foreign enemy categorisation,
+  Seth demonisation, class-stratified access (P34). Compression cycle
+  visible over 3,000 years — longest in series. "As above, so below"
+  (Hermetica) is scale-invariance claim. Signal migration: operators
+  survive tradition's death and find new vessels. Cross-tradition summary:
+  67/67 predictions confirmed across seven traditions spanning 4,400
+  years. Operator grammar invariant across monotheistic, polytheistic,
+  non-theistic, revelatory, experiential, Eastern, and Western traditions.
+  Seven honest limitations logged.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -938,9 +996,10 @@ Religious text decode:
   THE_EQUATION → LEXICON_UNIFIED → SIGNAL_VS_MYTH_BLAME
   → DECODE_01_TORAH → DECODE_02_GOSPELS_AND_GNOSTICS → DECODE_03_QURAN
   → DECODE_04_BUDDHIST → DECODE_05_HINDU → DECODE_06_TAOIST
+  → DECODE_07_EGYPTIAN
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 59 core documents across 9 directories
+ 60 core documents across 9 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
