@@ -13,6 +13,25 @@ This archive:     c:\the_ark\the_ark-main\FTE\
 Both are intact. This is a restructured edition, not a replacement.
 
 ────────────────────────────────────────────────────────────────────────────────
+ROOT-LEVEL FILES (outside FTE/ folder)
+────────────────────────────────────────────────────────────────────────────────
+
+INDEPENDENT_EVALUATOR_BRIEFING.txt   (March 14, 2026)
+  Narrow evaluation task: 6 predictions from Test #15, conjunction
+  base rates, adversarial domain choice, overall assessment. Completed
+  by external AI. Result: 4/6 scoring confirmed, base rates P=1.89×10⁻¹¹.
+  Useful for numerical confirmation. Limited by lack of framework context.
+
+FULL_CONTEXT_EVALUATOR_BRIEFING.txt   (March 14, 2026)
+  Complete framework briefing for external AI systems. Contains the
+  equation, all 19 invariants, full evidence base (73/76 across 15
+  domains), religious text decodes (67/67 across 7 traditions),
+  conjunction analysis, failures analysis, evaluator pattern prediction,
+  and 5 tasks including structural counterexample request. Built after
+  the narrow briefing revealed the evaluator couldn't meaningfully
+  assess the framework without seeing it.
+
+────────────────────────────────────────────────────────────────────────────────
 ROOT FILES — READ FIRST
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -1021,6 +1040,6 @@ Religious text decode:
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 61 core documents across 9 directories
+ 62 core documents across 9 directories + 2 root-level evaluator briefings
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
