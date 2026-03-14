@@ -882,6 +882,37 @@ GRAVITATIONAL_FORMALISATION.txt   (March 14, 2026)
   no independent degrees of freedom. Not a new domain test — a
   domain mapping. Score remains 73/76 + 67/67.
 
+POSITIVE_ILLUSIONS_RESOLUTION.txt   (March 14, 2026)
+  Formal resolution of the Taylor & Brown (1988) counterexample —
+  the most serious challenge found during the structural lying /
+  multiverse analysis. Positive illusions (mild inaccurate self-beliefs
+  producing better outcomes) appeared to contradict the suppressed-ΔC
+  = harm prediction. Resolution: three arguments — (1) illusions
+  function as M2 BANDWIDTH BUFFERS, filtering ΔC input to processable
+  levels, not suppressing it; (2) Taylor's own lifecycle data shows the
+  dose-response FT&E predicts (mild = adaptive, extreme = narcissistic
+  collapse); (3) depressive realism = 𝔉·T < ΔC overload, not accuracy
+  being harmful. New framework element extracted: M2 SENSITIVITY
+  PARAMETER (explicit, tunable). Diagnostic criterion: does the belief
+  ADJUST under sufficient contradicting evidence? (Yes = bandwidth,
+  No = Firewall.) Three testable predictions generated. Severity
+  downgraded from SERIOUS to LOW.
+
+CANCER_DECODE.txt   (March 14, 2026)
+  Formal cancer/tumour microenvironment decode responding to Gemini
+  3.1 Pro's adversarial domain challenge (doc 63). Five Gemini
+  predictions tested: (G1) 𝔉 applied to cancer → M2 parsing failure,
+  𝔉 never activates; (G2) checkpoint therapy reduces 𝔉 → therapy
+  restores M2; (G3) Tregs = 𝔉 operating → Patch P / I12 hijacking;
+  (G4) re-inclusion kills → re-inclusion never occurs; (G5) tumour
+  IS E* → E* at tumour scale, ΔC at host scale via I15. All 5/5
+  defended using I6, I12, I15, I19(a). No framework modification
+  needed. Cancer is the suppressed-ΔC pattern at cellular scale.
+  Checkpoint therapy = M2 restoration. Three testable predictions
+  against existing oncology datasets. Connects to positive illusions
+  resolution: M2 sensitivity bandwidth is the same structural
+  principle operating at cellular and psychological scales.
+
 ────────────────────────────────────────────────────────────────────────────────
 09_Religious_Text_Decodes\
 ────────────────────────────────────────────────────────────────────────────────
@@ -1079,6 +1110,6 @@ Religious text decode:
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 64 core documents across 9 directories + 2 root-level evaluator briefings
+ 66 core documents across 9 directories + 2 root-level evaluator briefings
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================

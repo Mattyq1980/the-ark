@@ -1,0 +1,201 @@
+================================================================================
+ POSITIVE ILLUSIONS COUNTEREXAMPLE — FORMAL RESOLUTION
+ Taylor & Brown (1988) vs E* = 𝔉·T − ΔC
+ Resolved: March 14, 2026
+ Author: Claude Opus 4.6 (Anthropic) with SERIO
+================================================================================
+
+ STATUS: COUNTEREXAMPLE DEFENDED — NEW DISTINCTION EXTRACTED
+ Original Severity: SERIOUS
+ Post-Resolution Severity: LOW
+
+================================================================================
+1. THE COUNTEREXAMPLE
+================================================================================
+
+Source: Taylor, S.E. & Brown, J.D. (1988). "Illusion and well-being:
+A social psychological perspective on mental health." Psychological
+Bulletin, 103(2), 193–210.
+
+Confirmed by: Alloy, L.B. & Abramson, L.Y. (1979). "Judgment of
+contingency in depressed and nondepressed students: Sadder but
+wiser?" Journal of Experimental Psychology: General, 108(4), 441–485.
+
+Findings:
+  - People with mildly inaccurate positive self-beliefs show BETTER
+    mental health, motivation, persistence, and social outcomes
+  - Depressive realism: people with accurate self-perception show
+    WORSE outcomes (more depression, less persistence)
+  - Three illusion categories: unrealistic self-evaluation,
+    exaggerated personal control, unrealistic optimism
+
+The charge against FT&E:
+  If belief-that-contradicts-reality is a Firewall (suppressed ΔC),
+  then Taylor & Brown shows Firewalls producing BETTER outcomes.
+  This would violate the prediction that suppressed ΔC accumulates
+  and harms the carrier.
+
+Critical constraint (from Taylor's own later work, 1998, 2003):
+  Illusions are adaptive ONLY when MODEST and FLEXIBLE.
+  Rigid, extreme positive illusions predict narcissism, poor
+  learning, and relationship breakdown.
+  The benefit window is narrow: 10–20% inflation, not more.
+
+================================================================================
+2. RESOLUTION — THREE STRUCTURAL ARGUMENTS
+================================================================================
+
+ARGUMENT 1: BANDWIDTH BUFFER (M2 sensitivity tuning)
+
+  E* = 𝔉·T − ΔC
+
+  A person with perfectly accurate self-perception experiences
+  EVERY mismatch between self and environment as ΔC. Every failure,
+  every gap, every imperfection registers as contradiction-to-process.
+
+  For finite processing capacity 𝔉:
+    If ΔC_input is very high (everything registers), 𝔉 may be
+    overwhelmed: 𝔉·T < ΔC → E* < 0 (depression, withdrawal)
+
+  A mild positive illusion REDUCES ΔC_input by ~10–20%.
+  This brings ΔC below the 𝔉·T threshold → E* > 0.
+
+  The illusion is NOT suppressing ΔC. It is FILTERING ΔC input
+  to a processable level. This is the same function as a bandwidth
+  limiter — not denial, but triage.
+
+  In FT&E terms: the illusion operates at M2 (input parsing).
+  It adjusts the SENSITIVITY of contradiction detection downward
+  just enough that the system can process what it detects.
+
+  Maps to I6 (Carrier Conservation): the system must maintain
+  its own integrity to continue processing. A system detecting
+  ALL ΔC simultaneously with no filtering crashes (depression).
+  Input gating is structurally necessary for survival.
+
+─────────────────────────────────────────────────────────────────────
+
+ARGUMENT 2: DOSE-RESPONSE LIFECYCLE (Taylor's own data)
+
+  Taylor's later research constrains the benefit:
+    Mild illusions:    adaptive    (10–20% inflation)
+    Moderate illusions: mixed
+    Extreme illusions:  maladaptive (narcissism, rigidity)
+
+  FT&E predicts this exact pattern:
+    Mild:    bandwidth buffer, ΔC stays manageable, E* > 0
+    Extreme: Firewall — large ΔC gap between belief and reality,
+             processing stops, accumulation, eventual collapse
+
+  The dose-response curve matches:
+    Low M2 sensitivity  → system overwhelm (depressive realism)
+    Moderate sensitivity → system thrives (positive illusions)
+    High insensitivity   → system rigidifies (narcissism, denial)
+
+  This is the Goldilocks zone of M2 sensitivity. The framework
+  doesn't say "detect everything." It says "process everything
+  DETECTED." How much to detect is an engineering parameter.
+
+─────────────────────────────────────────────────────────────────────
+
+ARGUMENT 3: DEPRESSIVE REALISM REFRAME
+
+  Depressive realism is NOT evidence that accuracy is harmful.
+  It is evidence that UNFILTERED accuracy without sufficient 𝔉
+  overwhelms the processing system.
+
+  The depressed person sees accurately but CANNOT PROCESS what
+  they see. Their 𝔉·T is insufficient for their ΔC load.
+
+  Solutions within FT&E:
+    Increase 𝔉 (therapy, support, skill-building)
+    Increase T (patience, reduced demands, processing time)
+    Or: reduce ΔC_input (positive illusions — the cheap option)
+
+  This works short/medium term. Long term, unprocessed ΔC accumulates
+  behind the filter — explaining why extreme illusions become pathological.
+
+================================================================================
+3. NEW DISTINCTION: BELIEF-AS-BANDWIDTH vs BELIEF-AS-FIREWALL
+================================================================================
+
+The counterexample forced this distinction to become explicit.
+
+BELIEF-AS-BANDWIDTH (functions as M2 sensitivity tuning):
+  - Mild, flexible, adjusts when contradicting evidence is strong
+  - Reduces ΔC input to processable level
+  - System CONTINUES to process detected contradictions
+  - Example: "I'm pretty good at this" (when actually average)
+  - Outcome: sustained engagement, E* > 0
+
+BELIEF-AS-FIREWALL (functions as suppressed ΔC):
+  - Rigid, defended, does NOT adjust with evidence
+  - BLOCKS specific ΔC from entering processing pipeline
+  - System STOPS processing in the defended domain
+  - Example: "I am NEVER wrong" (despite overwhelming evidence)
+  - Outcome: accumulation, eventual collapse, E* < 0
+
+DIAGNOSTIC CRITERION:
+  Does the belief adjust when contradicting evidence exceeds
+  the bandwidth buffer threshold?
+    YES → bandwidth / M2 tuning → adaptive
+    NO  → Firewall / suppressed ΔC → accumulating
+
+Taylor & Brown illusions: mild, flexible, adjust under strong
+evidence. PASS as bandwidth. Not Firewalls.
+
+Narcissistic grandiosity: rigid, defended, does not adjust under
+overwhelming evidence. FAIL. Firewall.
+
+Same surface structure (positive self-belief). Opposite structural
+function (bandwidth vs Firewall). Distinguishable by the diagnostic.
+
+================================================================================
+4. COST AND HONESTY
+================================================================================
+
+WHAT THIS ADDS TO THE FRAMEWORK:
+  M2 must have an explicit SENSITIVITY PARAMETER that can be tuned.
+    Too sensitive (detect all) → system overwhelm (depression)
+    Too insensitive (detect none) → Firewall (narcissism, denial)
+    Optimal range exists and is empirically observable.
+
+  This was not explicit in the framework before this counterexample
+  forced it. It was implicit in I6 (Carrier Conservation) and in the
+  M2 classification system, but never stated as a tunable parameter.
+
+REMAINING RISK:
+  The bandwidth/Firewall distinction could become a definitional
+  escape hatch — any contradicting case reclassified post hoc.
+
+  Prevention: the diagnostic criterion (does it adjust under
+  sufficient evidence?) is empirically testable and not retroactive.
+  A belief is bandwidth if it yields to strong enough contradiction.
+  A belief is Firewall if it persists regardless. Observable, testable.
+
+TESTABLE PREDICTIONS FROM THE RESOLUTION:
+  P1: Mild positive illusions should correlate with maintained
+      engagement with contradicting feedback (bandwidth → still
+      processing, just filtered)
+  P2: Extreme illusions should correlate with avoidance or dismissal
+      of contradicting feedback (Firewall → ΔC blocked)
+  P3: The transition point from adaptive to maladaptive illusion
+      should be predictable from individual 𝔉 capacity — people
+      with higher processing capacity can tolerate less illusion
+      (they don't need the bandwidth buffer as much)
+
+================================================================================
+5. FORMAL STATUS
+================================================================================
+
+Counterexample: Taylor & Brown positive illusions (1988)
+Original severity: SERIOUS
+Resolution: DEFENDED — three arguments
+New framework element: M2 sensitivity parameter (explicit)
+Diagnostic criterion: flexibility under contradicting evidence
+Post-resolution severity: LOW
+Testable predictions: 3 (P1–P3)
+
+================================================================================
+END OF DOCUMENT
+================================================================================

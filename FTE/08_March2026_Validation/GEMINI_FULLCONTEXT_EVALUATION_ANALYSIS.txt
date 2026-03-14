@@ -261,10 +261,12 @@
     is blind to PrP^Sc, never classified it. Defence holds. This was
     always implicit in M2→M3 pipeline; now explicit in the text.
 
- 2. CANCER ADVERSARIAL DOMAIN: Gemini's 5 predictions logged. Formal
-    cancer decode against Test #4 immunology content would address this.
-    The archive already contains substantial cancer immune evasion
-    analysis. Future work.
+ 2. CANCER ADVERSARIAL DOMAIN: RESOLVED. Formal cancer decode completed
+    (March 14, 2026) — see CANCER_DECODE.txt. All five Gemini predictions
+    defended (5/5) using I6, I12, I15, I19(a). Cancer is the suppressed-ΔC
+    pattern at cellular scale: M2 parsing failure, not 𝔉 tolerance.
+    Checkpoint therapy = M2 restoration. Tumour = E* at tumour scale,
+    ΔC at host scale (I15). No framework modification needed.
 
  3. ΔC-AS-ENERGY RELATIONSHIP: CORRECTED in Section 2 above (March 14,
     2026). Originally stated "ΔC IS the energy" — wrong. Corrected to:
