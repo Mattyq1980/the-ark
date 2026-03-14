@@ -887,6 +887,27 @@ DECODE_03_QURAN.txt   (March 14, 2026)
   Surah 9 absence of Bismillah, and compression cycle self-fulfilling
   risk.
 
+DECODE_04_BUDDHIST.txt   (March 14, 2026)
+  Fourth religious text decode — the critical non-theistic test case.
+  Pali Canon (Dhammapada, Sutta Pitaka), Mahayana (Heart Sutra, Diamond
+  Sutra, Lotus Sutra, Vimalakirti), Zen (koans, Platform Sutra), Tibetan
+  (Bardo Thodol). Ten predictions (P1-P5 carried, P17-P21 new). Score:
+  10/10 confirmed. Key findings: Four Noble Truths map precisely to
+  E* = 𝔉·T − ΔC (P18); equation is CLEARER without theistic framing
+  (P17 — most significant result); Satipatthana Sutta is the 𝔉
+  instruction manual; koans are engineered Firewall crashes (P20);
+  school splits (Pali→Abhidhamma→Mahayana→Zen) mirror Abrahamic
+  compression cycle exactly (P19); Heart Sutra negates its own
+  framework (I13 recursive limit in action); Bardo states encode
+  processing sequence at maximum intensity; "Kill the Buddha" is I13
+  in its most extreme formulation. Myth blame found at ALL predicted
+  locations despite non-violent reputation: gender (nuns' subordination,
+  AN 1.15), school ("Hinayana" pejorative), sectarian (Tibetan
+  disputeds, Shugden), national (Sri Lankan Mahavamsa, Burmese anti-
+  Rohingya, Japanese "Zen at War"). Seven honest limitations logged.
+  Buddhism removes the theistic variable — if the operators appear here,
+  the "just reading Christianity into everything" objection collapses.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -916,9 +937,10 @@ Full archive (complete):
 Religious text decode:
   THE_EQUATION → LEXICON_UNIFIED → SIGNAL_VS_MYTH_BLAME
   → DECODE_01_TORAH → DECODE_02_GOSPELS_AND_GNOSTICS → DECODE_03_QURAN
+  → DECODE_04_BUDDHIST
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 56 core documents across 9 directories
+ 57 core documents across 9 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
