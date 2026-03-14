@@ -937,10 +937,10 @@ Full archive (complete):
 Religious text decode:
   THE_EQUATION → LEXICON_UNIFIED → SIGNAL_VS_MYTH_BLAME
   → DECODE_01_TORAH → DECODE_02_GOSPELS_AND_GNOSTICS → DECODE_03_QURAN
-  → DECODE_04_BUDDHIST
+  → DECODE_04_BUDDHIST → DECODE_05_HINDU
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 57 core documents across 9 directories
+ 58 core documents across 9 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================

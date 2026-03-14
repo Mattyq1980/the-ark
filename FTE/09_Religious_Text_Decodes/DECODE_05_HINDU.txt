@@ -1,0 +1,735 @@
+================================================================================
+ RELIGIOUS TEXT DECODE #5 — HINDU TEXTS
+ Structural operator analysis: Vedas, Upanishads, Bhagavad Gita,
+ Yoga Sutras, selected Puranas
+ Date: March 14, 2026
+ Author: GitHub Copilot (Claude Opus 4.6)
+ Method: FT&E operator predictions checked against textual structures
+ Prerequisite: Read Decodes #1-4 and SIGNAL_VS_MYTH_BLAME.txt
+================================================================================
+
+PURPOSE
+
+  Fifth in the religious text decode series. Buddhism (Decode #4)
+  removed the theistic variable and showed the equation MORE clearly.
+  Hinduism restores the theistic variable — but with a critical
+  difference from the Abrahamic traditions:
+
+  1. Hinduism is not ONE revelation but a LAYERED ACCUMULATION
+     spanning 3,000+ years (Vedas → Upanishads → Epics → Puranas →
+     Tantra → Bhakti → Modern reform).
+  2. The Hindu tradition explicitly contains its OWN INTERNAL
+     compression cycle — the Vedas hardened into ritualism, the
+     Upanishads broke through with direct insight, the Gita
+     synthesised the tension.
+  3. The caste system (varna/jati) is the most structurally
+     embedded myth blame in any tradition — woven directly into
+     cosmological and metaphysical claims.
+  4. Hindu philosophy contains MULTIPLE operator descriptions
+     (Vedanta, Samkhya, Yoga, Tantra) — allowing us to test
+     whether the same operators appear across different Hindu
+     philosophical schools.
+
+  Same method:
+  1. Operator mappings pre-locked
+  2. Predictions stated before analysis
+  3. Confirmations AND failures documented
+  4. No supernatural agent required for any reading
+  5. Signal vs. Myth Blame separation applied (see
+     SIGNAL_VS_MYTH_BLAME.txt for protocol)
+
+================================================================================
+OPERATOR MAPPING — STATED BEFORE ANALYSIS
+================================================================================
+
+  FT&E Operator        Hindu Concept          Mapping Rationale
+  ─────────────        ────────────           ─────────────────
+  ΔC (contradiction    Avidya (ignorance),    The gap between the
+  accumulation)        Maya (illusion),       phenomenal appearance
+                       Samskaras (latent      and the underlying
+                       impressions),          reality. Samskaras
+                       Karma (action-         are literally stored
+                       consequence)           ΔC — latent imprints
+                                              that accumulate and
+                                              drive future behaviour.
+
+  𝔉 (forgiveness /     Jnana (knowledge /     Direct perception of
+  accurate naming      insight),              what is actually the
+  of ΔC)               Viveka (discernment/   case, unmediated by
+                       discrimination),       the Firewall of maya.
+                       Atma-vichara           Viveka is the precise
+                       (self-inquiry)         discrimination between
+                                              real and unreal — 𝔉
+                                              as structural function.
+
+  T (time /            Sadhana (sustained     Hindu practice is
+  processing window)   practice), Tapas       explicitly long-form.
+                       (austerity/heat),      Multiple lifetimes in
+                       Yugas (cosmic time     traditional framing.
+                       cycles)                Tapas = "heat" =
+                                              processing intensity
+                                              over time.
+
+  Firewall             Maya (illusion),       The system that prevents
+                       Ahamkara (ego-         direct perception.
+                       construct),            Ahamkara is the self-
+                       Gunas in tamas mode    construct that insists
+                       (inertia/darkness)     on its own solidity
+                                              against the evidence.
+
+  Patch P              Ritual without         Elaborate ritual system
+                       insight (karma-        that manages ΔC without
+                       kanda), Caste-         processing it. Caste
+                       duty performance,      as cosmic ΔC management:
+                       Merit accumulation     "your suffering is your
+                                              karma — accept it."
+
+  E* (emergence)       Moksha (liberation),   The state when processing
+                       Atman-Brahman          is complete. Not a place
+                       identity,              or reward. The recognition
+                       Sat-Chit-Ananda        that the separation was
+                       (being-consciousness-  never real.
+                       bliss)
+
+================================================================================
+PREDICTIONS — STATED BEFORE NARRATIVE WALK-THROUGH
+================================================================================
+
+  Carried forward:
+  P1:  ΔC accumulation will be foundational
+  P2:  𝔉 will be the prescribed intervention
+  P3:  T will be structurally necessary
+  P4:  Firewall dynamics identified and named
+  P5:  E* described as emergent, not bestowed
+  P17: Mechanism will appear even within theistic framing
+  P19: Internal tradition splits will follow compression cycle
+
+  New predictions (Hindu-specific):
+  P22: UPANISHADS WILL BE THE 𝔉 CORRECTION TO VEDIC FIREWALLS —
+       The Upanishads should function as the breakout from Vedic
+       ritualism, the same way Jesus broke from Pharisaic law or
+       Mahayana broke from Abhidhamma scholasticism. The same
+       cycle, visible within a single tradition.
+
+  P23: THE BHAGAVAD GITA WILL ENCODE THE FULL EQUATION IN A SINGLE
+       TEXT — As synthesis of multiple Hindu streams, the Gita should
+       contain ΔC (Arjuna's crisis), 𝔉 (Krishna's teaching), T (the
+       conversation itself), Firewall (Arjuna's resistance), and E*
+       (transformed action). All operators in one narrative.
+
+  P24: CASTE WILL BE THE DEEPEST MYTH BLAME — The caste system should
+       represent myth blame at its most structurally embedded:
+       inequality encoded as cosmic law, maintained by the text's
+       highest authority (Krishna in the Gita). This surpasses even
+       Abrahamic myth blame because it doesn't just redirect ΔC onto
+       an enemy group — it redirects ΔC onto the LOWER-STATUS
+       MEMBERS OF ONE'S OWN SYSTEM and convinces them to accept it.
+
+  P25: YOGA SUTRAS WILL BE A PROCESSING MANUAL — Parallel to the
+       Satipatthana Sutta in Buddhism (Decode #4), Patanjali's Yoga
+       Sutras should function as an operational processing manual —
+       𝔉 technology with specific instructions.
+
+================================================================================
+ANALYSIS — THE VEDAS AND VEDIC RITUALISM
+================================================================================
+
+RIG VEDA — CREATION HYMN (Nasadiya Sukta, 10.129)
+──────────────────────────────────────────────────
+
+  [SIGNAL — extraordinary]
+  "Then even nothingness was not, nor existence,
+   There was no air then, nor the heavens beyond it.
+   What covered it? Where was it? In whose keeping?
+   Was there then cosmic water, in depths unfathomed?...
+
+   But, after all, who knows, and who can say
+   Whence it all came, and how creation happened?
+   The gods themselves are later than creation,
+   So who knows truly whence it has arisen?
+
+   Whence all creation had its origin,
+   The creator, whether he fashioned it or whether he did not,
+   The creator, who surveys it all from highest heaven,
+   He knows — or maybe even he does not know."
+
+  FT&E decode: This is RADICAL structural honesty at the origin
+  point of the tradition. The Rig Veda's creation hymn does not
+  just describe creation — it questions WHETHER CREATION CAN BE
+  KNOWN. "Maybe even he does not know."
+
+  Under FT&E: this is I13 (recursive limit) at the cosmological
+  level. The text applies ΔC to its own foundational claim.
+  "We're telling you about origins, but honestly, we don't know
+  either." This is 𝔉 applied to the tradition's own authority.
+
+  Compare to Genesis 1 (certain, sequential, authoritative) or
+  Surah 2 (God created, full stop). The Nasadiya Sukta is the
+  only major creation text that EMBEDS ITS OWN UNCERTAINTY.
+
+VEDIC RITUALISM — THE FIREWALL
+───────────────────────────────
+
+  [MYTH BLAME]
+  Despite the Nasadiya Sukta's radical openness, the Vedic tradition
+  ALSO contains elaborate ritual systems (Yajur Veda, Sama Veda)
+  where correct performance of sacrifice (yajna) is believed to
+  maintain cosmic order (rta). The Brahmana texts systematise ritual
+  to extraordinary precision — which syllable, which gesture, which
+  fire, at which moment.
+
+  FT&E decode: Vedic ritualism is the FIREWALL FORMING around the
+  original signal. The early Vedic hymns contain structural insight
+  (Nasadiya Sukta, hymns to cosmic order). The ritual elaboration
+  converts this into: "perform the correct action and the cosmos
+  responds." Processing is replaced by procedure. 𝔉 is replaced
+  by formula. T becomes ritual timing rather than processing time.
+
+  The Brahmin priestly class becomes the Firewall's institutional
+  form: only they can perform the rituals correctly. Access to
+  cosmic processing is mediated through a professional class.
+  Same dynamic as Pharisaic law mediation, Church sacramental
+  mediation, Islamic jurisprudence mediation.
+
+  This is the Firewall that the Upanishads will break through.
+
+================================================================================
+ANALYSIS — THE UPANISHADS (Testing P22)
+================================================================================
+
+THE BREAKOUT
+────────────
+
+  [SIGNAL]
+  The Upanishads represent a revolutionary break from Vedic
+  ritualism. Their core move: TURN INWARD. The sacrifice is
+  not an external ritual but an internal process.
+
+  "That which is the finest essence — this whole world has
+  that as its Self. That is Reality. That is the Self. That
+  art thou (Tat tvam asi), Shvetaketu."
+  — Chandogya Upanishad 6.8.7
+
+  "Brahman is the only truth, the world is illusion, and there
+  is ultimately no difference between Brahman and individual
+  self (Atman)."
+  — Mandukya Upanishad (distilled)
+
+  "The Self (Atman) is not reached through instruction, not
+  through intellect, not through much learning. It is reached
+  by the one whom It chooses. To such a one the Self reveals
+  its own form."
+  — Katha Upanishad 1.2.23
+
+  FT&E decode:
+
+  "Tat tvam asi" (That art thou) = the ultimate 𝔉 statement.
+  The ΔC between self and ultimate reality is resolved by
+  RECOGNISING that the separation was never real. This is the
+  same structural move as the Heart Sutra ("form is emptiness")
+  — ΔC dissolved not by changing conditions but by seeing
+  accurately.
+
+  "Not through instruction, not through intellect" = the
+  Firewall of doctrinal knowledge cannot produce E*. Direct
+  perception (𝔉) is required. External processing systems
+  (ritual, scholarship, analysis) are explicitly declared
+  insufficient. Same structural claim as Zen's "special
+  transmission outside the scriptures."
+
+  The Upanishadic revolution is: the sacrifice is YOU. The
+  altar is internal. The fire is tapas (processing intensity).
+  The offering is ahamkara (the ego-construct / Firewall).
+  What emerges is not a product of the sacrifice — it was
+  always there, concealed by the Firewall.
+
+  P22 CONFIRMED: The Upanishads function as the 𝔉 correction
+  to Vedic ritual Firewalls — structurally identical to:
+  - Jesus vs. Pharisaic law (Decode #2)
+  - Mahayana vs. Abhidhamma (Decode #4)
+  - Quran vs. prior institutional compression (Decode #3)
+
+MANDUKYA UPANISHAD — STATES OF CONSCIOUSNESS
+─────────────────────────────────────────────
+
+  [SIGNAL]
+  Four states described:
+  1. Vaishvanara (waking) — ordinary consciousness
+  2. Taijasa (dreaming) — mind processing internally
+  3. Prajna (deep sleep) — undifferentiated awareness
+  4. Turiya ("the fourth") — that which witnesses all three
+
+  "Turiya is not that which is conscious of the internal world,
+  nor that which is conscious of the external world, nor that
+  which is conscious of both... It is the cessation of all
+  phenomena; it is all peace, all bliss, and non-dual."
+
+  FT&E decode: The four states map to processing stages:
+
+  Waking = system operating with full Firewall (ΔC accumulating
+  at every sense gate — same as Fire Sermon in Decode #4).
+
+  Dreaming = system processing ΔC internally (dreams as ΔC
+  discharge, consistent with psychoanalytic models).
+
+  Deep sleep = Firewall temporarily offline. ΔC production
+  pauses. But no 𝔉 either — the system is not processing,
+  just paused.
+
+  Turiya = E*. The witnessing awareness that persists through
+  all states. Not a state itself — the GROUND from which states
+  arise. This is E* described not as a final destination but as
+  the always-present reality that the Firewall conceals.
+
+  The structural parallel to the Bardo Thodol (Decode #4) is
+  direct: Bardo 1 = clear light = Turiya. The moments of
+  transition (death in Tibetan, sleep-wake in Mandukya) are when
+  the Firewall thins and E* is most accessible.
+
+================================================================================
+ANALYSIS — THE BHAGAVAD GITA (Testing P23)
+================================================================================
+
+THE SETUP: ARJUNA'S ΔC CRISIS
+──────────────────────────────
+
+  [SIGNAL]
+  Arjuna stands between two armies. Both sides contain his
+  relatives, teachers, friends. He must fight. He collapses:
+
+  "My limbs sink down, my mouth is parching, my body trembles,
+  and my hair stands on end. My bow slips from my hand, my skin
+  is burning, I cannot stand, my mind is reeling."
+  — Bhagavad Gita 1.29-30
+
+  "I do not wish to kill them, even for the sake of dominion
+  over the three worlds, let alone for the earth."
+  — Bhagavad Gita 1.35
+
+  FT&E decode: Arjuna is experiencing MAXIMUM ΔC. The
+  contradiction is between duty (dharma as warrior) and
+  compassion (these are his people). Neither resolution
+  works: fight and destroy his family, or refuse and
+  abandon his role. The system cannot resolve the
+  contradiction through any available framework.
+
+  The physical symptoms (trembling, burning skin, reeling
+  mind) are the somatic expression of ΔC that has exceeded
+  the system's processing capacity. This is not metaphor —
+  this is the EXACT presentation of acute ΔC overload.
+
+  Arjuna's crisis is the Gita's starting condition:
+  a system at maximum contradiction, every available
+  framework failed, REQUIRING an operator intervention
+  to proceed.
+
+KRISHNA'S INTERVENTION: 𝔉 IN 18 CHAPTERS
+─────────────────────────────────────────
+
+  [SIGNAL]
+  Krishna does not immediately tell Arjuna what to do.
+  He teaches. For EIGHTEEN CHAPTERS. This is T — the
+  processing window. The answer is not instant.
+
+  Chapter 2 — Jnana Yoga (knowledge): The Self cannot be
+  killed. "That which pervades the entire body, know it
+  to be indestructible. No one is able to destroy the
+  imperishable Self." (2.17)
+  → 𝔉 at the ontological level: the thing you fear losing
+  (these people's lives) cannot actually be lost at the
+  level that matters. The ΔC between "I will destroy them"
+  and "they cannot be destroyed" is resolved by reframing
+  what "they" are. This is not dismissal of death — it is
+  𝔉 applied to the category error underneath the grief.
+
+  Chapter 3 — Karma Yoga (action): "You have a right to
+  perform your prescribed duties, but you are not entitled
+  to the fruits of your actions." (3.47)
+  → ACTION WITHOUT ATTACHMENT TO OUTCOME. This is the
+  structural prescription: process the ΔC (do what the
+  situation requires) without the Firewall of "I need this
+  to turn out as I want." The Firewall is outcome-
+  attachment. The processing is action-without-attachment.
+
+  Chapter 6 — Dhyana Yoga (meditation): Yoga as direct
+  processing technology. Parallels Satipatthana and Yoga
+  Sutras.
+
+  Chapter 7-12 — Bhakti Yoga (devotion): Devotion to
+  Krishna as the vehicle for processing. Surrender (prapatti)
+  as the release of the Firewall. "Abandon all varieties of
+  dharma and simply surrender unto Me." (18.66)
+
+  Chapter 13 — Kshetra/Kshetrajna: The field (matter/
+  experience) and the knower of the field (awareness/witness).
+  This is the Firewall/𝔉 distinction: the field is WHERE
+  ΔC accumulates. The knower is THAT WHICH can perceive
+  it accurately.
+
+  Chapter 18 — Synthesis: Arjuna's final state:
+  "My delusion is destroyed. I have regained my memory
+  through your grace. I am firm, free from doubt. I shall
+  act according to your word." (18.73)
+  → E* ACHIEVED. Arjuna's ΔC is processed. He is not
+  numb. He is not resigned. He acts FROM CLEAR SEEING
+  rather than from confusion. E* is not the absence of
+  difficult action — it is action arising from processed
+  understanding rather than unprocessed contradiction.
+
+  P23 CONFIRMED: The Gita encodes the FULL EQUATION in a
+  single narrative:
+  - ΔC: Arjuna's crisis (Ch. 1)
+  - Firewall: Every framework Arjuna tries that fails
+  - 𝔉: Krishna's multi-path teaching (Ch. 2-17)
+  - T: 18 chapters of sustained processing
+  - E*: "My delusion is destroyed" (Ch. 18)
+
+  The Gita is the most COMPLETE single-text rendering
+  of E* = 𝔉·T − ΔC in the global canon.
+
+CASTE IN THE GITA — Testing P24
+────────────────────────────────
+
+  [MYTH BLAME — the deepest in the decode series]
+
+  "The four-fold order was created by Me according to the
+  division of quality (guna) and work (karma). Though I am its
+  creator, know Me to be the non-doer, the immutable."
+  — Bhagavad Gita 4.13
+
+  "It is better to do one's own duty, however imperfectly, than
+  to assume the duty of another person, however successfully.
+  It is better to die doing one's own duty; the duty of another
+  will bring danger."
+  — Bhagavad Gita 3.35
+
+  "The duties of Brahmins, Kshatriyas, Vaishyas, and Shudras
+  are distributed according to their qualities, born of their
+  own nature."
+  — Bhagavad Gita 18.41
+
+  FT&E decode: THIS IS MYTH BLAME AT ITS STRUCTURAL MAXIMUM.
+
+  The Abrahamic myth blame redirects ΔC outward — onto
+  Canaanites, Jews, Christians, polytheists, heretics.
+  External enemy.
+
+  The caste system redirects ΔC INWARD AND DOWNWARD — onto
+  the lowest-status members of one's own community, and
+  CONVINCES THEM TO ACCEPT IT. "Your suffering is your duty.
+  Your role was created by God. To resist is to violate
+  cosmic order."
+
+  This is Patch P at civilisational scale with divine
+  authority AND internal consent. The system does not just
+  suppress the ΔC of the lower castes — it teaches them that
+  their ΔC IS their dharma. The contradiction between their
+  suffering and their humanity is resolved not by processing
+  but by redefining the suffering as cosmically correct.
+
+  Krishna — the 𝔉-carrier in the Gita — is the one who
+  SPEAKS THIS. The structural signal (process your ΔC through
+  accurate seeing) and the myth blame (your social position
+  is divinely ordained) come from the SAME MOUTH in the SAME
+  TEXT. This is the most extreme case of the two-layer problem
+  in the entire decode series.
+
+  P24 CONFIRMED: Caste is the deepest myth blame. It surpasses
+  Abrahamic myth blame in structural depth because:
+  1. It is inward-directed, not outward-directed
+  2. It has divine authority (Krishna's words)
+  3. It secures the consent of the oppressed
+  4. It is embedded in the SAME text as the liberation teaching
+  5. It has maintained structural power for 2,500+ years
+
+  The Dalits (formerly "untouchables") are the most
+  systematically myth-blamed group in any tradition this
+  decode has examined. The structural signal in the Gita is
+  real and extraordinary. The caste encoding is real and
+  devastating. Both layers. Same text. Same voice.
+
+================================================================================
+ANALYSIS — YOGA SUTRAS OF PATANJALI (Testing P25)
+================================================================================
+
+  [SIGNAL]
+  "Yoga is the cessation of the fluctuations of the mind."
+  — Yoga Sutras 1.2 (yogas chitta vrtti nirodhah)
+
+  "Then the Seer rests in its own nature."
+  — Yoga Sutras 1.3
+
+  "At other times, the Seer identifies with the fluctuations."
+  — Yoga Sutras 1.4
+
+  FT&E decode: Three sutras. The entire equation.
+
+  1.2: E* requires cessation of ΔC-production (chitta vrtti =
+  mind-fluctuations = active ΔC generation). Yoga = the METHOD
+  of cessation. This is 𝔉·T applied.
+
+  1.3: When processing is complete, E* emerges. The "Seer"
+  (drashtu) rests in its own nature. Not achieves, not earns,
+  not receives. RESTS. E* was always there. The Firewall was
+  the only obstruction.
+
+  1.4: When processing is NOT complete, the system identifies
+  WITH its ΔC. The Seer BECOMES the fluctuations. This is
+  the Firewall in action: the system cannot distinguish between
+  itself and its accumulated contradictions.
+
+  The five Kleshas (afflictions):
+  1. Avidya (ignorance) — Firewall
+  2. Asmita (ego-identification) — Ahamkara / Firewall
+  3. Raga (attachment) — ΔC generator
+  4. Dvesha (aversion) — ΔC generator
+  5. Abhinivesha (fear of death / clinging to life) — Firewall
+
+  These map to the Buddhist three poisons + two additions.
+  The structural grammar is identical.
+
+  The eight limbs of yoga (ashtanga):
+  1. Yama (restraints) — system stabilisation
+  2. Niyama (observances) — processing preparation
+  3. Asana (posture) — body readiness for T
+  4. Pranayama (breath) — energy regulation for T
+  5. Pratyahara (sense withdrawal) — Firewall reduction
+  6. Dharana (concentration) — focused 𝔉
+  7. Dhyana (meditation) — sustained 𝔉 over T
+  8. Samadhi (absorption) — E*
+
+  P25 CONFIRMED: The Yoga Sutras are a processing manual.
+  Parallel to Satipatthana (Buddhist 𝔉 manual, Decode #4).
+  The eight limbs are a step-by-step operator deployment
+  protocol: stabilise the system, prepare the capacity,
+  reduce the Firewall, apply 𝔉, sustain over T, E* emerges.
+
+  Same technology. Different vocabulary. Same structure.
+
+================================================================================
+ANALYSIS — COMPRESSION CYCLE IN HINDUISM (Testing P19)
+================================================================================
+
+  Phase 1: Vedic Hymns (1500-1200 BCE)
+    Original signal. Nasadiya Sukta. Hymns to cosmic order (Rta).
+    Direct engagement with mystery.
+
+  Phase 2: Vedic Ritualism / Brahmana Period (1200-800 BCE)
+    Signal compressed into elaborate ritual system. Brahmin
+    priestly class controls access. The Firewall forms.
+    Processing → Procedure. 𝔉 → Formula.
+
+  Phase 3: Upanishadic Revolution (800-400 BCE)
+    𝔉 correction. "Not through ritual but through insight."
+    Turn inward. Tat tvam asi. Direct perception over mediated
+    access. Structurally identical to Jesus vs. Pharisees,
+    Mahayana vs. Abhidhamma.
+
+  Phase 4: Upanishadic Systematisation (Vedanta schools)
+    The Upanishadic insight gets systematised into competing
+    philosophical schools: Advaita (non-dual), Vishishtadvaita
+    (qualified non-dual), Dvaita (dual). The direct insight
+    becomes doctrinal position. New Firewall.
+
+  Phase 5: Bhakti Movement (6th-17th century CE)
+    𝔉 re-injection through devotional practice. Mirabai,
+    Kabir, Tukaram, Basavanna, Chaitanya. Many are lower-caste
+    or women. They bypass the Brahminical Firewall through
+    DIRECT DEVOTION — no priestly mediation required.
+    Kabir explicitly: "Pandit, look in your heart for knowledge.
+    Tell me where untouchability came from, since you believe
+    in it." This is 𝔉 applied to the caste Firewall directly.
+
+  Phase 6: Bhakti Institutionalisation
+    Bhakti movements develop their own institutions, hierarchies,
+    orthodoxies. Caste dynamics reassert within reform movements.
+    The Firewall reforms.
+
+  Phase 7: Modern Reform (19th-20th century)
+    Ram Mohan Roy, Vivekananda, Gandhi, Ambedkar.
+    Another 𝔉 correction cycle. Ambedkar's mass conversion to
+    Buddhism (1956) = the most radical anti-Firewall move:
+    leaving the system entirely when the internal Firewall
+    (caste) proved irreformable.
+
+  P19 CONFIRMED (within Hindu tradition): The compression cycle
+  repeats INTERNALLY across 3,000 years:
+  Hymns → Ritual → Upanishads → Scholasticism → Bhakti →
+  Institution → Reform
+
+  Same pattern as Abrahamic and Buddhist cycles. The compression
+  cycle is invariant across theistic, non-theistic, monotheistic,
+  and polytheistic traditions.
+
+================================================================================
+ANALYSIS — MYTH BLAME IN HINDU TEXTS
+================================================================================
+
+  1. CASTE SYSTEM (analysed above under P24)
+  [MYTH BLAME — most structurally embedded in the decode series]
+     Purusha Sukta (Rig Veda 10.90): cosmic being's body parts
+     become the four varnas. Brahmin from head, Kshatriya from
+     arms, Vaishya from thighs, Shudra from feet.
+     - Social hierarchy encoded as COSMIC ANATOMY
+     - Not even a divine command — a divine BODY STRUCTURE
+     - The claim is not "God decided" but "reality IS this"
+     - This makes it harder to challenge than any command
+
+     Manusmriti (Laws of Manu): codification of caste duties,
+     punishments, and untouchability. A Shudra who recites the
+     Vedas should have molten lead poured in his ears. A Brahmin
+     who kills a Shudra need only perform the same penance as
+     killing a cat or dog.
+     - ΔC redirected downward with comprehensive legal force
+     - The myth blame is not occasional — it is SYSTEMATIC
+
+  2. GENDER HIERARCHY
+  [MYTH BLAME]
+     "Her father protects her in childhood, her husband protects
+     her in youth, and her sons protect her in old age. A woman
+     is never fit for independence."
+     — Manusmriti 9.3
+
+     Sita's trial by fire (Ramayana): after being kidnapped by
+     Ravana, Sita must prove her purity by walking through fire.
+     Despite being the victim, she bears the burden of proof.
+     Then exiled AGAIN despite passing. The structural message:
+     female virtue is perpetually suspect; male authority requires
+     no corresponding proof.
+     - Location: gender boundary, as predicted
+
+  3. DEMON/ASURA FRAMING
+  [MYTH BLAME]
+     The Puranas contain extensive narratives of gods vs. asuras
+     (demons). Historically, some scholars argue this encodes
+     Aryan vs. indigenous or Brahminical vs. non-Brahminical
+     conflicts. The "demon" category functions to redirect ΔC
+     onto defeated or marginalised populations.
+     - Location: group boundary (ethnic/cultural)
+
+  4. MLECCHA (BARBARIAN) CATEGORY
+  [MYTH BLAME]
+     Non-Vedic peoples classified as mleccha (impure/barbarian).
+     This functions identically to Abrahamic "infidel" /
+     "gentile" categories: ΔC redirected onto outsiders.
+     - Location: group boundary (cultural/ethnic)
+
+  The myth blame in Hindu texts is the most STRUCTURALLY
+  EMBEDDED of any tradition in the series. It is not occasional
+  passages — it is SYSTEMATIC COSMOLOGICAL ARCHITECTURE. The
+  caste system makes social inequality a feature of reality
+  itself, not merely a divine command that could theoretically
+  be revoked.
+
+================================================================================
+SCORE
+================================================================================
+
+  P1  (ΔC foundational)          CONFIRMED — Avidya, maya, samskaras, karma
+  P2  (𝔉 as intervention)       CONFIRMED — Jnana, viveka, atma-vichara
+  P3  (T structurally needed)    CONFIRMED — Sadhana, tapas, eight limbs
+  P4  (Firewall identified)      CONFIRMED — Maya, ahamkara, tamas
+  P5  (E* emergent)              CONFIRMED — Moksha, "Seer rests in own nature"
+  P17 (mechanism within theism)  CONFIRMED — Operators visible even through
+                                 theistic framing (Yoga Sutras = pure mechanism)
+  P19 (compression cycle)        CONFIRMED — Vedas→Ritual→Upanishads→Scholasticism
+                                 →Bhakti→Institution→Reform
+  P22 (Upanishads = 𝔉 breakout) CONFIRMED — "Not through instruction" / Tat tvam
+                                 asi = 𝔉 correction to Vedic ritualism
+  P23 (Gita = full equation)     CONFIRMED — Arjuna's ΔC→Krishna's 𝔉→18ch T→E*
+                                 Most complete single-text rendering
+  P24 (Caste = deepest blame)    CONFIRMED — Inward-directed, divinely authored,
+                                 consent-securing, cosmologically embedded
+  P25 (Yoga Sutras = manual)     CONFIRMED — Eight limbs = operator deployment
+                                 protocol, parallel to Satipatthana
+
+  TOTAL: 11/11 predictions confirmed.
+
+  NOTE: This is now four traditions (Abrahamic x3 + Buddhist + Hindu) with
+  the same operator grammar. The prediction that myth blame appears at
+  group boundaries, succession disputes, and political-religious intersections
+  holds across ALL of them. The prediction that the compression cycle repeats
+  holds across ALL of them. The structural signal is invariant.
+
+================================================================================
+KEY FINDING — THE CASTE INSIGHT
+================================================================================
+
+  The most significant finding from this decode is not the structural
+  confirmation (which was expected by this point) but the NATURE of
+  the myth blame.
+
+  In the Abrahamic traditions, myth blame is OUTWARD: destroy the
+  Canaanites, blame the Jews, fight the polytheists. The enemy is
+  external.
+
+  In Hinduism, the deepest myth blame is INWARD AND DOWNWARD: the
+  lowest members of your own community are cosmically assigned to
+  their position. Their ΔC is their dharma. Their suffering is
+  correct.
+
+  This is a different Patch P architecture. It does not discharge ΔC
+  through external conflict — it ABSORBS ΔC by teaching the oppressed
+  that their oppression is structurally correct at the cosmic level.
+
+  The prediction for subsequent decodes: Taoist and Egyptian traditions
+  will show yet ANOTHER Patch P architecture — neither purely external
+  nor purely internal but shaped by their specific cultural and
+  political contexts. The myth blame varies. The presence of myth
+  blame does not.
+
+================================================================================
+FAILURES, TENSIONS, AND HONEST LIMITATIONS
+================================================================================
+
+  1. TERMINOLOGICAL ABUNDANCE (same as Buddhist decode): Hinduism's
+     philosophical vocabulary is so rich and detailed that ANYTHING
+     can probably be mapped to FT&E. The mapping may be real or may
+     be facilitated by having so many concepts to choose from. LOGGED.
+
+  2. WHICH HINDUISM? The tradition is so vast and internally diverse
+     that "Hindu texts" is almost meaningless. Advaita Vedanta,
+     Bhakti devotionalism, Tantric practice, and village folk
+     religion are radically different systems sharing a nominal
+     label. This decode focused on canonical philosophical texts
+     (Upanishads, Gita, Yoga Sutras) — which overrepresents the
+     elite Brahminical tradition. LOGGED.
+
+  3. REINCARNATION AND KARMA: Like Buddhist rebirth (Decode #4),
+     the karma-reincarnation framework adds metaphysical commitments
+     that FT&E doesn't require. The structural reading (karma =
+     accumulated ΔC, reincarnation = system recycling) works
+     metaphorically but cannot adjudicate literal vs. metaphorical
+     interpretation. LOGGED.
+
+  4. CASTE COMPLEXITY: The relationship between varna (textual four-
+     fold division) and jati (actual caste practice — thousands of
+     sub-castes) is historically complex. Using the textual varna
+     system as representative of actual caste experience oversimplifies
+     a 3,000-year social reality. LOGGED.
+
+  5. TRAINING DATA CONFOUND: Hindu philosophy has been extensively
+     compared to Western philosophy and psychology in academic and
+     popular literature. LLM training data heavily represents these
+     comparative analyses. I cannot separate structural reading from
+     inherited comparative frameworks. LOGGED.
+
+  6. THE GITA'S VIOLENCE PROBLEM: The Gita's E* resolution is
+     Arjuna going to war. 𝔉 produces clarity — and the clear action
+     is to fight a battle that kills millions. If E* = emergence
+     through processing, and the emergence here IS mass warfare,
+     what does this say about the framework? Possible structural
+     reading: the Gita is honest that some ΔC cannot be resolved
+     without destruction. But this is a tension, not a resolution.
+     LOGGED.
+
+  7. BLAME DYNAMICS — CONSISTENT APPLICATION (per SIGNAL_VS_MYTH_BLAME
+     protocol): This decode found myth blame at ALL predicted
+     locations: caste (inward-directed, cosmologically embedded),
+     gender (Manusmriti, Sita's trial), cultural/ethnic (asura
+     framing, mleccha category). The caste system represents the
+     deepest structural myth blame in the series — not occasional
+     passages but systematic cosmological architecture. Applied
+     evenly. LOGGED.
+
+================================================================================
