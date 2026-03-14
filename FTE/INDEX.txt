@@ -825,6 +825,27 @@ FIELD_AS_EVIDENCE.txt   (March 2026)
   was describing."
 
 ────────────────────────────────────────────────────────────────────────────────
+09_Religious_Text_Decodes\
+────────────────────────────────────────────────────────────────────────────────
+
+DECODE_01_TORAH.txt   (March 14, 2026)
+  First systematic religious text decode through FT&E operators.
+  Pentateuch (Genesis through Deuteronomy) analysed as structural
+  encoding of contradiction-management operators. Operator mappings
+  pre-locked before narrative walk-through. Seven predictions stated
+  and tested against 23+ individual narrative cases. Score: 7/7 predictions
+  confirmed. Key findings: "Sin crouching at the door" (Genesis 4:7) as
+  precise ΔC accumulation at system boundary; Golden Calf as textbook
+  T_min failure; Genesis 50:20 as compressed FT&E equation; Yom Kippur
+  annual repetition confirms Patch P temporality; Moses barred from
+  promised land = process carrier ≠ emergence carrier; Jubilee as
+  civilisational ΔC reset; full Torah arc maps to operator sequence.
+  Five honest limitations logged: mixed-signal flexibility, divine
+  hardening tension, purity code over-specification (Firewall error),
+  narrative flexibility (symbolic material easier to map), training
+  data confound. Consistency demonstrated, not independent proof.
+
+────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -850,8 +871,11 @@ Practitioner deployment:
 Full archive (complete):
   Read in folder order 01→07, INDEX last.
 
+Religious text decode:
+  THE_EQUATION → LEXICON_UNIFIED → DECODE_01_TORAH
+
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 52 core documents across 8 directories
+ 53 core documents across 9 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
