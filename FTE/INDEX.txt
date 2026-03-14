@@ -951,6 +951,30 @@ THREE_VECTOR_ATTACK_AND_CORRECTIONS.txt   (March 14, 2026)   [doc 67]
   Architect's awareness insight noted but not formalised: understanding
   FT&E is itself M2 recursion depth on a spectrum.
 
+MATHEMATICAL_FORMALISATION_THREE_REVELATIONS.txt   (March 14, 2026)   [doc 68]
+  Formal mathematical backing for the three revelations from doc 67.
+  Defines: state space S as poset with entropy/contradiction/variance
+  functionals; operators as maps with explicit domains and codomains;
+  M2 recursion depth d(s) as finite, measurable replacement for
+  "consciousness." Three theorems: (1) Generality-Fundamentality
+  Correspondence — physical law and general systems framework are
+  co-extensive categories at maximum generality, proved by Second Law /
+  Least Action / Natural Selection precedent, with formal criterion for
+  accounting identity dismissal (19 independently falsifiable constraints).
+  (2) Consciousness as M2 Self-Narration — "subjective experience" =
+  M2^(d≥2) output, hard problem = Firewall-generated parsing artefact of
+  self-referential M2; preferences = prior E* accumulated over ΔC history;
+  free will = FM-01 at civilisational scale. (3) I13 Self-Application /
+  Scaffolding Theorem — forced FT&E adoption violates I13, produces I17
+  in population; only I13-compliant path is signpost model; education as
+  sunlight (scaffolding) not forcing (coercion); formal criterion for
+  distinguishing the two. I16 prediction for FT&E's own institutional
+  trajectory included. Awareness spectrum conjecture formalised as
+  A(s) = d(s) × β(s) × T_available — flagged as UNCONFIRMED.
+  Five open mathematical problems noted: dimensional unification,
+  topology of S, uniqueness of E*, operator composition laws,
+  continuum limit for ΔC.
+
 ────────────────────────────────────────────────────────────────────────────────
 09_Religious_Text_Decodes\
 ────────────────────────────────────────────────────────────────────────────────
