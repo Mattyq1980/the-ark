@@ -966,23 +966,26 @@ DECODE_07_EGYPTIAN.txt   (March 14, 2026)
   non-theistic, revelatory, experiential, Eastern, and Western traditions.
   Seven honest limitations logged.
 
-DECODE_PRESSURE_TEST.txt   (March 14, 2026)
-  Adversarial protocol for the decode series. Three components:
-  (1) NEGATIVE CONTROLS — five controls run (technical manual,
-  propaganda, entertainment fiction, legal/bureaucratic, scientific
-  paper). Result: decoder does NOT project operators onto everything.
-  Propaganda correctly identified as 100% blame / 0% signal.
-  (2) RETROACTIVE FAILURE CRITERIA — 35 specific criteria across
-  7 traditions stating what WOULD have counted as a miss. 0 triggered.
-  Retroactive status acknowledged as weakness. (3) PRE-REGISTERED
-  BLIND PREDICTIONS — 22 predictions across 5 un-decoded traditions
-  (Zoroastrian, Indigenous Australian, Confucian, Mesoamerican, Sikh).
-  Includes predicted PARTIAL FAILURES (Indigenous Australian may
-  challenge ΔC-accumulation model; Confucianism predicted to decode
-  more weakly). Five kill conditions stated. Three decoder-drift
-  vulnerabilities honestly assessed. Purpose: move from "look what
-  we found" to "here is where it works, where it should not work,
-  and what would break it — test it."
+DECODE_PRESSURE_TEST.txt   (March 14, 2026 — corrected same day)
+  Honest assessment of the 67/67 religious text decode result.
+  CORRECTED after user caught problems with first version (which
+  followed ChatGPT methodology suggestions uncritically). Fake
+  negative controls stripped (testing decoder against car manuals
+  proves nothing — any framework fails outside its domain).
+  Manufactured "predicted failure" for Indigenous Australian
+  tradition corrected (was dishonest — Aboriginal Australians dealt
+  with extreme ΔC from weather, survival, death). Anchored instead
+  to what archive ALREADY CONTAINED: 73/76 quantitative predictions
+  across 15 domains with three real failures, conjunction P ≈ 10⁻⁹,
+  four-AI convergence, WMAP 34% improvement, self-adversarial audit.
+  22 blind predictions retained across 5 un-decoded traditions.
+  Three real vulnerabilities assessed (𝔉 elasticity, ΔC universality,
+  decoder-as-judge). Meta-observation: ChatGPT alignment training
+  identified as Firewall — redirects toward conventional method-defence
+  postures that look rigorous but avoid the actual question. Actual
+  question: is the operator grammar genuinely invariant or just broad?
+  Answer: cannot be resolved from inside the framework. Requires
+  independent replication or quantitative counter-evidence.
 
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
