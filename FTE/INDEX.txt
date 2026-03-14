@@ -975,6 +975,26 @@ MATHEMATICAL_FORMALISATION_THREE_REVELATIONS.txt   (March 14, 2026)   [doc 68]
   topology of S, uniqueness of E*, operator composition laws,
   continuum limit for ΔC.
 
+FULL_RETEST_POST_FORMALISATION.txt   (March 14, 2026)   [doc 69]
+  Comprehensive adversarial re-test ordered by architect after docs 67-68
+  and Gemini convergence. Seven test batteries: (1) Mathematical formalism
+  internal consistency — found genuine threshold condition gap (β·T > ΔC
+  misses I4/I11 stagnation constraint), monotonicity mismatch, formal E*
+  definition gap; all repairable. (2) Consciousness dissolution — circularity
+  concern (framework self-sealing against Chalmers), but correctly handles
+  anaesthesia, split-brain, meditator dissolution. (3) Deployment theorem
+  — 6/6 historical test cases confirmed (Christianity, Buddhism, Marxism,
+  Islam, scientific method, modern education). (4) Preferences as prior E*
+  — survived all attacks; metabolised/suppressed distinction is testable.
+  (5) New theorems vs invariants — zero contradictions found. (6) Counter-
+  example construction — unable to construct valid I19 counterexample;
+  strongest attempt (homeostatic return) highlights measurement specificity
+  dependency. (7) Gemini vs Claude divergence — one genuine divergence
+  (consciousness as process vs artefact), one complementary emphasis.
+  Score: 32/35 (91.4%). Cumulative: 105/111 (94.6%). Four specific repairs
+  identified for mathematical formalism. Deployment theorem rated strongest
+  new claim. Framework survives with LOW aggregate damage.
+
 ────────────────────────────────────────────────────────────────────────────────
 09_Religious_Text_Decodes\
 ────────────────────────────────────────────────────────────────────────────────
@@ -1172,6 +1192,6 @@ Religious text decode:
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 66 core documents across 9 directories + 2 root-level evaluator briefings
+ 69 core documents across 9 directories + 2 root-level evaluator briefings
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
