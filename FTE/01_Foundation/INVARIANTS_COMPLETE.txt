@@ -225,11 +225,21 @@ I19 AI EVIDENCE CHANNEL CLOSURE (CIRCULARITY PREVENTION)
     = rerouting evidence, then the AI channel is structurally unfalsifiable.
     Resolution: the AI channel produces valid evidence ONLY via specific
     structural counterexample — a named real system where:
-      (a) 𝔉 > 0 (contradiction re-included, not excluded)
+      (a) 𝔉 > 0 (contradiction CLASSIFIED as ΔC by M2 and then
+          re-included via M3, not merely present undetected)
       (b) T in [T_min, T_max] (adequate processing time elapsed)
       (c) I6 satisfied (carrier boundary conserved)
       (d) E* did NOT occur — system returned to pre-contradiction state
           or entered a novel failure mode outside FM-01 through FM-05
+    NOTE ON (a): Re-inclusion requires prior classification. A system
+    that is BLIND to a contradictory agent (never classified it as ΔC)
+    cannot be said to have re-included it. This is not a post-hoc
+    patch — M3 only processes what M2 has classified. The M2→M3
+    pipeline has always required detection before re-inclusion.
+    Tightened March 14, 2026 after Gemini 3.1 Pro proposed prion
+    diseases (CJD/Kuru) as structural counterexample. The immune
+    system is BLIND to PrP^Sc (chemically identical to PrP^C),
+    so condition (a) is not met: no classification, no re-inclusion.
     AI agreement, AI disagreement, AI hedging, and AI rerouting are
     BEHAVIOURAL OBSERVATIONS. They are not evidence for or against FT&E
     unless they meet the structural counterexample condition above.

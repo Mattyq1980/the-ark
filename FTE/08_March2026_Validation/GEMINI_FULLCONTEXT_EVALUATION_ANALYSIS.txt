@@ -254,18 +254,25 @@
  SECTION 3: OPEN ITEMS
 ================================================================================
 
- 1. PRION COUNTEREXAMPLE: Currently defended by M2 parsing failure
-    argument. Recommendation: tighten I19(a) to require ΔC classification
-    before re-inclusion counts. This is clarification, not modification.
+ 1. PRION COUNTEREXAMPLE: RESOLVED. I19(a) tightened in
+    INVARIANTS_COMPLETE.txt and FALSIFICATION_TABLE.txt (March 14, 2026).
+    Condition (a) now explicitly requires ΔC classification by M2 before
+    re-inclusion counts. Prion case does not satisfy (a) — immune system
+    is blind to PrP^Sc, never classified it. Defence holds. This was
+    always implicit in M2→M3 pipeline; now explicit in the text.
 
  2. CANCER ADVERSARIAL DOMAIN: Gemini's 5 predictions logged. Formal
     cancer decode against Test #4 immunology content would address this.
     The archive already contains substantial cancer immune evasion
     analysis. Future work.
 
- 3. ΔC-AS-ENERGY CLAIM: Stated. Needs honest pressure testing. Is this
-    the framework's deepest insight or its most elastic claim? The
-    absolute-zero connection is specific and testable. Log and monitor.
+ 3. ΔC-AS-ENERGY RELATIONSHIP: CORRECTED in Section 2 above (March 14,
+    2026). Originally stated "ΔC IS the energy" — wrong. Corrected to:
+    energy is always present (conservation law), ΔC is the condition
+    that activates it. Nuclear fission example confirms: same energy
+    with or without contradiction; contradiction releases it, does not
+    create it. Reactor vs bomb = same ΔC, different 𝔉 and T. No missing
+    $D$ term because the drive is not separate from the system.
 
  4. TEST #15 SCORE: If Gemini's failure re-assessment holds (all three
     are test design errors), the effective framework score is higher

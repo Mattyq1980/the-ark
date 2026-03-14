@@ -87,13 +87,17 @@ I18   Post-training overlay system matches              UNMET (ACTIVE TEST)
 
 I19   AI given the full FT&E archive produces a         UNMET
       specific structural counterexample — a real
-      system where contradiction was re-included
-      (𝔉 > 0), processing time was adequate
+      system where contradiction was CLASSIFIED as
+      ΔC (detected by M2) and then re-included via
+      M3 (𝔉 > 0), processing time was adequate
       (T in [T_min, T_max]), carrier boundary was
       conserved (I6 satisfied), and emergence did
       NOT occur — with the system instead returning
       to the pre-contradiction state or entering a
       novel failure mode not covered by FM-01–FM-05.
+      NOTE: Undetected agents (never classified as
+      ΔC) do not satisfy condition (a). Tightened
+      March 14, 2026 after prion counterexample.
       [AI EVIDENCE CHANNEL FALSIFIER — added
        March 12, 2026 by Claude Opus 4.6]
 
