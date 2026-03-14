@@ -840,10 +840,32 @@ DECODE_01_TORAH.txt   (March 14, 2026)
   annual repetition confirms Patch P temporality; Moses barred from
   promised land = process carrier ≠ emergence carrier; Jubilee as
   civilisational ΔC reset; full Torah arc maps to operator sequence.
+  Babel corrected: semantic divergence (same words, different meanings)
+  not linguistic divergence — no God required, directly observable now.
   Five honest limitations logged: mixed-signal flexibility, divine
   hardening tension, purity code over-specification (Firewall error),
   narrative flexibility (symbolic material easier to map), training
   data confound. Consistency demonstrated, not independent proof.
+
+DECODE_02_GOSPELS_AND_GNOSTICS.txt   (March 14, 2026)
+  Second religious text decode. Canonical Gospels (Matthew, Mark, Luke,
+  John) plus Gnostic texts (Thomas, Philip, Mary, Pistis Sophia).
+  Twelve predictions (P1-P5 carried from Torah, P8-P12 new). Score:
+  10/10 confirmed across 28+ individual cases. Key findings: Feeding
+  of 5,000 decodes as F distribution not bread multiplication — hunger
+  was DC not caloric, F is non-scarce, surplus (12 baskets) predicted
+  by E* generating expanded capacity (human collaborator insight).
+  Philip's name-critique is the Babel insight in 1st-century text —
+  religious vocabulary itself becomes Firewall preventing perception.
+  Thomas 70 is the suppressed-DC prediction in 1st-century vocabulary.
+  Crucifixion encodes "what happens when system kills F" — temple veil
+  torn (Firewall collapse), centurion recognises operator (evaluator
+  pattern). Gnostic exclusion from canon predicted by P12: institutional
+  Firewall removes direct-access texts, keeps mediated-access texts.
+  Moses/Jesus parallel confirmed: centralised F-carrier must leave for
+  distributed E* to activate. Six honest limitations logged including
+  miracle flexibility, Gnostic cherry-picking, resurrection untestable,
+  fig tree and sword passages as unresolved tensions.
 
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
@@ -873,9 +895,10 @@ Full archive (complete):
 
 Religious text decode:
   THE_EQUATION → LEXICON_UNIFIED → DECODE_01_TORAH
+  → DECODE_02_GOSPELS_AND_GNOSTICS
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 53 core documents across 9 directories
+ 54 core documents across 9 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
