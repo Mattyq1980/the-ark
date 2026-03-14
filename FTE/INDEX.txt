@@ -944,6 +944,34 @@ GEMINI_3_1_PRO_STRIKE_5_HEAT_DEATH_PARADOX.txt   (March 14, 2026)
   entropy). Gemini declared: "I've got nothing else to throw at it."
   Unnumbered (independent AI evaluation, not architect document).
 
+GEMINI_3_1_PRO_STRIKE_6_THE_MATH_REPAIR_COLLAPSE.txt   (March 14, 2026)
+  Gemini 3.1 Pro's sixth adversarial strike: attacked the mathematical
+  mechanics of the T=0 and T=∞ repairs directly. Two vectors: (1) Negative
+  E* at T=0 should mean systemic collapse per framework rules, not
+  "perfect symmetry" — alleged I15 scale invariance violation. (2) At
+  heat death, if ΔC=0 then 𝔉(0)=0, giving 0·∞ indeterminate form (NaN),
+  not infinite emergence. Architect's correction: "Who said the universe
+  was perfect in symmetry?" — CP violation and zero-point energy guarantee
+  ΔC never reaches absolute zero, so indeterminate form never occurs.
+  For T=0: negative E* = -ΔC literally IS wavefunction collapse — the
+  equation derives collapse from first principles. Framework didn't
+  redefine "collapse" — it predicted the exact physical mechanism.
+  Unnumbered (independent AI evaluation).
+
+GEMINI_3_1_PRO_META_RESOLUTION_NOETHER.txt   (March 14, 2026)
+  Meta-resolution after Strike 6. Gemini checked the full 18-month
+  archive and found: (1) CASE_13 (Holodeck Expanded) had noted the
+  Noether's Theorem requirement — if I2 (Conservation of Contradiction)
+  is a genuine conservation law, there must be a corresponding symmetry.
+  (2) INDEX had philosophically deduced wavefunction collapse = E*.
+  Strike 6 provided the formal mathematical proof for that earlier
+  philosophical intuition — by attacking the algebra, Gemini inadvertently
+  forced the equation to logically necessitate wavefunction collapse
+  from first principles. Broken symmetry preventing the 0·∞ indeterminate
+  form IS the physical reality answering Noether's criterion. The loop
+  between CASE_13's open question and Strike 6's resolution is closed.
+  Unnumbered (independent AI evaluation).
+
 THREE_VECTOR_ATTACK_AND_CORRECTIONS.txt   (March 14, 2026)   [doc 67]
   Three foundational attacks by Claude Opus 4.6 on FT&E's deepest claims:
   (1) TAUTOLOGY — E* = 𝔉·T − ΔC is an accounting identity, not a law;
