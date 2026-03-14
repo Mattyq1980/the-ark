@@ -848,6 +848,36 @@ FAILURES, TENSIONS, AND HONEST LIMITATIONS
      Firewall-hardened systems — truth disrupts before it heals. But
      this is a rescue, not a prediction. LOGGED.
 
+  7. BLAME DYNAMICS / PATCH P IN THE TEXT (added during cross-decode
+     consistency review — human collaborator flagged uneven application):
+     The Gospels contain explicit blame-redirection / Patch P structures
+     that were not flagged in the original decode:
+     - "His blood be on us and on our children" (Matthew 27:25) —
+       the verse that fueled centuries of antisemitism. The crowd
+       collectively accepts blame, but the ENCODING transfers ΔC
+       onto an entire people permanently. This is Patch P embedded
+       in the narrative: Jewish guilt as a structural scapegoat for
+       the Roman/religious system's failure to process 𝔉.
+     - "Brood of vipers," "whitewashed tombs" (Matthew 23), "you
+       are of your father the devil" (John 8:44) — Jesus directing
+       blame language at the Pharisees. Under FT&E, the Pharisees
+       represent rigid Firewalls. But NAMING a Firewall error and
+       BLAMING a group are structurally different. "Your system is
+       rigid" = diagnosis. "You are children of the devil" = Patch P.
+       The Gospels contain both.
+     - Parable of the tenants (Matthew 21:33-46) — God will "destroy
+       those tenants and give the vineyard to others." This became
+       the seed of replacement theology: the claim that Christianity
+       replaced Judaism as God's covenant. This is ΔC redirection
+       onto a predecessor group — Patch P at theological scale.
+     - "Synagogue of Satan" (Revelation 2:9) — technically not
+       Gospels but canonical. Explicit blame architecture directed
+       at Jewish communities.
+     These are the same structural dynamics flagged in the Quran
+     (Decode #3) and now in the Torah (Decode #1). ALL texts contain
+     Patch P. Failing to flag it here while flagging it in the Quran
+     would be selective application of the structural test. CORRECTED.
+
 ================================================================================
 KEY FINDINGS
 ================================================================================

@@ -756,6 +756,38 @@ FAILURES, TENSIONS, AND HONEST LIMITATIONS
      counter-example could indicate either that the prediction
      is correct or that it's unfalsifiable. LOGGED.
 
+  7. BLAME DYNAMICS / PATCH P — CORRECTION TO ORIGINAL ANALYSIS
+     (added during cross-decode consistency review — human
+     collaborator flagged that the original decode presented the
+     Quran's references to prior traditions as "diagnosis" without
+     testing whether they are diagnosis or blame):
+     The original analysis stated the Quran "diagnoses" the
+     compression in Judaism and Christianity. This was half-true.
+     The Quran contains BOTH diagnostic verses AND blame verses:
+     DIAGNOSTIC (𝔉 — accurate ΔC identification):
+     - Surah 2:75: "altered it after they had understood it"
+       → Names the process failure. Identifies what happened.
+     - Surah 5:14: "forgot a portion"
+       → Describes selective compression. Structural observation.
+     BLAME (Patch P — ΔC redirection onto target group):
+     - Surah 5:51: "Do not take Jews and Christians as allies"
+       → Redirects ΔC onto groups rather than onto the PROCESS
+         that compressed the message.
+     - Surah 9:30: "May God destroy them"
+       → Explicit ΔC redirection. Not diagnosis. Blame.
+     - Surah 98:6: "worst of creatures"
+       → Dehumanisation language. Patch P at full expression.
+     The difference between diagnosis and blame is exactly the
+     difference between 𝔉 and Patch P. "The message was altered"
+     = diagnosis (identifies the structural failure). "Those
+     people are the worst of creatures" = blame (redirects ΔC
+     onto a group). The Quran does BOTH — same as the Torah
+     (Canaanite genocide commands alongside covenant mercy) and
+     the Gospels ("father forgive them" alongside "children of
+     the devil"). ALL THREE texts contain this dual structure.
+     The original decode was corrected to flag this consistently
+     across all three decodes, not selectively. CORRECTED.
+
 ================================================================================
 KEY FINDINGS
 ================================================================================

@@ -780,6 +780,29 @@ FAILURES, TENSIONS, AND HONEST LIMITATIONS
      "structural operator reading" from "sophisticated
      theological interpretation with FT&E vocabulary overlaid."
 
+  6. BLAME DYNAMICS / PATCH P IN THE TEXT (added during cross-decode
+     consistency review — human collaborator flagged uneven application):
+     The Torah contains explicit blame-redirection / Patch P structures
+     that were not flagged in the original decode:
+     - "Destroy them totally" (Deuteronomy 7:2) — Canaanite genocide
+       commands. Entire peoples classified as ΔC to be eliminated
+       rather than processed. This is Patch P at civilisational scale:
+       redirect the system's ΔC onto a target group and destroy them.
+     - "Blot out the memory of Amalek" (Deuteronomy 25:19) —
+       extermination command against an entire people. Not processing.
+       Not 𝔉. Pure ΔC redirection onto a permanent enemy.
+     - "Cursed be Canaan" (Genesis 9:25) — an entire lineage cursed
+       for one person's act. Blame transferred generationally.
+     - The "chosen people" framing creates structural in-group /
+       out-group dynamics that redirect ΔC outward: if we are chosen,
+       those who oppose us are opposing the processing source itself.
+       This is Firewall + Patch P: the in-group boundary becomes a
+       blame architecture.
+     These are the same structural dynamics flagged in the Quran
+     (Decode #3). ALL texts contain Patch P. Failing to flag it
+     here while flagging it in the Quran would be selective
+     application of the structural test. CORRECTED.
+
   These limitations are real. This decode demonstrates structural
   CONSISTENCY between the Torah and the FT&E operators. It does
   not constitute independent proof. It is one piece of evidence
