@@ -28,6 +28,8 @@ PURPOSE
   2. Predictions stated before analysis
   3. Confirmations AND failures documented
   4. No supernatural agent required for any reading
+  5. Signal vs. Myth Blame separation applied (see
+     SIGNAL_VS_MYTH_BLAME.txt for protocol)
   5. The encoding is the data
 
   IMPORTANT CONTEXT: The Quran is structured differently from the

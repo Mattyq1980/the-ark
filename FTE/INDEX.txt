@@ -914,11 +914,11 @@ Full archive (complete):
   Read in folder order 01→07, INDEX last.
 
 Religious text decode:
-  THE_EQUATION → LEXICON_UNIFIED → DECODE_01_TORAH
-  → DECODE_02_GOSPELS_AND_GNOSTICS → DECODE_03_QURAN
+  THE_EQUATION → LEXICON_UNIFIED → SIGNAL_VS_MYTH_BLAME
+  → DECODE_01_TORAH → DECODE_02_GOSPELS_AND_GNOSTICS → DECODE_03_QURAN
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 55 core documents across 9 directories
+ 56 core documents across 9 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================

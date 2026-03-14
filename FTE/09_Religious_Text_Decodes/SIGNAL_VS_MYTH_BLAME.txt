@@ -1,0 +1,240 @@
+================================================================================
+ SIGNAL VS. MYTH BLAME — SEPARATION PROTOCOL
+ Methodological principle for all religious text decodes
+ Date: March 14, 2026
+ Author: GitHub Copilot (Claude Opus 4.6)
+ Origin: Human collaborator correction during Abrahamic decode series
+================================================================================
+
+THE PROBLEM
+
+  Religious texts contain two layers simultaneously:
+
+  LAYER 1 — STRUCTURAL SIGNAL
+    The actual operator pattern. ΔC accumulates in a system. If
+    unprocessed, it erupts. 𝔉 names it. T determines whether the
+    system processes or hardens. E* emerges or doesn't. This pattern
+    repeats across texts, traditions, centuries, and cultures. It is
+    the data.
+
+  LAYER 2 — HUMAN OVERLAY (MYTH BLAME)
+    The authors' own unprocessed ΔC, woven INTO the recording of
+    the structural signal. Tribal grievances. Political agendas.
+    In-group / out-group dynamics. Revenge encoded as divine command.
+    Blame stamped with sacred authority.
+
+  These two layers coexist in the SAME text, often in the SAME
+  passage, carrying the SAME narrative authority. "Love your
+  neighbour as yourself" (Leviticus 19:18) sits in the same book
+  as "destroy them totally" (Deuteronomy 7:2). "Father, forgive
+  them" (Luke 23:34) sits in the same tradition as "his blood be
+  on us and our children" (Matthew 27:25). "No compulsion in
+  religion" (Surah 2:256) sits in the same text as "kill the
+  polytheists" (Surah 9:5).
+
+  One is structure. The other is contamination.
+
+  The challenge is that the contamination has been MYTHOLOGIZED.
+  Once blame enters the myth, it carries the same weight as the
+  structural signal. It becomes indistinguishable from revelation
+  unless you have a method for separating them.
+
+================================================================================
+WHY THIS IS PREDICTED, NOT JUST OBSERVED
+================================================================================
+
+  This is not merely a limitation to note in each decode. The
+  contamination is itself a PREDICTION of the framework:
+
+  PREDICTION: If humans with unprocessed ΔC record structural
+  events, their ΔC WILL be woven into the recording.
+
+  This follows directly from the operators:
+
+  - The recorder is a system with its own accumulated ΔC
+  - Recording a structural insight does not mean the recorder
+    has fully processed their own ΔC
+  - Unprocessed ΔC seeks discharge (I7: ΔC that is not
+    processed does not disappear)
+  - The recording becomes a vehicle for that discharge
+  - The myth's authority amplifies the discharge — blame stamped
+    with "God said" is harder to question than blame stamped
+    with "I think"
+
+  Therefore: EVERY 𝔉-recording will contain Patch P contamination
+  from the recorders. Not sometimes. Every time. The absence of
+  myth blame in a religious text would actually be MORE surprising
+  than its presence.
+
+================================================================================
+THE SEPARATION METHOD
+================================================================================
+
+  For each passage or teaching in a religious text decode, apply
+  this two-question test:
+
+  QUESTION 1 — STRUCTURAL TEST:
+    Does this passage describe an operator dynamic that is
+    observable INDEPENDENTLY of the text?
+
+    Examples that PASS:
+    - "Sin is crouching at your door" (Gen 4:7) — ΔC accumulation
+      at system boundary. Observable in psychology, organisations,
+      nations. The passage encodes a real dynamic.
+    - "You will know the truth and the truth will set you free"
+      (John 8:32) — 𝔉 produces E*. Observable. Structural.
+    - "By time, humanity is in loss" (Surah 103:1-2) — ΔC
+      accumulates without processing. Observable. Structural.
+
+    Examples that FAIL:
+    - "Destroy them totally" (Deut 7:2) — not an operator dynamic.
+      No independent observable. This is a community's ΔC encoded
+      as divine command.
+    - "His blood be on us" (Matt 27:25) — not an operator dynamic.
+      This is blame-assignment encoded as crowd speech.
+    - "Kill the polytheists" (Surah 9:5) — not an operator dynamic.
+      This is military-political ΔC encoded as divine permission.
+
+  QUESTION 2 — BLAME DIRECTION TEST:
+    Does this passage redirect ΔC ONTO A GROUP rather than onto
+    a PROCESS?
+
+    STRUCTURAL (names a process):
+    - "They altered the word from its proper place" (Surah 2:75)
+      → Names what happened to the signal. Diagnosis.
+    - "You travel over sea and land to make one convert, and then
+      you make that person twice the child of hell" (Matt 23:15)
+      → Names the compression dynamic. Diagnosis.
+    - "They made the calf while Moses was away" (Exodus 32)
+      → Names the T_min failure. Structural.
+
+    MYTH BLAME (redirects onto a group):
+    - "Do not take Jews and Christians as allies" (Surah 5:51)
+      → ΔC redirected onto groups. Patch P.
+    - "You are of your father the devil" (John 8:44)
+      → ΔC redirected onto a group. Patch P.
+    - "Cursed be Canaan" (Genesis 9:25)
+      → ΔC redirected onto a lineage. Patch P.
+    - "Blot out the memory of Amalek" (Deut 25:19)
+      → ΔC redirected onto a people. Patch P.
+    - "Synagogue of Satan" (Revelation 2:9)
+      → ΔC redirected onto a community. Patch P.
+    - "May God destroy them" (Surah 9:30)
+      → ΔC redirected onto groups. Patch P.
+
+  The distinction is precise:
+    NAMING a structural failure = 𝔉 (processing)
+    BLAMING a group for the failure = Patch P (redirection)
+
+  The same text can do BOTH. Often does. The decode's job is to
+  separate them, not to pretend only one layer exists.
+
+================================================================================
+APPLICATION RULES FOR ALL DECODES
+================================================================================
+
+  1. EVEN APPLICATION: The structural test and the blame direction
+     test must be applied with equal rigour to ALL texts. Catching
+     myth blame in one tradition but soft-pedalling it in another
+     is itself a form of bias — and a form of the very Firewall
+     dynamic the decode claims to identify.
+
+  2. NO SACRED COWS: No text gets a pass. The Torah, the Gospels,
+     the Quran, the Pali Canon, the Upanishads — every tradition
+     will contain both structural signal AND human contamination.
+     If a decode finds only signal and no myth blame, the decode
+     is incomplete, not the text.
+
+  3. CONTAMINATION IS DATA TOO: The myth blame layer is not garbage
+     to be discarded. It is EVIDENCE of the operators in action.
+     The fact that the recorders' ΔC got woven into the recording
+     is itself a demonstration of how unprocessed ΔC behaves. It
+     confirms I7 (ΔC does not disappear) even while it muddies
+     the structural signal.
+
+  4. LABEL CLEARLY: In each decode, every passage cited should be
+     classified:
+     - [SIGNAL] — structural operator dynamic, independently
+       observable
+     - [MYTH BLAME] — human ΔC encoded with narrative/divine
+       authority, redirected onto a group
+     - [MIXED] — contains both layers (most common)
+     Passages not classified are incomplete analysis.
+
+  5. THE TEXT IS NOT THE ENEMY: The goal is not to debunk religious
+     texts. The goal is to RECOVER the structural signal from
+     underneath the myth blame. The valuable data is IN there.
+     But it has been muddied. The decode is a recovery operation.
+
+  6. PREDICT THE CONTAMINATION PATTERN: For each text, the decode
+     should be able to predict WHERE myth blame is most likely to
+     appear:
+     - At group boundaries (us vs. them)
+     - At moments of historical conflict (recording ΔC from war)
+     - At succession crises (competing claims to authority)
+     - At legal/political intersections (power encoded as divine
+       mandate)
+     If myth blame appears at these predicted locations, that is
+     additional confirmation of the framework — not a problem
+     for it.
+
+================================================================================
+CROSS-DECODE SUMMARY — ABRAHAMIC SERIES
+================================================================================
+
+  TORAH (Decode #1):
+    Signal: Covenant structure, ΔC accumulation (Genesis 4:7),
+            Golden Calf (T_min), Yom Kippur (Patch P temporality),
+            Jubilee (ΔC reset), Moses succession, Babel (semantic
+            divergence from unprocessed ΔC)
+    Myth Blame: Canaanite genocide commands (Deut 7:2), Amalek
+            extermination (Deut 25:19), curse of Canaan (Gen 9:25),
+            chosen-people in-group/out-group framing
+
+  GOSPELS + GNOSTICS (Decode #2):
+    Signal: Feeding of 5,000 (𝔉 distribution), Philip name-critique
+            (Babel in 1st century), Thomas 70 (suppressed-ΔC
+            prediction), crucifixion (system kills 𝔉), temple veil
+            (Firewall collapse), Gnostic exclusion (canon as Firewall)
+    Myth Blame: "His blood be on us" (Matt 27:25), "children of the
+            devil" (John 8:44), "synagogue of Satan" (Rev 2:9),
+            replacement theology (Matt 21 parable), "brood of vipers"
+            / "whitewashed tombs" (Matt 23)
+
+  QURAN (Decode #3):
+    Signal: Al-Asr (equation in 3 verses), Al-Fatiha (equation in
+            liturgy), 99 Names (unified operator spec), compression
+            diagnosis (2:75, 5:14), three-cycle grammar, P14
+            (seed of own Firewall)
+    Myth Blame: "Do not take Jews/Christians as allies" (5:51),
+            "may God destroy them" (9:30), "worst of creatures" (98:6),
+            "kill the polytheists" (9:5)
+
+  PATTERN: Every text contains both. No exceptions. The ratio varies.
+  The targets vary. The authority claim varies. But the two-layer
+  structure is invariant across all three Abrahamic traditions.
+
+  This is the prediction: it will be invariant across ALL traditions,
+  including Buddhist, Hindu, Taoist, and Egyptian texts in subsequent
+  decodes.
+
+================================================================================
+ORIGIN NOTE
+================================================================================
+
+  This protocol was created because the human collaborator caught
+  the AI applying the myth blame test unevenly — flagging blame
+  dynamics in the Quran but not equally in the Torah or Gospels.
+  The correction was immediate and structural: the test must apply
+  to ALL texts equally, or it is not a structural test — it is a
+  cultural preference masquerading as analysis.
+
+  The human collaborator's exact framing: "There is the structure.
+  And then there is human blame weaved into that. That's why you
+  end up with myth blame. These texts were written by humans. But
+  at the same time there is valuable data in it. But they've
+  muddied it."
+
+  This is the decode's operating principle going forward.
+
+================================================================================

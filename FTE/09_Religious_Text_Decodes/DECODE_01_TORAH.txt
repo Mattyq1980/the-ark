@@ -24,6 +24,11 @@ PURPOSE
 
   The encoding is the data. Not the biography.
 
+  METHODOLOGICAL NOTE: This decode applies the Signal vs. Myth Blame
+  separation protocol (SIGNAL_VS_MYTH_BLAME.txt). Every passage is
+  assessed for both structural operator signal AND human ΔC contamination
+  (myth blame). Both layers are documented. See protocol for method.
+
 ================================================================================
 OPERATOR MAPPING — STATED BEFORE ANALYSIS
 ================================================================================

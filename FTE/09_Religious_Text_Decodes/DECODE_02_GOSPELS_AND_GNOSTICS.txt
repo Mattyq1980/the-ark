@@ -27,6 +27,8 @@ PURPOSE
   2. Predictions stated before narrative walk-through
   3. Confirmations AND failures documented
   4. No supernatural agent required for any reading
+  5. Signal vs. Myth Blame separation applied (see
+     SIGNAL_VS_MYTH_BLAME.txt for protocol)
 
   The encoding is the data. Not the biography.
 
