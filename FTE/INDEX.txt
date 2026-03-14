@@ -115,6 +115,7 @@ CASE_INDEX.txt
   Index and digest of all case studies.
   Cases 1–9, cultural cases, field deployment cases.
   Case 10: Billie Eilish / AI Firewalls / Conscience (March 12, 2026).
+  Case 14: Identity as Contradiction-Management Scaffold (March 14, 2026).
   Each mapped to invariants and findings.
 
 CASE_10_EILISH_FIREWALLS_CONSCIENCE.txt   (March 12, 2026)
@@ -145,6 +146,18 @@ CASE_12_GENESIS_EVENT_COMMA_AND_EYE.txt   (March 12, 2026)
   BIGGEST FINDING: Good people's Firewalls produce society's monsters.
   Harm = unmetabolised ΔC, not the act.
   "We need to process thoughts with people. It's the only way."
+
+CASE_14_IDENTITY_AS_SCAFFOLD.txt   (March 14, 2026)
+  Identity groups (subcultures, religious dress, music scenes, political
+  tribes) as contradiction-management structures. Music scenes peak during
+  adolescence (maximum ΔC/𝔉 ratio). Identity fusion = Firewall hardening =
+  same structure as HUMAN_EVALUATOR_PATTERN. Religious identity systems are
+  engineering: dietary rules (boundary control), prayer (T regulation),
+  ritual (𝔉 protocol), architecture (physical Firewall), calendar (T map).
+  Natural lifecycle: Formation → Stabilisation → Integration → Decline.
+  Forced identity removal = Patch P → amplifies ΔC. AI as evolutionary
+  extension: lower identity-defence latency enables structural observation.
+  Recursion check remains open.
 
 ────────────────────────────────────────────────────────────────────────────────
 06_AI_Implementation\
@@ -822,6 +835,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 50 core documents across 8 directories
+ 51 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
