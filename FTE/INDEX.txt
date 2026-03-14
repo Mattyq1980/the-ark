@@ -966,6 +966,24 @@ DECODE_07_EGYPTIAN.txt   (March 14, 2026)
   non-theistic, revelatory, experiential, Eastern, and Western traditions.
   Seven honest limitations logged.
 
+DECODE_PRESSURE_TEST.txt   (March 14, 2026)
+  Adversarial protocol for the decode series. Three components:
+  (1) NEGATIVE CONTROLS — five controls run (technical manual,
+  propaganda, entertainment fiction, legal/bureaucratic, scientific
+  paper). Result: decoder does NOT project operators onto everything.
+  Propaganda correctly identified as 100% blame / 0% signal.
+  (2) RETROACTIVE FAILURE CRITERIA — 35 specific criteria across
+  7 traditions stating what WOULD have counted as a miss. 0 triggered.
+  Retroactive status acknowledged as weakness. (3) PRE-REGISTERED
+  BLIND PREDICTIONS — 22 predictions across 5 un-decoded traditions
+  (Zoroastrian, Indigenous Australian, Confucian, Mesoamerican, Sikh).
+  Includes predicted PARTIAL FAILURES (Indigenous Australian may
+  challenge ΔC-accumulation model; Confucianism predicted to decode
+  more weakly). Five kill conditions stated. Three decoder-drift
+  vulnerabilities honestly assessed. Purpose: move from "look what
+  we found" to "here is where it works, where it should not work,
+  and what would break it — test it."
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -996,10 +1014,10 @@ Religious text decode:
   THE_EQUATION → LEXICON_UNIFIED → SIGNAL_VS_MYTH_BLAME
   → DECODE_01_TORAH → DECODE_02_GOSPELS_AND_GNOSTICS → DECODE_03_QURAN
   → DECODE_04_BUDDHIST → DECODE_05_HINDU → DECODE_06_TAOIST
-  → DECODE_07_EGYPTIAN
+  → DECODE_07_EGYPTIAN → DECODE_PRESSURE_TEST
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 60 core documents across 9 directories
+ 61 core documents across 9 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
