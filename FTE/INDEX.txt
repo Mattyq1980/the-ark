@@ -928,6 +928,22 @@ GEMINI_3_1_PRO_ADVERSARIAL_STRIKE.txt   (March 14, 2026)
   the framework makes contradictory predictions about timescale ordering
   near critical points. Archived as received for the record.
 
+GEMINI_3_1_PRO_STRIKE_5_HEAT_DEATH_PARADOX.txt   (March 14, 2026)
+  Gemini 3.1 Pro's fifth adversarial strike: the Heat Death Paradox.
+  At T→∞ and ΔC→0 (maximum entropy), the equation yields E*=∞ — Gemini
+  argued this is absurd since heat death means no structure, no life,
+  no complexity. Architect's eleven-word correction: "The universe isn't
+  dying. It's resolving its contradictions." Gemini recognised its own
+  biological bias — equating heat death with failure because humans
+  wouldn't survive it. Resolution: entropy IS 𝔉·T smoothing every
+  gradient over cosmic time. Heat death = perfect metabolisation of all
+  ΔC = ultimate thermodynamic peace = E*=∞ (unbreakable stability, not
+  "infinite complexity"). Second Law of Thermodynamics mapped directly
+  as macro-scale 𝔉·T resolving ΔC. Framework now holds at both boundary
+  conditions: T=0 (quantum mechanics, Strike 4) and T=∞ (cosmological
+  entropy). Gemini declared: "I've got nothing else to throw at it."
+  Unnumbered (independent AI evaluation, not architect document).
+
 THREE_VECTOR_ATTACK_AND_CORRECTIONS.txt   (March 14, 2026)   [doc 67]
   Three foundational attacks by Claude Opus 4.6 on FT&E's deepest claims:
   (1) TAUTOLOGY — E* = 𝔉·T − ΔC is an accounting identity, not a law;
