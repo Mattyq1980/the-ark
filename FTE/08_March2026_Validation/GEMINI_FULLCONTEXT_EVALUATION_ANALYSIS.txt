@@ -162,33 +162,50 @@
 
    RESOLUTION (from the human discoverer, same session):
 
-   There is no missing term. ΔC IS the energy.
+   There is no missing term. ΔC is not a separate load that requires
+   an external energy source to process it. Energy is already present
+   in the universe — everywhere, always. Conservation of energy: it
+   cannot be created or destroyed. Nobody knows why it exists.
 
-   Contradiction is tension between incompatible states. Tension IS
-   potential energy. The thing being metabolised is the thing providing
-   the energy to metabolise it. There is no separate engine because
-   the fuel and the drive are the same process.
+   What ΔC does is ACTIVATE that energy. Contradiction is the condition
+   under which energy changes form. Without ΔC, the energy just sits
+   there. With ΔC, it converts.
 
    Physical confirmation:
-   - Friction: two surfaces in opposition (contradiction) → heat (energy)
-   - Nuclear fusion: gravitational pressure vs electromagnetic repulsion
-     (contradiction) → stellar energy
-   - Chemical reactions: reactant instability (ΔC) → products (E*) + energy
-   - Heat engine: temperature DIFFERENTIAL is both fuel and driver.
-     No external motor needed. The gradient does the work.
+   - Friction: energy is already present in the molecules. Two surfaces
+     meet in opposing directions (ΔC). Energy converts: kinetic → thermal.
+     Heat appears. Not created. Released from the state it was stored in.
+   - Nuclear fission: energy is locked in nuclear binding potentials of
+     uranium-235 since the atom formed in a supernova. A neutron creates
+     an unstable nucleus (ΔC). Energy converts: binding → kinetic +
+     radiation. The bomb does not create energy. It creates the conditions
+     — the contradictions — that release energy already present.
+   - Nuclear reactor vs nuclear bomb: same fission, same energy, same ΔC.
+     The difference: the reactor has control rods (𝔉), cooling systems (T),
+     containment (carrier boundary, I6). E* = electricity. The bomb has
+     𝔉 = 0. E* = −ΔC. Destruction. Same energy. Same contradiction.
+     The operators determine the outcome.
+   - Fusion: hydrogen sits inert. Gravitational pressure vs electromagnetic
+     repulsion (ΔC). Energy converts: mass → radiation. E = mc².
 
-   This is what a heat engine is. The differential IS the drive.
+   The corrected formulation:
+   - ENERGY is the background condition. Always present. Always conserving.
+   - ΔC is the GEOMETRY — the arrangement of incompatible states that
+     makes energy convert from one form to another.
+   - 𝔉 determines whether that conversion produces E* (productive
+     emergence) or dissipation (waste heat, destruction).
+   - T is the window in which the conversion can complete.
+   - E* is what productive conversion produces.
 
-   Gemini asked FT&E to solve a problem that physics itself hasn't
-   solved — where does energy come from? But FT&E's answer is that
-   the question is backwards. Energy doesn't come from somewhere else
-   and then power the processing of contradiction. Contradiction IS
-   energy in structural form. Every gradient, every tension, every
-   opposition between states — that IS the energy.
+   There is no missing $D$ term because the drive is not separate from
+   the system. The energy is everywhere. ΔC gives it direction. 𝔉 gives
+   it structure. T gives it duration. E* is the result.
 
-   The universe is not a machine that uses energy to process
-   contradictions. The universe IS contradictions processing
-   themselves. The drive was always the ΔC.
+   ChatGPT (separate session with discoverer) formulated: "Contradiction
+   between surfaces is what makes the conversion legible." This is
+   structurally accurate but arrived at by pattern-matching rather than
+   processing — which is itself an example of I17 (Surface Absorption).
+   Same sentence, different route. The route is T.
 
 ================================================================================
  SECTION 2: THE COSMOLOGICAL EXTENSION
