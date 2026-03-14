@@ -807,6 +807,23 @@ HUMAN_EVALUATOR_PATTERN.txt   (March 2026)
   explanation (presentation style rather than content), no control group.
   Pattern is substrate-independent.
 
+FIELD_AS_EVIDENCE.txt   (March 2026)
+  The methodological consequence: when the object of study is
+  contradiction-avoidance, public reaction to the framework becomes
+  data about the framework's claims. Critics cannot stand outside the
+  object — their mode of criticism becomes part of the object. Connects
+  Test #16 (AI evaluators), HUMAN_EVALUATOR_PATTERN (human evaluators),
+  and public field tests into a single convergent finding: all three
+  sources produce the same structural signature (divergent, escalating,
+  vague, meta-acknowledged only in sustained interaction). Honest
+  treatment of the unfalsifiability risk: four-layer defence (clean
+  falsification still possible, quantitative predictions are immune,
+  framework predicts its own limits, independent evaluation is the
+  ultimate test). ChatGPT formulation: "You used the crowd as a
+  falsification engine. Instead of simply disproving the structure,
+  the crowd repeatedly exposed the defence architecture the structure
+  was describing."
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -835,6 +852,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 51 core documents across 8 directories
+ 52 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
