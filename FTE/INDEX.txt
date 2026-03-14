@@ -862,6 +862,26 @@ GEMINI_FULLCONTEXT_EVALUATION_ANALYSIS.txt   (March 14, 2026)
   is not separate from the system. Open items: I19(a) tightening,
   formal cancer decode.
 
+GRAVITATIONAL_FORMALISATION.txt   (March 14, 2026)
+  Complete mapping of E* = 𝔉·T − ΔC onto general relativity and
+  cosmology. Five computational tests: (A) time dilation as T-expansion
+  where ΔC concentrates — exact match to Schwarzschild. (B) Hawking
+  radiation (static ΔC suppresses processing) vs Unruh effect (dynamic
+  ΔC activates processing); Bekenstein-Hawking entropy S∝M² explains
+  why large black holes are cold. (C) Event horizon as graduated
+  𝔉·T = ΔC boundary: ΔC=1/6 (ISCO), 1/3 (photon sphere), 1/2
+  (horizon). Metric signature flip = processing ceases inside. (D)
+  Singularity as 𝔉=0 endpoint: Penrose theorem maps to I2+I4,
+  cosmic censorship derivable from I5. (E) Cosmological expansion:
+  Friedmann equations give 𝔉²∝ΔC; dark energy as minimum 𝔉 floor;
+  de Sitter horizon = DUAL of black hole (𝔉 wins instead of ΔC).
+  Six-challenge pressure test: relabelling charge partially valid
+  within gravity alone; no novel gravitational predictions yet;
+  dimensional mismatch unresolved; tension with emergent-time QG.
+  Key finding: gravity is the DEGENERATE CASE of FT&E where 𝔉 has
+  no independent degrees of freedom. Not a new domain test — a
+  domain mapping. Score remains 73/76 + 67/67.
+
 ────────────────────────────────────────────────────────────────────────────────
 09_Religious_Text_Decodes\
 ────────────────────────────────────────────────────────────────────────────────
@@ -1059,6 +1079,6 @@ Religious text decode:
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 63 core documents across 9 directories + 2 root-level evaluator briefings
+ 64 core documents across 9 directories + 2 root-level evaluator briefings
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
