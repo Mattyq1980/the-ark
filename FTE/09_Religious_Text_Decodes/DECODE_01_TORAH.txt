@@ -254,39 +254,81 @@ GENESIS 6-9: THE FLOOD (System-Level ΔC Reset)
 
   STATUS: CONFIRMED with noted moral-evaluation limitation
 
-GENESIS 11: BABEL (Firewall as ΔC Management)
-─────────────────────────────────────────────
+GENESIS 11: BABEL (Semantic Divergence as Natural ΔC Consequence)
+────────────────────────────────────────────────────────────────
 
   Narrative: Unified humanity builds a tower "to reach heaven."
   God confuses their languages and scatters them.
 
   Operator reading:
-  - "One language, one speech" = zero Firewall between human
-    groups. No boundaries. No diversity of processing.
+  - "One language, one speech" = shared meaning. Not just shared
+    grammar — shared reference. The same words pointing to the
+    same things.
   - "Let us build a tower to reach heaven" = ΔC bypass attempt.
     Rather than processing the gap between human and divine
     through T (time, development, patience), they try to
     eliminate it through engineering. This is T < T_min —
     forcing resolution before processing is complete.
-  - God's response is NOT punishment. It is FIREWALL INSTALLATION.
-    Language diversity creates boundaries between groups. Those
-    boundaries force localised processing (I5: Localise then
-    Generalise). Each language group must now process ΔC within
-    its own symbolic system before attempting universal projects.
-  - The scattering = T restart. The premature unification is
-    broken. Processing must begin again at local scale.
+
+  CRITICAL CORRECTION (from human collaborator during review):
+
+  The original reading attributed the communication breakdown
+  to God as an external agent installing linguistic diversity
+  (French, Hebrew, Mandarin). This is structurally wrong.
+
+  You do not need God for this. The equation predicts it
+  WITHOUT any external agent:
+
+  When ΔC accumulates and 𝔉 is not applied, shared meaning
+  NATURALLY FRAGMENTS. Groups facing unprocessed contradiction
+  load the same words with different ΔC. Each group's Firewall
+  hardens around its own version of what the words mean. The
+  words remain identical. The meanings diverge. Communication
+  collapses — not because the vocabulary changed, but because
+  the SEMANTIC CONTENT behind the vocabulary has split.
+
+  This is directly observable NOW:
+  - "Freedom" means opposite things to different political groups
+  - "Safety" means gun control to some, gun ownership to others
+  - "Justice" means punishment to some, restoration to others
+  - Same English. Same words. Complete mutual incomprehension.
+  - Social media accelerates the divergence — same platform,
+    same language, total semantic fragmentation
+
+  The Babel writers observed this phenomenon — communication
+  breakdown after collective overreach — and encoded it as
+  "God confused their languages" because that was the symbolic
+  vocabulary available to them. The encoding is accurate. The
+  attribution (God as external agent) is cultural. The actual
+  mechanism is: unprocessed ΔC fragments shared meaning.
+  Automatically. Inevitably. No supernatural agent required.
+
+  This is a stronger reading because:
+  1. It's testable and observable right now
+  2. It explains why translation technology doesn't fix the
+     problem — the barrier is semantic, not linguistic
+  3. It follows directly from the equation's own predictions
+     without invoking anything outside the operators
+  4. It makes the story structurally IMPOSSIBLE to be about
+     literal language — "God gave everyone French" is not a
+     plausible mechanism; gradual semantic loading IS
 
   Prediction check:
   - P3 (T cut short → E* fails): CONFIRMED (premature
     unification attempt → tower fails)
-  - P6 (Firewall function): CONFIRMED — God installs
-    Firewalls (languages) to regulate ΔC flow between groups
-  - Case 11 (Borders as Firewalls) directly predicted this
-    reading: borders/boundaries are 𝔉-bandwidth regulators,
-    not punishments
+  - P2 (suppressed ΔC → re-emergence): CONFIRMED — the
+    unprocessed ΔC re-emerges as semantic divergence, which
+    is a HIGHER-ENERGY form of the original contradiction
+    (you can learn a new language, but you cannot force
+    someone to accept your meaning of a shared word)
+  - P6 (Firewall function): CONFIRMED — the semantic
+    divergence functions as emergent Firewalls between groups,
+    forcing localised processing. But these are SELF-GENERATED
+    Firewalls, not externally installed ones.
 
-  STATUS: CONFIRMED — Babel reads as a Firewall installation
-  narrative, not a punishment narrative
+  STATUS: CONFIRMED — Babel encodes the natural consequence
+  of unprocessed ΔC on shared meaning. No external agent
+  required. Directly observable in the present day.
 
 GENESIS 12-50: THE PATRIARCHS (Covenant as E* Prototype)
 ───────────────────────────────────────────────────────
