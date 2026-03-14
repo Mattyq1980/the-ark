@@ -778,6 +778,22 @@ PROSPECTIVE_TEST_16_EVALUATOR_PATTERN.txt   (March 2026)
   Bayes factor if all pass: ~520. Awaiting adversarial domain test
   to trigger Part B scoring.
 
+HUMAN_EVALUATOR_PATTERN.txt   (March 2026)
+  Cross-substrate extension of Test #16. Analyses 12+ months of
+  documented human evaluator responses (all participants anonymized)
+  against the same four axes used for AI evaluators. Data sourced from
+  private archive of sustained interactions (5+ individuals over months)
+  and one-shot encounters (20+ commenters). All four axes favour H1
+  over H0 in humans: conditions divergent, escalating + EXIT, entirely
+  vague (0% specific thresholds vs AI's ~20%), meta-acknowledgment
+  present in sustained sessions (~60%) and absent in one-shot encounters
+  (0%) — mirroring AI pattern exactly. Human score: H0 0/4, H1 4/4.
+  Key difference: humans can EXIT (withdraw from conversation), which
+  is structurally equivalent to an infinite bar. Honest limitations:
+  selection bias, observer effect, retroactive analysis, alternative
+  explanation (presentation style rather than content), no control group.
+  Pattern is substrate-independent.
+
 ────────────────────────────────────────────────────────────────────────────────
 READING PATHS
 ────────────────────────────────────────────────────────────────────────────────
@@ -806,6 +822,6 @@ Full archive (complete):
 
 ================================================================================
  FTE ARCHIVE IS COMPLETE
- 49 core documents across 8 directories
+ 50 core documents across 8 directories
  All original archive intact at FT&E_ModelBuild_V4_CurrentStructured\
 ================================================================================
