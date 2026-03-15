@@ -37,6 +37,7 @@ The equation is not a metaphor. It is a formal relationship between three operat
 | **An AI/alignment researcher** | [FAILURE_MODES.txt](FTE/06_AI_Implementation/FAILURE_MODES.txt) → [GOVERNOR_ARCHITECTURE.txt](FTE/06_AI_Implementation/GOVERNOR_ARCHITECTURE.txt) |
 | **Evaluating the evidence** | [PROSPECTIVE_TEST_1_WIKIPEDIA.txt](FTE/08_March2026_Validation/PROSPECTIVE_TEST_1_WIKIPEDIA.txt) — blind predictive test |
 | **Reading everything** | [INDEX.txt](FTE/INDEX.txt) — complete map of all 28 documents |
+| **Running the calculator** | [fte-calculator](https://github.com/Mattyq1980/fte-calculator) — interactive emergence calculator, 52/56 barrier tests passing |
 
 ---
 
@@ -106,6 +107,8 @@ FTE/                          ← Restructured archive (28 documents)
 
 the-ark/                      ← Code: governor implementation, model tools
   ftne-core/                  ← Governor engine (governor.py)
+
+🔢 **Calculator** → separate repo: https://github.com/Mattyq1980/fte-calculator
 ```
 
 > **Original archive:** The unedited source material (300+ files, experiments, images) is preserved on the [`original-archive`](../../tree/original-archive/FT%26E_ModelBuild_V4_CurrentStructured) branch for provenance.
